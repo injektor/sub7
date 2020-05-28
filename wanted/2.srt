@@ -1,0 +1,3702 @@
+1
+00:00:02,790 --> 00:00:04,790
+<font color="yellow"><i>[Wanted]</i></font>
+
+2
+00:00:05,550 --> 00:00:11,250
+<font color="yellow"><i>There's something that I wish
+to tell all of you today.</i></font>
+
+3
+00:00:11,250 --> 00:00:14,840
+<font color="yellow"><i>This movie will be my last,
+and I will be retiring.</i></font>
+
+4
+00:00:19,550 --> 00:00:23,250
+<font color="yellow"><i>Mommy, are you mad that I
+came here without telling you?</i></font>
+
+5
+00:00:23,250 --> 00:00:25,940
+<font color="yellow"><i>Is that why you said that
+you're not working anymore?</i></font>
+
+6
+00:00:25,940 --> 00:00:31,050
+<font color="yellow"><i>No. It's because I want
+to be with you every day.</i></font>
+
+7
+00:00:32,750 --> 00:00:33,950
+<font color="yellow"><i>Hi!</i></font>
+
+8
+00:00:33,950 --> 00:00:36,340
+<font color="yellow"><i>You said that you wanted to see
+how fake blood is made, right?</i></font>
+
+9
+00:00:36,340 --> 00:00:39,250
+<font color="yellow"><i>- Right now?
+- That's okay with you, right?</i></font>
+
+10
+00:00:39,250 --> 00:00:41,340
+<font color="yellow"><i>Please take good
+care of him.</i></font>
+
+11
+00:00:46,950 --> 00:00:51,640
+<font color="yellow"><i>Hyun Woo!
+Hyun Woo, let's go.</i></font>
+
+12
+00:00:51,640 --> 00:00:52,950
+<font color="yellow"><i>Hyun Woo isn't here?</i></font>
+
+13
+00:00:55,450 --> 00:00:57,640
+<font color="yellow"><i>Hyun Woo!</i></font>
+
+14
+00:00:58,340 --> 00:01:01,950
+<font color="yellow"><i>[IF YOU DON'T WANT YOUR CHILD
+TO GET HURT, WATCH THIS ALONE.]</i></font>
+
+15
+00:01:11,250 --> 00:01:13,050
+<font color="yellow"><i>Who are you?</i></font>
+
+16
+00:01:13,050 --> 00:01:15,640
+<font color="yellow"><i>[MAKE A REAL-TIME REALITY TV SHOW,
+WITH JUNG HYE IN AS THE LEAD.]</i></font>
+
+17
+00:01:15,640 --> 00:01:16,640
+<font color="yellow"><i>Stop!</i></font>
+
+18
+00:01:16,640 --> 00:01:18,550
+<font color="yellow"><i>[THERE WILL BE A MISSION SENT TO
+YOU AT 10 P.M. EVERY NIGHT]</i></font>
+
+19
+00:01:18,550 --> 00:01:19,550
+<font color="yellow"><i>[FOR A SHOW WITH 10 EPISODES.]</i></font>
+
+20
+00:01:19,550 --> 00:01:21,340
+<font color="yellow"><i>Wait!</i></font>
+
+21
+00:01:21,750 --> 00:01:24,340
+<font color="yellow"><i>[IF JUNG HYE IN COMPLETES THE
+MISSIONS WITHOUT A HITCH]</i></font>
+
+22
+00:01:24,340 --> 00:01:26,550
+<font color="yellow"><i>[SHE WILL BE SENT EVIDENCE
+SHOWING THAT HYUN WOO IS SAFE.]</i></font>
+
+23
+00:01:26,550 --> 00:01:28,050
+<font color="yellow"><i>[IF SHE MANAGES TO GET
+THROUGH ALL TEN EPISODES]</i></font>
+
+24
+00:01:28,050 --> 00:01:29,050
+<font color="yellow"><i>[HYUN WOO WILL BE
+SENT BACK TO HER SAFELY.]</i></font>
+
+25
+00:01:29,050 --> 00:01:32,340
+<font color="yellow"><i>Mommy!
+Mommy!</i></font>
+
+26
+00:01:49,450 --> 00:01:51,140
+<font color="yellow"><i>Hye In.</i></font>
+
+27
+00:01:52,240 --> 00:01:54,140
+<font color="yellow"><i>You have to report
+this to the police.</i></font>
+
+28
+00:01:54,140 --> 00:01:56,950
+<font color="yellow"><i>I can't. They're watching
+my every move.</i></font>
+
+29
+00:01:56,950 --> 00:02:00,450
+<font color="yellow"><i>There's only one person
+who could do this, but...</i></font>
+
+30
+00:02:00,450 --> 00:02:04,050
+<font color="yellow"><i>This is what happened to Hyun Woo.
+Then, they sent me this.</i></font>
+
+31
+00:02:04,050 --> 00:02:05,200
+<font color="yellow"><i>You should've reported
+this to the police.</i></font>
+
+32
+00:02:05,200 --> 00:02:06,350
+<font color="yellow"><i>Why are you bringing this to me?</i></font>
+
+33
+00:02:06,350 --> 00:02:08,740
+<font color="yellow"><i>Only you can do this,
+Dong Wook.</i></font>
+
+34
+00:02:08,740 --> 00:02:10,640
+<font color="yellow"><i>Find someone else.</i></font>
+
+35
+00:02:13,640 --> 00:02:16,240
+<font color="yellow"><i>Please, save
+my Hyun Woo!</i></font>
+
+36
+00:02:16,950 --> 00:02:18,950
+<font color="yellow"><i>The only network that we
+can work with is UCN.</i></font>
+
+37
+00:02:18,950 --> 00:02:21,350
+<font color="yellow"><i>Tell me why I should spend
+any money on this show.</i></font>
+
+38
+00:02:21,350 --> 00:02:23,740
+<font color="yellow"><i>The fact that you're Hyun Woo's father
+isn't a good enough reason?</i></font>
+
+39
+00:02:23,740 --> 00:02:25,740
+<font color="yellow"><i>This program will
+definitely make you money.</i></font>
+
+40
+00:02:25,740 --> 00:02:27,640
+<font color="yellow"><i>I'm sure that the viewers will wonder
+whether or not we can find the child</i></font>
+
+41
+00:02:27,640 --> 00:02:29,550
+<font color="yellow"><i>and about what the next
+mission may be about.</i></font>
+
+42
+00:02:29,550 --> 00:02:31,640
+<font color="yellow"><i>I'm sure that the ratings
+will only get higher and higher.</i></font>
+
+43
+00:02:31,640 --> 00:02:33,950
+<font color="yellow"><i>I'm sure you can take care of a lot of
+UCN's money problems with this...</i></font>
+
+44
+00:02:33,950 --> 00:02:36,240
+<font color="yellow"><i>Okay. We'll start airing it on Saturday,
+and it'll be on at 10 p.m. every week.</i></font>
+
+45
+00:02:36,240 --> 00:02:37,640
+<font color="yellow"><i>I'll give you a time slot
+as a special program.</i></font>
+
+46
+00:02:46,450 --> 00:02:47,890
+<font color="yellow"><i>What?</i></font>
+
+47
+00:02:47,890 --> 00:02:49,350
+<font color="yellow"><i>Okay.</i></font>
+
+48
+00:03:02,450 --> 00:03:07,850
+<font color="yellow">Ms. Hye In, you suddenly announced
+your retirement not too long ago.</font>
+
+49
+00:03:07,850 --> 00:03:10,240
+<font color="yellow">So what brings you
+on the show today?</font>
+
+50
+00:03:10,240 --> 00:03:13,140
+<font color="yellow">I heard that this program
+had the best ratings.</font>
+
+51
+00:03:13,640 --> 00:03:18,550
+<font color="yellow">I guess you weren't really retiring.
+You were just switching to variety shows!</font>
+
+52
+00:03:22,350 --> 00:03:26,140
+<font color="yellow">Ms. Jung Hye In?
+Ms. Jung Hye In?</font>
+
+53
+00:03:29,550 --> 00:03:32,050
+<font color="yellow">To be honest...</font>
+
+54
+00:03:35,350 --> 00:03:39,140
+<font color="yellow">I came here because there
+was something I wanted to say</font>
+
+55
+00:03:39,140 --> 00:03:43,450
+<font color="yellow">to everyone about the day
+I announced my retirement.</font>
+
+56
+00:03:53,240 --> 00:03:54,940
+<font color="yellow">On that day...</font>
+
+57
+00:04:02,350 --> 00:04:07,650
+<font color="yellow">my son, Hyun Woo,
+was kidnapped.</font>
+
+58
+00:04:12,440 --> 00:04:14,940
+<font color="yellow">Right now, a team of content creators
+are working their hardest</font>
+
+59
+00:04:14,940 --> 00:04:17,940
+<font color="yellow">on a program focused on
+finding Hyun Woo again.</font>
+
+60
+00:04:17,940 --> 00:04:21,240
+<font color="yellow">I just hope that my
+Hyun Woo is safe.</font>
+
+61
+00:04:21,240 --> 00:04:26,650
+<font color="yellow">The first episode will air on
+UCN on Saturday, at 10 p.m.</font>
+
+62
+00:04:28,350 --> 00:04:32,350
+<font color="yellow">If she keeps talking, it may become an
+issue so try and make the viewers cry!</font>
+
+63
+00:04:32,350 --> 00:04:34,150
+<font color="yellow">Use the story about the kid
+to make people get emotional!</font>
+
+64
+00:04:34,150 --> 00:04:37,350
+<font color="yellow">If all of you who are watching
+this could forgive me</font>
+
+65
+00:04:37,350 --> 00:04:40,150
+<font color="yellow">and sympathize with a mother
+who wishes to find her child</font>
+
+66
+00:04:40,150 --> 00:04:43,600
+<font color="yellow">please, help me!</font>
+
+67
+00:04:43,600 --> 00:04:47,050
+<font color="yellow">I'm begging you!</font>
+
+68
+00:04:49,150 --> 00:04:53,940
+<font color="yellow">Please watch the show,
+and help us find Hyun Woo.</font>
+
+69
+00:04:53,940 --> 00:04:55,550
+<font color="yellow">Did you know
+about this, PD?</font>
+
+70
+00:04:55,550 --> 00:04:57,350
+<font color="yellow">No. Not at all.</font>
+
+71
+00:04:57,540 --> 00:05:01,150
+<font color="yellow">Why didn't I think of that?
+That's amazing.</font>
+
+72
+00:05:01,150 --> 00:05:03,050
+<font color="yellow">It definitely makes an
+impact, for sure.</font>
+
+73
+00:05:03,050 --> 00:05:04,440
+<font color="yellow">Look.</font>
+
+74
+00:05:05,650 --> 00:05:07,150
+<font color="yellow"><i>[TRENDING: 1. JANG HYE IN
+2. KISS AND TALK JANG HYE IN]</i></font>
+
+75
+00:05:07,150 --> 00:05:09,850
+<font color="yellow">She's all over the
+top searches on the web.</font>
+
+76
+00:05:32,650 --> 00:05:35,550
+<font color="yellow">Oh my gosh!
+What do we do?</font>
+
+77
+00:05:35,550 --> 00:05:37,740
+<font color="yellow">Even when she's like this,
+it all seems like an act.</font>
+
+78
+00:05:37,740 --> 00:05:40,740
+<font color="yellow">She doesn't have 20 years of
+experience in the industry for nothing.</font>
+
+79
+00:05:40,740 --> 00:05:42,650
+<font color="yellow">She sure is incredible.</font>
+
+80
+00:05:43,940 --> 00:05:46,190
+<font color="yellow">That's how you get people
+emotionally invested</font>
+
+81
+00:05:46,190 --> 00:05:48,440
+<font color="yellow">so they'll watch the show</font>
+
+82
+00:05:48,440 --> 00:05:50,240
+<font color="yellow">and have it get
+more popular.</font>
+
+83
+00:05:54,050 --> 00:05:55,240
+<font color="yellow">Where are you going?</font>
+
+84
+00:05:55,240 --> 00:05:57,050
+<font color="yellow">I have to record some
+footage for the show</font>
+
+85
+00:05:57,050 --> 00:05:58,850
+<font color="yellow">and check on some things.</font>
+
+86
+00:05:58,850 --> 00:06:00,650
+<font color="yellow">Bo Yeon, you work with Director Choi and
+monitor the online comments about this.</font>
+
+87
+00:06:00,650 --> 00:06:02,940
+<font color="yellow">Check how many people have checked
+our program's homepage.</font>
+
+88
+00:06:02,940 --> 00:06:05,650
+<font color="yellow">And change the copy, Director,
+so it's more dramatic.</font>
+
+89
+00:06:05,650 --> 00:06:08,550
+<font color="yellow">- Update the site as soon as it's ready.
+- Yes, sir.</font>
+
+90
+00:06:17,650 --> 00:06:20,440
+<font color="yellow">What's this?</font>
+
+91
+00:06:20,440 --> 00:06:25,940
+<font color="yellow">It's been a while since I've seen you,
+so I didn't want to come empty-handed.</font>
+
+92
+00:06:27,440 --> 00:06:30,150
+<font color="yellow">No. What's more embarrassing
+would be me leaving with a gift</font>
+
+93
+00:06:30,240 --> 00:06:35,550
+<font color="yellow">after having dined with you for the
+first time in a while, as Commissioner.</font>
+
+94
+00:06:36,050 --> 00:06:39,350
+<font color="yellow">- I knew you'd react that way.
+- So why did you bring it, then?</font>
+
+95
+00:06:40,740 --> 00:06:44,550
+<font color="yellow">I think it's about time you've
+started preparing yourself</font>
+
+96
+00:06:44,550 --> 00:06:49,650
+<font color="yellow">to retire from being a Commissioner,
+and become an Assemblyman.</font>
+
+97
+00:07:03,650 --> 00:07:05,940
+<font color="yellow">What are you
+trying to pull, here?</font>
+
+98
+00:07:05,940 --> 00:07:08,150
+<font color="yellow">Do you want me to cut
+ties with you forever?</font>
+
+99
+00:07:09,350 --> 00:07:12,740
+<font color="yellow">Make me a tiny little template.</font>
+
+100
+00:07:12,740 --> 00:07:19,440
+<font color="yellow">Divide this among some people who
+you trust and tell them to deposit it.</font>
+
+101
+00:07:19,940 --> 00:07:23,150
+<font color="yellow">I'll give you even more
+money after that.</font>
+
+102
+00:07:23,150 --> 00:07:26,350
+<font color="yellow">This is something that you must do if you
+are going to go and do great things.</font>
+
+103
+00:07:30,150 --> 00:07:33,550
+<font color="yellow">Don't just take any old offer
+that's shoved into your face</font>
+
+104
+00:07:34,150 --> 00:07:38,350
+<font color="yellow">and accept mine,
+which you know is trustworthy.</font>
+
+105
+00:07:44,350 --> 00:07:45,850
+<font color="yellow">Yes.</font>
+
+106
+00:07:49,850 --> 00:07:53,440
+<font color="yellow">All right.
+I'll call you again.</font>
+
+107
+00:07:56,350 --> 00:07:59,150
+<font color="yellow">Was this because of the issue
+regarding your son?</font>
+
+108
+00:07:59,150 --> 00:08:01,750
+<font color="yellow">It's just that my plans
+have been pulled forward a bit.</font>
+
+109
+00:08:01,750 --> 00:08:04,150
+<font color="yellow">This is something that I've been
+preparing before that happened.</font>
+
+110
+00:08:07,550 --> 00:08:09,340
+<font color="yellow">What do you need?</font>
+
+111
+00:08:09,340 --> 00:08:11,650
+<font color="yellow">Just 10 days.</font>
+
+112
+00:08:11,650 --> 00:08:13,940
+<font color="yellow">Make sure that the program
+won't be negatively affected</font>
+
+113
+00:08:13,940 --> 00:08:17,940
+<font color="yellow">due to an investigation or
+something, for ten days.</font>
+
+114
+00:08:41,440 --> 00:08:46,250
+<font color="yellow">Oh, Writer Yeon!
+What brings you here?</font>
+
+115
+00:08:46,250 --> 00:08:48,000
+<font color="yellow">You must be happy, PD Jo.</font>
+
+116
+00:08:48,000 --> 00:08:49,750
+<font color="yellow">Your ratings were
+already great, but, wow.</font>
+
+117
+00:08:49,750 --> 00:08:51,050
+<font color="yellow">How do you feel now,
+now that they've skyrocketed?</font>
+
+118
+00:08:51,050 --> 00:08:52,440
+<font color="yellow">What are you
+talking about?</font>
+
+119
+00:08:52,440 --> 00:08:54,940
+<font color="yellow">How could this possibly be a good thing?
+A child was kidnapped!</font>
+
+120
+00:08:54,940 --> 00:08:58,550
+<font color="yellow">What are you talking about?
+When Ms. Hye In collapsed... wow.</font>
+
+121
+00:08:58,550 --> 00:09:00,050
+<font color="yellow">Wow, you did a great job
+evoking emotion.</font>
+
+122
+00:09:00,050 --> 00:09:01,150
+<font color="yellow">Seeing that, I...</font>
+
+123
+00:09:01,150 --> 00:09:04,300
+<font color="yellow">But seriously, what's going on?</font>
+
+124
+00:09:04,300 --> 00:09:07,440
+<font color="yellow">Is this why you suddenly quit?
+For that show?</font>
+
+125
+00:09:07,940 --> 00:09:09,800
+<font color="yellow">You should've told me sooner!</font>
+
+126
+00:09:09,800 --> 00:09:11,650
+<font color="yellow">Then we would've
+canceled Mr. Kim's appearance</font>
+
+127
+00:09:11,650 --> 00:09:14,150
+<font color="yellow">and would've made an episode
+focusing solely on Jung Hye In!</font>
+
+128
+00:09:14,150 --> 00:09:17,340
+<font color="yellow">She went and did that on her own.
+We didn't even knew she'd be doing that.</font>
+
+129
+00:09:17,340 --> 00:09:20,340
+<font color="yellow">How could such a spectacle happen
+if everything had been pre-planned?</font>
+
+130
+00:09:20,340 --> 00:09:23,750
+<font color="yellow">But, um, is this
+really happening?</font>
+
+131
+00:09:24,940 --> 00:09:27,150
+<font color="yellow">Poor Jung Hye In.</font>
+
+132
+00:09:27,150 --> 00:09:29,340
+<font color="yellow">Did anything strange come up</font>
+
+133
+00:09:29,340 --> 00:09:32,840
+<font color="yellow">or did a strange person
+come by after the show?</font>
+
+134
+00:09:32,840 --> 00:09:34,550
+<font color="yellow">No.</font>
+
+135
+00:09:35,150 --> 00:09:40,750
+<font color="yellow">The criminal may contact you guys,
+so please keep an ear to the ground.</font>
+
+136
+00:09:40,750 --> 00:09:42,340
+<font color="yellow">Don't try to profit off
+this as an exclusive</font>
+
+137
+00:09:42,340 --> 00:09:43,940
+<font color="yellow">and let us know right away!</font>
+
+138
+00:09:43,940 --> 00:09:47,750
+<font color="yellow">Why would they contact us here?
+Wouldn't they just contact Ms. Jung?</font>
+
+139
+00:09:47,750 --> 00:09:50,440
+<font color="yellow">And also, it's not like
+that's up to me, you know.</font>
+
+140
+00:09:50,440 --> 00:09:54,340
+<font color="yellow">If the higher-ups tell me to reveal it,
+I'll have no choice but to do it!</font>
+
+141
+00:09:54,340 --> 00:09:58,440
+<font color="yellow">You've already got yourself a cash cow,
+so don't toy with a child's life, too.</font>
+
+142
+00:09:58,940 --> 00:10:03,440
+<font color="yellow">- I'll be going, then.
+- Why, that little...</font>
+
+143
+00:10:23,440 --> 00:10:25,650
+<font color="yellow">Stop doing that.</font>
+
+144
+00:10:28,050 --> 00:10:30,340
+<font color="yellow">There are reporters outside.</font>
+
+145
+00:10:32,940 --> 00:10:38,150
+<font color="yellow">It wasn't bad. And it's not like I don't
+understand how you must feel.</font>
+
+146
+00:10:39,750 --> 00:10:46,550
+<font color="yellow">But, you know, something about
+this puts me in a bad mood.</font>
+
+147
+00:10:51,940 --> 00:10:55,840
+<font color="yellow">I don't want to put an end to everything
+just because you did as you pleased.</font>
+
+148
+00:10:55,840 --> 00:10:58,000
+<font color="yellow">Did you speak to them?</font>
+
+149
+00:10:58,000 --> 00:11:00,150
+<font color="yellow">I'm sure you didn't have
+the time to do that yet.</font>
+
+150
+00:11:00,150 --> 00:11:02,250
+<font color="yellow">All you needed to do is
+make a single phone call.</font>
+
+151
+00:11:02,250 --> 00:11:04,250
+<font color="yellow">At the very least, we need to
+be filled in on what's going on.</font>
+
+152
+00:11:04,250 --> 00:11:06,150
+<font color="yellow">And what if you told me
+that I couldn't do it?</font>
+
+153
+00:11:06,150 --> 00:11:08,150
+<font color="yellow">Then, you shouldn't
+have done it.</font>
+
+154
+00:11:08,150 --> 00:11:10,750
+<font color="yellow">This is a program that I'm
+risking my reputation on.</font>
+
+155
+00:11:10,750 --> 00:11:13,150
+<font color="yellow">You can't make any huge
+decisions without my approval.</font>
+
+156
+00:11:13,940 --> 00:11:17,550
+<font color="yellow">If something like this
+happens again, I'm out.</font>
+
+157
+00:11:19,050 --> 00:11:21,650
+<font color="yellow">Let me ask you
+just one thing.</font>
+
+158
+00:11:22,650 --> 00:11:28,250
+<font color="yellow">Do you have any intention of wanting
+to find Hyun Woo through this show?</font>
+
+159
+00:11:28,250 --> 00:11:30,340
+<font color="yellow">Of course we must find him.
+And he must be safe.</font>
+
+160
+00:11:31,940 --> 00:11:34,750
+<font color="yellow">That's the only way this will
+all end with a happy ending.</font>
+
+161
+00:11:34,750 --> 00:11:37,840
+<font color="yellow">That way, we can justify the premise
+of the show, and it'll also become a hit.</font>
+
+162
+00:11:48,150 --> 00:11:50,840
+<font color="yellow">Why are you even curious about
+how I feel toward all this?</font>
+
+163
+00:11:50,840 --> 00:11:53,750
+<font color="yellow">All you have to do is
+find Hyun Woo, anyway.</font>
+
+164
+00:11:57,750 --> 00:12:03,440
+<font color="yellow">You're right.
+That's true.</font>
+
+165
+00:12:11,750 --> 00:12:14,750
+<font color="yellow">- It's Ms. Jung Hye In!
+- She's out!</font>
+
+166
+00:12:42,650 --> 00:12:46,440
+<font color="yellow">Take on the Jung Hye In case.</font>
+
+167
+00:12:46,440 --> 00:12:48,840
+<font color="yellow">And pass the Lee Ji Eun
+incident over to Officer Shin.</font>
+
+168
+00:12:49,750 --> 00:12:51,340
+<font color="yellow">I don't want to.</font>
+
+169
+00:12:52,340 --> 00:12:56,650
+<font color="yellow">Can't you be good just once
+and just do as I say?</font>
+
+170
+00:12:56,650 --> 00:12:58,340
+<font color="yellow">Why do I have to do that?</font>
+
+171
+00:12:58,340 --> 00:12:59,840
+<font color="yellow">Because you're
+freakishly talented</font>
+
+172
+00:12:59,840 --> 00:13:02,050
+<font color="yellow">when it comes to kidnapping
+and missing persons cases!</font>
+
+173
+00:13:02,050 --> 00:13:04,250
+<font color="yellow">And you have the highest
+recovery rate of victims, too!</font>
+
+174
+00:13:04,250 --> 00:13:06,250
+<font color="yellow">Lee Ji Eun is also a
+victim of kidnapping.</font>
+
+175
+00:13:06,250 --> 00:13:08,650
+<font color="yellow">But the circumstances
+are different, man!</font>
+
+176
+00:13:08,650 --> 00:13:13,150
+<font color="yellow">This is a case that was pretty much
+announced to the entire country!</font>
+
+177
+00:13:13,150 --> 00:13:15,150
+<font color="yellow">So I'm sure that they'll
+find the kid even faster.</font>
+
+178
+00:13:15,150 --> 00:13:16,650
+<font color="yellow">And since it's an incident
+involving an influential figure</font>
+
+179
+00:13:16,650 --> 00:13:17,940
+<font color="yellow">the higher-ups will
+do all they can, too.</font>
+
+180
+00:13:17,940 --> 00:13:19,840
+<font color="yellow">Use a unit of 10 or
+20 people to find the kid.</font>
+
+181
+00:13:19,840 --> 00:13:24,250
+<font color="yellow">Just ignore the fact that I
+exist until I find Lee Ji Eun.</font>
+
+182
+00:13:24,250 --> 00:13:30,940
+<font color="yellow">Wow, look at Mr. Hotshot over here,
+picking and choosing what he takes on.</font>
+
+183
+00:13:30,940 --> 00:13:33,440
+<font color="yellow">Is that why your
+record is so good?</font>
+
+184
+00:13:34,340 --> 00:13:37,840
+<font color="yellow">Find someone else for this case.
+I don't want to work with him, either.</font>
+
+185
+00:13:40,250 --> 00:13:44,340
+<font color="yellow">Seeing how things have gotten this bad,
+it's clear that I'm completely unskilled.</font>
+
+186
+00:13:44,340 --> 00:13:45,340
+<font color="yellow">Go, you sons of bitches!</font>
+
+187
+00:13:45,340 --> 00:13:49,050
+<font color="yellow">Do whatever the hell you want, and
+don't even bother reporting back to me!</font>
+
+188
+00:13:49,050 --> 00:13:50,840
+<font color="yellow">Assholes.</font>
+
+189
+00:13:53,050 --> 00:13:55,340
+<font color="yellow">I'll go and wash up.</font>
+
+190
+00:14:00,150 --> 00:14:06,840
+<font color="yellow">Anyone who was watching Kiss and Talk,
+a live talk show, must've been shocked.</font>
+
+191
+00:14:06,840 --> 00:14:10,550
+<font color="yellow">Actress Jung Hye In went on
+the show as a surprise guest.</font>
+
+192
+00:14:10,550 --> 00:14:15,940
+<font color="yellow">However, she made the shocking
+announcement that her son was kidnapped</font>
+
+193
+00:14:15,940 --> 00:14:17,840
+<font color="yellow">while live on the air, and has sent
+shock waves throughout the nation.</font>
+
+194
+00:14:17,840 --> 00:14:21,940
+<font color="yellow">Ms. Jung stated the criminal ordered
+her to create a live reality TV show</font>
+
+195
+00:14:21,940 --> 00:14:25,750
+<font color="yellow">in which she completes missions
+sent to her by the captor.</font>
+
+196
+00:14:25,750 --> 00:14:32,050
+<font color="yellow">Currently, the police is conducting a
+press conference regarding this case.</font>
+
+197
+00:14:32,050 --> 00:14:33,650
+<font color="yellow">Let's head over there now.</font>
+
+198
+00:14:33,650 --> 00:14:39,150
+<font color="yellow">Regarding "Wanted," the show that will
+be airing on UCN on Saturday at 10 p.m.</font>
+
+199
+00:14:39,150 --> 00:14:41,750
+<font color="yellow">It is one way that we will be conducting
+investigations regarding this case.</font>
+
+200
+00:14:41,750 --> 00:14:44,190
+<font color="yellow">We wish for the safe return
+of Song Hyun Woo</font>
+
+201
+00:14:44,190 --> 00:14:46,650
+<font color="yellow">as much as his mother does</font>
+
+202
+00:14:46,650 --> 00:14:49,150
+<font color="yellow">and we have been forced
+to make this decision.</font>
+
+203
+00:14:49,150 --> 00:14:53,150
+<font color="yellow">We will be making thorough preparations,
+and treat this matter seriously.</font>
+
+204
+00:14:53,150 --> 00:15:00,050
+<font color="yellow">We will also be working with the TV
+team to do our best to find the child.</font>
+
+205
+00:15:08,050 --> 00:15:11,550
+<font color="yellow">I can only give you two weeks.
+Find the kid before then.</font>
+
+206
+00:15:11,550 --> 00:15:14,750
+<font color="yellow">If this drags on any longer,
+we're all dead. Got that?</font>
+
+207
+00:15:14,750 --> 00:15:20,150
+<font color="yellow">Yes, I understand,
+sir. Yes.</font>
+
+208
+00:15:20,150 --> 00:15:23,840
+<font color="yellow">Easier said than done,
+man! Sheesh.</font>
+
+209
+00:15:23,840 --> 00:15:29,440
+<font color="yellow">We've already lost three days.
+Get your heads on straight.</font>
+
+210
+00:15:29,440 --> 00:15:31,250
+<font color="yellow">If you don't want to
+be working 24/7</font>
+
+211
+00:15:31,250 --> 00:15:34,550
+<font color="yellow">make sure you monitor all other media
+outlets other than the show itself.</font>
+
+212
+00:15:34,550 --> 00:15:37,750
+<font color="yellow">Don't you dare sleep until we find
+the kid, and eat while you're working!</font>
+
+213
+00:15:37,750 --> 00:15:40,150
+<font color="yellow">- Got that? Hurry and go!
+- Yes, sir!</font>
+
+214
+00:15:48,650 --> 00:15:51,340
+<font color="yellow">There hasn't been any
+word from the criminals.</font>
+
+215
+00:15:51,340 --> 00:15:53,750
+<font color="yellow">I thought we were supposed
+to air the show tonight.</font>
+
+216
+00:15:55,650 --> 00:16:00,050
+<font color="yellow">That's why you should have just
+reported this when it first happened!</font>
+
+217
+00:16:00,050 --> 00:16:02,750
+<font color="yellow">There's so much time you've lost by
+fooling around and trusting the criminal!</font>
+
+218
+00:16:02,840 --> 00:16:06,650
+<font color="yellow">Sir, sir, sir! What good would
+speculating about that do?</font>
+
+219
+00:16:06,650 --> 00:16:09,340
+<font color="yellow">Three days is long enough
+for a child to have already died!</font>
+
+220
+00:16:13,340 --> 00:16:17,150
+<font color="yellow">Nothing good will come of
+playing along with these mind games.</font>
+
+221
+00:16:23,340 --> 00:16:25,750
+<font color="yellow"><i>Mommy!</i></font>
+
+222
+00:16:27,440 --> 00:16:32,340
+<font color="yellow">Do all victims always come back alive
+because the crime is reported to cops?</font>
+
+223
+00:16:35,340 --> 00:16:41,550
+<font color="yellow">- Do you have a child, Officer?
+- I have a daughter.</font>
+
+224
+00:16:42,640 --> 00:16:46,550
+<font color="yellow">How do you think you would've
+reacted if you were in my shoes?</font>
+
+225
+00:16:49,750 --> 00:16:55,750
+<font color="yellow">Well, um, yes. What's most important
+right now is actually finding the child.</font>
+
+226
+00:16:55,750 --> 00:16:59,340
+<font color="yellow">Let's not cry over spilled
+milk here, and...</font>
+
+227
+00:17:01,450 --> 00:17:05,840
+<font color="yellow">Is there anyone who would've had
+any malicious intent toward you two?</font>
+
+228
+00:17:06,750 --> 00:17:09,750
+<font color="yellow">No. I can't think of
+anyone like that.</font>
+
+229
+00:17:09,750 --> 00:17:11,640
+<font color="yellow">There's nobody that you've gotten
+especially close to recently</font>
+
+230
+00:17:11,640 --> 00:17:14,640
+<font color="yellow">or had a falling-out with due
+to work, all of the sudden?</font>
+
+231
+00:17:14,640 --> 00:17:16,140
+<font color="yellow">No, there isn't.</font>
+
+232
+00:17:17,140 --> 00:17:21,140
+<font color="yellow">There are some employees
+who are suing his company.</font>
+
+233
+00:17:21,140 --> 00:17:23,050
+<font color="yellow">And those employees are
+having their wages held, too.</font>
+
+234
+00:17:23,050 --> 00:17:25,550
+<font color="yellow">No, that's nothing major.</font>
+
+235
+00:17:25,550 --> 00:17:28,750
+<font color="yellow">All she's ever done is act,
+so she knows nothing about business</font>
+
+236
+00:17:28,750 --> 00:17:30,050
+<font color="yellow">and she's making a
+big deal over nothing.</font>
+
+237
+00:17:30,050 --> 00:17:31,750
+<font color="yellow">We'll be the judge of that.</font>
+
+238
+00:17:31,750 --> 00:17:35,750
+<font color="yellow">If you've gotten any threats,
+please let us know about them.</font>
+
+239
+00:17:35,750 --> 00:17:38,250
+<font color="yellow">Even if it's nothing major,
+you must tell us about it in detail.</font>
+
+240
+00:17:38,250 --> 00:17:41,550
+<font color="yellow">No, there haven't been
+any instances like that.</font>
+
+241
+00:17:41,550 --> 00:17:44,250
+<font color="yellow">I'll take care of this, so you
+head in and get some rest.</font>
+
+242
+00:17:44,250 --> 00:17:46,450
+<font color="yellow">You're quite sensitive right now.</font>
+
+243
+00:17:48,340 --> 00:17:53,550
+<font color="yellow">It's been all right for the past month
+or so, but I have stalkers.</font>
+
+244
+00:17:54,050 --> 00:17:58,640
+<font color="yellow">There have also been times
+where I've sued people for libel online.</font>
+
+245
+00:18:00,750 --> 00:18:04,750
+<font color="yellow">And there have been instances when this
+man had been seeing some other women.</font>
+
+246
+00:18:04,750 --> 00:18:08,750
+<font color="yellow">I don't think their relationships
+lasted very long, but you never know.</font>
+
+247
+00:18:08,750 --> 00:18:12,340
+<font color="yellow">Oh. How about we talk over there?</font>
+
+248
+00:18:12,340 --> 00:18:15,140
+<font color="yellow">Don't worry.
+We respect your privacy.</font>
+
+249
+00:18:15,140 --> 00:18:19,750
+<font color="yellow">We will ensure that details regarding the
+case will not be leaked to the press.</font>
+
+250
+00:18:19,750 --> 00:18:23,140
+<font color="yellow">It's not like it'll be that big
+of a deal even if it is leaked.</font>
+
+251
+00:18:23,140 --> 00:18:27,140
+<font color="yellow">I've been with her for a while,
+so you know how it can be.</font>
+
+252
+00:18:27,140 --> 00:18:30,450
+<font color="yellow">The longer you stay with each other,
+the larger your doubts grow.</font>
+
+253
+00:18:31,250 --> 00:18:35,450
+<font color="yellow">At any rate, I'll tell you
+everything. Let us go.</font>
+
+254
+00:18:47,750 --> 00:18:49,140
+<font color="yellow">Are you out of your damn mind?</font>
+
+255
+00:18:49,140 --> 00:18:51,550
+<font color="yellow">Do you think I could honestly
+be sane right now?</font>
+
+256
+00:18:51,550 --> 00:18:53,950
+<font color="yellow">Do you think that the
+company will be okay</font>
+
+257
+00:18:53,950 --> 00:18:57,450
+<font color="yellow">after the police question the
+people suing the company?</font>
+
+258
+00:18:57,450 --> 00:18:59,140
+<font color="yellow">I have no interest in your life.</font>
+
+259
+00:18:59,140 --> 00:19:02,450
+<font color="yellow">If you want to find Hyun Woo,
+it'd be best if you were.</font>
+
+260
+00:19:04,640 --> 00:19:08,050
+<font color="yellow">If you'd just told me from the beginning,
+things wouldn't have become like this.</font>
+
+261
+00:19:08,050 --> 00:19:10,840
+<font color="yellow">I have quite a bit of
+influence, you see.</font>
+
+262
+00:19:12,450 --> 00:19:14,140
+<font color="yellow">Then do what you can now</font>
+
+263
+00:19:14,140 --> 00:19:15,840
+<font color="yellow">even though you're a bit
+late to the game.</font>
+
+264
+00:19:15,840 --> 00:19:19,750
+<font color="yellow">No matter what anyone says, you've lived
+as Hyun Woo's father for seven years.</font>
+
+265
+00:19:30,340 --> 00:19:32,450
+<font color="yellow">I'm back!</font>
+
+266
+00:19:38,750 --> 00:19:44,450
+<font color="yellow">- Jang Jin Woong!
+- Yes?</font>
+
+267
+00:19:44,450 --> 00:19:45,950
+<font color="yellow">Get over here.</font>
+
+268
+00:19:48,640 --> 00:19:51,750
+<font color="yellow">Damn it, why is she
+targeting me?</font>
+
+269
+00:19:59,640 --> 00:20:05,640
+<font color="yellow">- Why are you lounging around here?
+- Well, this is where I work.</font>
+
+270
+00:20:05,640 --> 00:20:06,640
+<font color="yellow">Where else should I be?</font>
+
+271
+00:20:07,050 --> 00:20:09,450
+<font color="yellow">Don't you know that we have an
+urgent situation on our hands?</font>
+
+272
+00:20:09,450 --> 00:20:11,750
+<font color="yellow">Also, you're the one in
+charge of Jung Hye In!</font>
+
+273
+00:20:11,750 --> 00:20:13,950
+<font color="yellow">Shouldn't we leave kidnapping incidents
+to be handled by the public?</font>
+
+274
+00:20:13,950 --> 00:20:15,340
+<font color="yellow">Why should the entertainment
+section cover that?</font>
+
+275
+00:20:15,340 --> 00:20:19,550
+<font color="yellow">A top star's child has been abducted!
+It's obviously a total exclusive!</font>
+
+276
+00:20:20,140 --> 00:20:23,000
+<font color="yellow">And you weren't at the meeting yesterday.</font>
+
+277
+00:20:23,000 --> 00:20:25,840
+<font color="yellow">Why are you so carefree lately?</font>
+
+278
+00:20:25,840 --> 00:20:27,250
+<font color="yellow">It's not like it was about
+anything important.</font>
+
+279
+00:20:27,250 --> 00:20:30,050
+<font color="yellow">Get your head in the game,
+Jang Jin Woong!</font>
+
+280
+00:20:30,050 --> 00:20:32,250
+<font color="yellow">Don't you hear the sound of
+everyone scrambling around?</font>
+
+281
+00:20:32,250 --> 00:20:35,550
+<font color="yellow">Everyone's desperate to get their
+hands on any juicy information!</font>
+
+282
+00:20:35,550 --> 00:20:37,750
+<font color="yellow">Great, then we'll just do
+what we always do.</font>
+
+283
+00:20:37,750 --> 00:20:39,340
+<font color="yellow">After another outlet works their
+butt off to get an article out</font>
+
+284
+00:20:39,340 --> 00:20:42,950
+<font color="yellow">we can gauge people's reactions,
+and rewrite the article for our site!</font>
+
+285
+00:20:42,950 --> 00:20:47,140
+<font color="yellow">Hey... get the hell out, right now.</font>
+
+286
+00:20:47,140 --> 00:20:55,140
+<font color="yellow">Do whatever it takes to get an in with
+UCN or Jang Hye In, and get an exclusive!</font>
+
+287
+00:20:55,140 --> 00:20:58,550
+<font color="yellow">Go find out what Jang Hye In
+is eating in this time of distress</font>
+
+288
+00:20:58,550 --> 00:21:01,340
+<font color="yellow">by digging in her trash bin or something,
+you piece of human trash!</font>
+
+289
+00:21:01,340 --> 00:21:03,840
+<font color="yellow">Wow, you'll shatter
+the lens at that rate.</font>
+
+290
+00:21:03,840 --> 00:21:05,950
+<font color="yellow">How is it that your voice
+only gets louder and louder?</font>
+
+291
+00:21:05,950 --> 00:21:08,640
+<font color="yellow">You lazy bastard!</font>
+
+292
+00:21:16,750 --> 00:21:25,340
+<font color="yellow">Dig through her trash, eh?
+How could she tell me to do that?</font>
+
+293
+00:21:28,950 --> 00:21:34,140
+<font color="yellow">I did think that you were
+quite extraordinary</font>
+
+294
+00:21:34,140 --> 00:21:38,450
+<font color="yellow">I'm not just extraordinary.
+I'm revolutionary.</font>
+
+295
+00:21:38,450 --> 00:21:40,450
+<font color="yellow">Someone who deserves to
+be written about in history books.</font>
+
+296
+00:21:40,450 --> 00:21:46,250
+<font color="yellow">Everyone and their dog has an
+opinion about the ongoing case</font>
+
+297
+00:21:46,250 --> 00:21:50,840
+<font color="yellow">but it's different when an extremely
+detailed account of the case is released.</font>
+
+298
+00:21:50,840 --> 00:21:55,340
+<font color="yellow">When everything is said and done
+and I release this book</font>
+
+299
+00:21:55,340 --> 00:21:57,840
+<font color="yellow">it'll totally be a hit!</font>
+
+300
+00:21:57,840 --> 00:22:01,140
+<font color="yellow">Have you really finished talking
+things over with Ms. Jung's people?</font>
+
+301
+00:22:01,140 --> 00:22:03,340
+<font color="yellow">I'm telling you, yes!</font>
+
+302
+00:22:03,340 --> 00:22:05,750
+<font color="yellow">I've been working as a celebrity
+reporter for ten years now.</font>
+
+303
+00:22:05,750 --> 00:22:09,750
+<font color="yellow">You don't just write things
+based off internet comments</font>
+
+304
+00:22:09,750 --> 00:22:10,750
+<font color="yellow">or just based on gut feeling!</font>
+
+305
+00:22:10,750 --> 00:22:11,750
+<font color="yellow">That's just not right!</font>
+
+306
+00:22:11,750 --> 00:22:14,250
+<font color="yellow">There aren't many hardworking
+reporters like us anymore!</font>
+
+307
+00:22:14,250 --> 00:22:16,950
+<font color="yellow">And there are even fewer people
+who are as great as I am.</font>
+
+308
+00:22:16,950 --> 00:22:20,140
+<font color="yellow">Jung Hye In and
+Song Jung Ho are no problem!</font>
+
+309
+00:22:20,140 --> 00:22:22,750
+<font color="yellow">Do you know how many
+scandals I've uncovered?</font>
+
+310
+00:22:22,750 --> 00:22:26,840
+<font color="yellow">Well, then, I'll read it over
+and give you a call.</font>
+
+311
+00:22:28,250 --> 00:22:32,340
+<font color="yellow">I'm allowing you to be the first one
+to read it, so to reject this is...</font>
+
+312
+00:22:32,340 --> 00:22:36,840
+<font color="yellow">This is something that needs
+careful consideration.</font>
+
+313
+00:22:36,840 --> 00:22:38,840
+<font color="yellow">Well, fine, then.</font>
+
+314
+00:22:38,840 --> 00:22:41,950
+<font color="yellow">It's not a bad idea for me
+to weigh my options later</font>
+
+315
+00:22:41,950 --> 00:22:45,750
+<font color="yellow">after I'm done polishing
+up this work, after all.</font>
+
+316
+00:22:51,640 --> 00:22:55,790
+<font color="yellow">Geez, that annoying
+fly-like bastard.</font>
+
+317
+00:22:56,950 --> 00:22:59,340
+<font color="yellow"><i>[WITNESS AFFIDAVIT]</i></font>
+
+318
+00:22:59,340 --> 00:23:05,450
+<font color="yellow">That night, I went to a dinner with
+the movie crew, and drank quite a lot.</font>
+
+319
+00:23:05,450 --> 00:23:11,250
+<font color="yellow">I checked into a nearby motel, and
+I woke up around 12 p.m. the next day.</font>
+
+320
+00:23:12,450 --> 00:23:14,950
+<font color="yellow">So why didn't you go
+straight home that day?</font>
+
+321
+00:23:16,750 --> 00:23:20,340
+<font color="yellow">As soon as I woke up, I felt so
+apologetic toward Hye In and called her</font>
+
+322
+00:23:20,340 --> 00:23:22,340
+<font color="yellow">and she didn't pick up the
+first couple of times I called her.</font>
+
+323
+00:23:22,340 --> 00:23:25,140
+<font color="yellow">Then, I got a single text.</font>
+
+324
+00:23:26,950 --> 00:23:30,450
+<font color="yellow">It said, "go rest at your parents'
+house for a couple of days."</font>
+
+325
+00:23:30,450 --> 00:23:32,840
+<font color="yellow">I thought that there may have
+been some issues between</font>
+
+326
+00:23:32,840 --> 00:23:35,550
+<font color="yellow">her and her husband because of
+her retirement announcement.</font>
+
+327
+00:23:36,340 --> 00:23:39,550
+<font color="yellow">And you've been with your
+parents since then, huh?</font>
+
+328
+00:23:39,550 --> 00:23:40,840
+<font color="yellow">Yes.</font>
+
+329
+00:23:48,750 --> 00:23:51,250
+<font color="yellow">Um, we're finished here, then, right?</font>
+
+330
+00:23:51,250 --> 00:23:53,750
+<font color="yellow">Today's the premiere of the show,
+so I need to be by Hye In's side.</font>
+
+331
+00:23:53,750 --> 00:23:56,640
+<font color="yellow">If you want to prove what you just
+said is true, you need to stay here.</font>
+
+332
+00:24:01,140 --> 00:24:04,450
+<font color="yellow">We found a hidden camera
+inside Ms. Hye In's car.</font>
+
+333
+00:24:04,450 --> 00:24:07,250
+<font color="yellow">You're the one who takes
+care of her car, correct?</font>
+
+334
+00:24:09,450 --> 00:24:12,550
+<font color="yellow"><i>[MAKING A LIVE TV SHOW OUT OF A CRIME?]
+[WE WILL NOT WATCH UCN'S SHOWS]</i></font>
+
+335
+00:24:12,550 --> 00:24:15,450
+<font color="yellow">Stop making excuses,
+and pay us!</font>
+
+336
+00:24:15,450 --> 00:24:19,450
+<font color="yellow">- Pay us!
+- Pay us!</font>
+
+337
+00:24:19,450 --> 00:24:22,050
+<font color="yellow"><i>The criminal requested that
+a reality TV show be made.</i></font>
+
+338
+00:24:22,050 --> 00:24:24,050
+<font color="yellow">This is certainly a first.</font>
+
+339
+00:24:24,050 --> 00:24:26,640
+<font color="yellow"><i>Could this show really help
+the investigation?</i></font>
+
+340
+00:24:26,640 --> 00:24:29,340
+<font color="yellow"><i>- What do you think?
+- Well...</i></font>
+
+341
+00:24:29,340 --> 00:24:33,140
+<font color="yellow"><i>It seems to me that the criminal has a
+strong desire to make himself known.</i></font>
+
+342
+00:24:33,140 --> 00:24:35,140
+<font color="yellow"><i>Above all else,
+they seek attention.</i></font>
+
+343
+00:24:35,140 --> 00:24:40,050
+<font color="yellow"><i>It is a dangerous situation, but it may
+be good to listen to their demands</i></font>
+
+344
+00:24:40,050 --> 00:24:42,550
+<font color="yellow"><i>and buy some time.
+Hyun Woo is...</i></font>
+
+345
+00:24:42,550 --> 00:24:45,640
+<font color="yellow">It's dangerous to listen to
+a criminal's demands.</font>
+
+346
+00:24:45,640 --> 00:24:49,450
+<font color="yellow">There is a possibility that there may
+be others who try to copy this criminal.</font>
+
+347
+00:24:49,450 --> 00:24:53,340
+<font color="yellow">We cannot trust a criminal,
+no matter the circumstances.</font>
+
+348
+00:24:53,340 --> 00:24:57,550
+<font color="yellow"><i>Could the show really help
+with the investigation, or not?</i></font>
+
+349
+00:24:57,550 --> 00:25:01,450
+<font color="yellow"><i>We're out here in Yeouido
+to gauge the public opinion.</i></font>
+
+350
+00:25:01,450 --> 00:25:03,550
+<font color="yellow"><i>It definitely pains me to see this.</i></font>
+
+351
+00:25:03,550 --> 00:25:05,640
+<font color="yellow"><i>And as a mother,
+I know how she must feel.</i></font>
+
+352
+00:25:05,640 --> 00:25:09,750
+<font color="yellow"><i>I am a bit excited to see a live TV
+show that is trying to catch a criminal.</i></font>
+
+353
+00:25:09,750 --> 00:25:14,140
+<font color="yellow"><i>I also want to watch the show and
+potentially help with the case.</i></font>
+
+354
+00:25:14,140 --> 00:25:16,450
+<font color="yellow"><i>I do worry that someone else
+may try to emulate this criminal</i></font>
+
+355
+00:25:16,450 --> 00:25:22,640
+<font color="yellow"><i>or that someone else may
+try to do this again, for fame.</i></font>
+
+356
+00:25:22,640 --> 00:25:24,250
+<font color="yellow"><i>I cried while I was watching
+Kiss and Talk yesterday.</i></font>
+
+357
+00:25:24,250 --> 00:25:27,950
+<font color="yellow"><i>And Hyun Woo is such a handsome child,
+which makes it even sadder.</i></font>
+
+358
+00:25:27,950 --> 00:25:31,140
+<font color="yellow"><i>I'll definitely be
+watching the show.</i></font>
+
+359
+00:25:32,250 --> 00:25:34,640
+<font color="yellow"><i>[1. THE FIRST EPISODE WILL AIR TWO
+DAYS FROM TODAY, ON SATURDAY.]</i></font>
+
+360
+00:25:34,640 --> 00:25:36,950
+<font color="yellow"><i>[4. IF THE VIEWERSHIP RATING FALLS BELOW
+20 PERCENT, HYUN WOO WILL GET HURT.]</i></font>
+
+361
+00:25:40,050 --> 00:25:43,840
+<font color="yellow"><i>[- THE CRIMINAL SUCKS]
+[- HOW COULD YOU MAKE A SHOW LIKE THIS?]</i></font>
+
+362
+00:25:50,140 --> 00:25:53,950
+<font color="yellow">The show is supposed to air tonight,
+but there's no mission.</font>
+
+363
+00:25:53,950 --> 00:25:57,140
+<font color="yellow">Maybe the criminal never intended
+to go through with a TV show.</font>
+
+364
+00:25:57,140 --> 00:26:00,340
+<font color="yellow">Maybe they changed their plans
+because something happened...</font>
+
+365
+00:26:00,340 --> 00:26:03,140
+<font color="yellow">No, seeing as how they
+requested the show be live</font>
+
+366
+00:26:03,140 --> 00:26:05,050
+<font color="yellow">they're trying to give us very little
+time to make sound judgments</font>
+
+367
+00:26:05,050 --> 00:26:08,140
+<font color="yellow">and may be trying to fulfill
+another objective by doing so.</font>
+
+368
+00:26:08,140 --> 00:26:10,640
+<font color="yellow">We just have to wait and see.</font>
+
+369
+00:26:10,640 --> 00:26:12,140
+<font color="yellow">Let's try and make a plan
+beforehand, too.</font>
+
+370
+00:26:12,140 --> 00:26:15,840
+<font color="yellow">We have to give the viewers an impression
+that we're working to help the case.</font>
+
+371
+00:26:16,450 --> 00:26:18,750
+<font color="yellow">What if that makes
+the criminal angry?</font>
+
+372
+00:26:18,750 --> 00:26:20,140
+<font color="yellow">That's not that bad, either.</font>
+
+373
+00:26:20,140 --> 00:26:21,450
+<font color="yellow">If they act irrationally
+based on their emotions</font>
+
+374
+00:26:21,450 --> 00:26:23,250
+<font color="yellow">they may do something to
+expose themselves.</font>
+
+375
+00:26:23,250 --> 00:26:25,640
+<font color="yellow">Hyun Woo is with them, though!
+We can't put him in danger!</font>
+
+376
+00:26:25,640 --> 00:26:29,250
+<font color="yellow">No, doing that isn't going against
+what the criminal told us to do, per se.</font>
+
+377
+00:26:29,250 --> 00:26:31,640
+<font color="yellow">The mission, the ratings,
+and you being the star...</font>
+
+378
+00:26:31,640 --> 00:26:34,140
+<font color="yellow">we just have to meet
+those conditions.</font>
+
+379
+00:26:35,050 --> 00:26:36,950
+<font color="yellow">Delivery!</font>
+
+380
+00:26:36,950 --> 00:26:39,250
+<font color="yellow">Let's eat first.</font>
+
+381
+00:26:49,750 --> 00:26:53,250
+<font color="yellow">Hye In. Let's eat, okay?</font>
+
+382
+00:26:58,750 --> 00:27:01,640
+<font color="yellow">Eat, and regain some
+of your strength.</font>
+
+383
+00:27:39,750 --> 00:27:43,640
+<font color="yellow">- Hye In!
+- If you don't want to eat, don't.</font>
+
+384
+00:27:43,640 --> 00:27:46,840
+<font color="yellow">Don't eat, or sleep,
+or anything else.</font>
+
+385
+00:27:46,840 --> 00:27:50,450
+<font color="yellow">I'm sure that the criminal will see that
+and return Hyun Woo, for sure.</font>
+
+386
+00:28:08,450 --> 00:28:11,750
+<font color="yellow">I can quit working on this
+at any time, you know.</font>
+
+387
+00:28:11,750 --> 00:28:14,450
+<font color="yellow">If you're not in the state
+to be working with me</font>
+
+388
+00:28:14,450 --> 00:28:17,840
+<font color="yellow">I have no intention of
+bending over backwards for you.</font>
+
+389
+00:28:18,340 --> 00:28:21,050
+<font color="yellow">Just clench your teeth and bear it.</font>
+
+390
+00:28:21,050 --> 00:28:23,550
+<font color="yellow">Get a good night's rest, and eat up.</font>
+
+391
+00:28:23,550 --> 00:28:26,140
+<font color="yellow">Keep yourself in
+tip-top shape.</font>
+
+392
+00:28:59,550 --> 00:29:04,550
+<font color="yellow">Sir, do you really not have any
+interest in the Jung Hye In case?</font>
+
+393
+00:29:04,550 --> 00:29:05,950
+<font color="yellow">Yeah.</font>
+
+394
+00:29:07,140 --> 00:29:13,550
+<font color="yellow">I thought about it, and I think
+all of this has been orchestrated.</font>
+
+395
+00:29:13,550 --> 00:29:14,750
+<font color="yellow">Why?</font>
+
+396
+00:29:15,340 --> 00:29:18,640
+<font color="yellow">Jung Hye In's husband is the
+president of the network.</font>
+
+397
+00:29:18,640 --> 00:29:21,140
+<font color="yellow">They said before that they were going
+to make a reality TV show with her.</font>
+
+398
+00:29:21,140 --> 00:29:23,750
+<font color="yellow">But then, she suddenly
+announced her retirement</font>
+
+399
+00:29:23,750 --> 00:29:26,950
+<font color="yellow">and her child just so happened
+to be there that day.</font>
+
+400
+00:29:26,950 --> 00:29:29,250
+<font color="yellow">And that's where her
+child was kidnapped.</font>
+
+401
+00:29:29,250 --> 00:29:31,750
+<font color="yellow">- Seeing that...
+- Stop watching dramas.</font>
+
+402
+00:29:32,950 --> 00:29:36,340
+<font color="yellow">- Where are you going?
+- Aren't you going to work?</font>
+
+403
+00:29:44,250 --> 00:29:46,450
+<font color="yellow">Wait for me, sir!</font>
+
+404
+00:29:52,950 --> 00:29:54,140
+<font color="yellow"><i>[MEMBERS BANNED FROM COCONUT TV]</i></font>
+
+405
+00:29:56,640 --> 00:29:58,840
+<font color="yellow">I saw this video, too,
+but I'm telling you.</font>
+
+406
+00:29:58,840 --> 00:30:01,550
+<font color="yellow">This wasn't a kidnapping.
+This was just an act.</font>
+
+407
+00:30:01,550 --> 00:30:04,640
+<font color="yellow">Seriously, isn't she a bit of a
+psycho for agreeing to do this?</font>
+
+408
+00:30:04,640 --> 00:30:06,450
+<font color="yellow">So you're saying that you received
+an offer to do something like that</font>
+
+409
+00:30:06,450 --> 00:30:08,450
+<font color="yellow">a month ago,
+from Orson Welles?</font>
+
+410
+00:30:08,450 --> 00:30:12,750
+<font color="yellow">Yes. All the people who broadcast
+on this channel know about him.</font>
+
+411
+00:30:12,750 --> 00:30:15,840
+<font color="yellow">He's generous, and gives one
+or two thousand star balloons to people.</font>
+
+412
+00:30:15,840 --> 00:30:20,140
+<font color="yellow">But if he feels like you remember him,
+he gets all clingy and weird.</font>
+
+413
+00:30:20,140 --> 00:30:21,950
+<font color="yellow">And he emails creepy videos.</font>
+
+414
+00:30:21,950 --> 00:30:25,750
+<font color="yellow">- Did you meet him in person to talk?
+- Yes.</font>
+
+415
+00:30:30,640 --> 00:30:33,140
+<font color="yellow">Is it this person,
+by any chance?</font>
+
+416
+00:30:37,250 --> 00:30:41,140
+<font color="yellow">Oh... oh, yes! Yes!
+Yes, it's him!</font>
+
+417
+00:30:41,140 --> 00:30:43,050
+<font color="yellow">He kept sending me
+creepy videos and photos</font>
+
+418
+00:30:43,050 --> 00:30:45,750
+<font color="yellow">so I told him I'd report him to the
+police, then he told me he loved me</font>
+
+419
+00:30:45,750 --> 00:30:48,140
+<font color="yellow">and even came to
+my front door!</font>
+
+420
+00:30:48,640 --> 00:30:50,640
+<font color="yellow">So why didn't you report him?</font>
+
+421
+00:30:50,640 --> 00:30:53,450
+<font color="yellow">Don't be like that. It's a
+hassle to report people to the police.</font>
+
+422
+00:30:53,450 --> 00:30:57,250
+<font color="yellow">And most people back off once
+you threaten to report them.</font>
+
+423
+00:30:57,250 --> 00:31:00,750
+<font color="yellow">I ran into him while I was
+out with my boyfriend</font>
+
+424
+00:31:00,750 --> 00:31:03,840
+<font color="yellow">and he told me that he had a
+business plan, or something.</font>
+
+425
+00:31:03,840 --> 00:31:06,950
+<font color="yellow">- It was kind of weird.
+- A business plan?</font>
+
+426
+00:31:06,950 --> 00:31:09,840
+<font color="yellow">You know, kidnapping people
+while they're broadcasting.</font>
+
+427
+00:31:09,840 --> 00:31:11,950
+<font color="yellow">He kept telling me that it would totally
+blow up if he did something like that</font>
+
+428
+00:31:11,950 --> 00:31:14,250
+<font color="yellow">and that he had a plan.</font>
+
+429
+00:31:14,250 --> 00:31:16,250
+<font color="yellow">But I had no idea what
+he was talking about.</font>
+
+430
+00:31:16,250 --> 00:31:20,340
+<font color="yellow">He got all worked up by himself.
+Obviously, he was a psycho.</font>
+
+431
+00:31:20,340 --> 00:31:22,950
+<font color="yellow">- Anyway, can I head back in now?
+- Oh, yes.</font>
+
+432
+00:31:22,950 --> 00:31:25,450
+<font color="yellow">If you remember
+anything else, call me.</font>
+
+433
+00:31:25,450 --> 00:31:28,140
+<font color="yellow">- Thank you!
+- Thank you!</font>
+
+434
+00:31:41,820 --> 00:31:43,720
+<font color="yellow">Thank you.</font>
+
+435
+00:31:46,720 --> 00:31:49,120
+<font color="yellow">This is Cha Seung In of the
+Gangnam Police Department.</font>
+
+436
+00:31:49,120 --> 00:31:53,420
+<font color="yellow">Oh, you confirmed it?
+Yeah.</font>
+
+437
+00:31:54,420 --> 00:31:57,520
+<font color="yellow">Send the details to me over email.
+I'll confirm it on the way there.</font>
+
+438
+00:31:59,220 --> 00:32:01,320
+<font color="yellow">Turn the car around.</font>
+
+439
+00:32:02,020 --> 00:32:03,720
+<font color="yellow">- Is it correct?
+- We'll know when we get there.</font>
+
+440
+00:32:03,720 --> 00:32:07,020
+<font color="yellow">They've been in twice, but were
+released due to lack of evidence.</font>
+
+441
+00:32:07,020 --> 00:32:08,520
+<font color="yellow">Go to Yeonnamdong.</font>
+
+442
+00:32:08,520 --> 00:32:11,020
+<font color="yellow">- Shouldn't we report this...
+- We have to find the kid!</font>
+
+443
+00:32:11,020 --> 00:32:12,620
+<font color="yellow">We have no time!</font>
+
+444
+00:32:12,620 --> 00:32:15,520
+<font color="yellow">Let's arrest him first and
+worry about a warrant later.</font>
+
+445
+00:32:16,020 --> 00:32:17,220
+<font color="yellow">Yes, sir.</font>
+
+446
+00:32:26,220 --> 00:32:28,020
+<font color="yellow">Yes?</font>
+
+447
+00:32:28,720 --> 00:32:31,320
+<font color="yellow">This came for you.</font>
+
+448
+00:32:33,420 --> 00:32:35,220
+<font color="yellow"><i>[TO THE "WANTED" TEAM]</i></font>
+
+449
+00:32:36,720 --> 00:32:37,990
+<font color="yellow">Who dropped this off?</font>
+
+450
+00:32:37,990 --> 00:32:41,020
+<font color="yellow">A guy from a delivery service
+we work with frequently.</font>
+
+451
+00:32:41,520 --> 00:32:43,220
+<font color="yellow">Where's the person
+who brought this here?</font>
+
+452
+00:32:43,220 --> 00:32:44,520
+<font color="yellow">Over there.</font>
+
+453
+00:32:50,120 --> 00:32:53,520
+<font color="yellow">- Wait!
+- What are you doing?</font>
+
+454
+00:32:54,020 --> 00:32:56,720
+<font color="yellow">- Wait!
+- Stop it!</font>
+
+455
+00:33:01,720 --> 00:33:03,420
+<font color="yellow">- Who the hell are you?
+- What are you doing?</font>
+
+456
+00:33:03,420 --> 00:33:05,920
+<font color="yellow">You have something on you,
+don't you? Get the hell off!</font>
+
+457
+00:33:09,820 --> 00:33:13,020
+<font color="yellow">No! No!</font>
+
+458
+00:34:06,520 --> 00:34:08,120
+<font color="yellow"><i>[FIRST MISSION: I WONDER WHAT'S
+INSIDE THE TRUNK OF THIS CAR?]</i></font>
+
+459
+00:34:08,120 --> 00:34:09,320
+<font color="yellow"><i>[PLEASE SHOW IT TO THE
+WORLD ON THE SHOW.]</i></font>
+
+460
+00:34:16,820 --> 00:34:18,720
+<font color="yellow">Spill it, punk!</font>
+
+461
+00:34:18,720 --> 00:34:20,070
+<font color="yellow">They told me they'd
+give me 1 million won</font>
+
+462
+00:34:20,070 --> 00:34:21,420
+<font color="yellow">so I just did this errand for them.</font>
+
+463
+00:34:21,420 --> 00:34:23,620
+<font color="yellow">And I gave that girl
+a ride last time, too.</font>
+
+464
+00:34:23,620 --> 00:34:26,220
+<font color="yellow">I really didn't know
+what was going on, either!</font>
+
+465
+00:34:26,220 --> 00:34:28,820
+<font color="yellow">I saw the news this morning, and debated
+whether or not I should say something.</font>
+
+466
+00:34:28,820 --> 00:34:32,420
+<font color="yellow">But I was scared that something would
+happen to me if I didn't do this!</font>
+
+467
+00:34:33,220 --> 00:34:38,720
+<font color="yellow">- I was scared.
+- Who ordered you to do this?</font>
+
+468
+00:34:39,220 --> 00:34:42,820
+<font color="yellow">His name is Park Sae Yong.
+I went to high school with them.</font>
+
+469
+00:34:42,820 --> 00:34:46,020
+<font color="yellow">They told me to take my license
+plate off when running errands.</font>
+
+470
+00:34:46,520 --> 00:34:49,420
+<font color="yellow">What about that girl
+from last time?</font>
+
+471
+00:34:49,420 --> 00:34:51,620
+<font color="yellow">Where did you
+drop her off?</font>
+
+472
+00:34:52,120 --> 00:34:56,920
+<font color="yellow">Yeonnamdong. Someone came to
+pick her up at the subway station.</font>
+
+473
+00:34:56,920 --> 00:34:59,120
+<font color="yellow">You have to be completely
+honest with us.</font>
+
+474
+00:34:59,120 --> 00:35:01,120
+<font color="yellow">If you don't, you'll be
+tried as an accomplice.</font>
+
+475
+00:35:01,120 --> 00:35:02,320
+<font color="yellow">An accomplice?</font>
+
+476
+00:35:03,220 --> 00:35:07,920
+<font color="yellow">All I did was deliver this!
+I didn't even know what I was doing!</font>
+
+477
+00:35:09,420 --> 00:35:14,620
+<font color="yellow">What did that person tell you?</font>
+
+478
+00:35:15,420 --> 00:35:19,520
+<font color="yellow">That I couldn't tell anyone
+what I was doing.</font>
+
+479
+00:35:20,020 --> 00:35:22,920
+<font color="yellow">And that, if I did,
+they'd kill everyone.</font>
+
+480
+00:35:24,420 --> 00:35:27,120
+<font color="yellow">That bastard was a total psychopath
+when we went to school together, too.</font>
+
+481
+00:35:27,120 --> 00:35:28,670
+<font color="yellow">If he finds out that
+I told you guys all this</font>
+
+482
+00:35:28,670 --> 00:35:30,220
+<font color="yellow">I don't know what'll happen to me!</font>
+
+483
+00:35:30,220 --> 00:35:33,220
+<font color="yellow">He knows where I live,
+and what my family look like!</font>
+
+484
+00:36:04,120 --> 00:36:06,320
+<font color="yellow">I have a package for you!</font>
+
+485
+00:36:10,820 --> 00:36:13,920
+<font color="yellow">Mr. Park Sae Yong!
+I have a package for you!</font>
+
+486
+00:36:18,420 --> 00:36:21,720
+<font color="yellow">Ma'am! Hurry!</font>
+
+487
+00:36:28,720 --> 00:36:32,220
+<font color="yellow">- Is Mr. Park Sae Yong here?
+- No.</font>
+
+488
+00:36:32,220 --> 00:36:34,220
+<font color="yellow">Just give it to me, please.</font>
+
+489
+00:36:34,220 --> 00:36:36,920
+<font color="yellow">I can't. I was told that I had
+to deliver it to him directly.</font>
+
+490
+00:36:38,720 --> 00:36:41,420
+<font color="yellow">- He's not home?
+- No, he's not!</font>
+
+491
+00:36:41,420 --> 00:36:45,020
+<font color="yellow">Why are you acting like this?
+I'll call the police!</font>
+
+492
+00:36:46,020 --> 00:36:49,620
+<font color="yellow">We are the police.
+May we come in for a bit?</font>
+
+493
+00:36:49,620 --> 00:36:53,720
+<font color="yellow">You've come to the wrong place.
+That person doesn't live here!</font>
+
+494
+00:36:53,720 --> 00:36:55,720
+<font color="yellow">We're not going to take him away.</font>
+
+495
+00:36:55,720 --> 00:36:57,720
+<font color="yellow">We just need to ask
+a couple of questions.</font>
+
+496
+00:36:57,720 --> 00:37:00,320
+<font color="yellow">I told you, that person
+doesn't live here!</font>
+
+497
+00:37:19,820 --> 00:37:23,020
+<font color="yellow">- Sae Yong! No! You can't!
+- Hold her back!</font>
+
+498
+00:37:23,020 --> 00:37:25,820
+<font color="yellow">- Sae Yong!
+- Open the door!</font>
+
+499
+00:37:25,820 --> 00:37:28,320
+<font color="yellow">- No!
+- Please, ma'am!</font>
+
+500
+00:37:35,420 --> 00:37:37,720
+<font color="yellow">Hey, untie him!</font>
+
+501
+00:37:38,220 --> 00:37:39,620
+<font color="yellow">Sir!</font>
+
+502
+00:37:43,220 --> 00:37:45,020
+<font color="yellow">Hold him!</font>
+
+503
+00:37:48,720 --> 00:37:51,520
+<font color="yellow">- Call an ambulance, and the precinct.
+- Yes, sir.</font>
+
+504
+00:37:51,520 --> 00:37:54,120
+<font color="yellow">Park Sae Yong.
+Park Sae Yong!</font>
+
+505
+00:37:54,720 --> 00:37:58,220
+<font color="yellow">Yes, hello. We have someone who
+attempted to commit suicide here!</font>
+
+506
+00:37:58,220 --> 00:37:59,920
+<font color="yellow">The address is...</font>
+
+507
+00:38:00,420 --> 00:38:03,620
+<font color="yellow">- Yeonnamdong, 2-
+- Sae Yong!</font>
+
+508
+00:38:03,620 --> 00:38:07,720
+<font color="yellow">- Ma'am! Please!
+- Sae Yong! Sae Yong!</font>
+
+509
+00:38:13,420 --> 00:38:15,720
+<font color="yellow">Ma'am!
+Ma'am!</font>
+
+510
+00:38:56,020 --> 00:38:58,720
+<font color="yellow">Sir, shouldn't we
+secure the premises?</font>
+
+511
+00:38:58,720 --> 00:39:00,420
+<font color="yellow">Lee Ji Eun isn't here.</font>
+
+512
+00:39:00,420 --> 00:39:01,920
+<font color="yellow">Seeing as he tried to commit suicide,
+he may have already killed...</font>
+
+513
+00:39:01,920 --> 00:39:03,920
+<font color="yellow">Then go find the damn
+corpse, bastard!</font>
+
+514
+00:39:16,420 --> 00:39:19,020
+<font color="yellow"><i>["THIS IS ALL YOUR FAULT."]</i></font>
+
+515
+00:39:20,620 --> 00:39:23,220
+<font color="yellow"><i>["THIS IS ALL YOUR FAULT."]</i></font>
+
+516
+00:39:32,120 --> 00:39:35,420
+<font color="yellow">We don't have much time left.
+First, send the photos to the police.</font>
+
+517
+00:39:35,420 --> 00:39:37,620
+<font color="yellow">I'm sure they'll be able
+to find it quickly.</font>
+
+518
+00:39:37,620 --> 00:39:40,720
+<font color="yellow">Let's send the photos
+to the breaking news team.</font>
+
+519
+00:39:40,720 --> 00:39:43,620
+<font color="yellow">We can use our network's
+news channel, but not others'.</font>
+
+520
+00:39:43,620 --> 00:39:46,320
+<font color="yellow">This is ultimately a personal
+matter, after all.</font>
+
+521
+00:39:46,320 --> 00:39:49,520
+<font color="yellow">It may be faster to do it
+over social media.</font>
+
+522
+00:39:49,520 --> 00:39:51,020
+<font color="yellow">We can use Facebook,
+Twitter, and Instagram.</font>
+
+523
+00:39:51,020 --> 00:39:52,020
+<font color="yellow">I've made accounts for
+our show on all of those.</font>
+
+524
+00:39:52,020 --> 00:39:55,820
+<font color="yellow">Really? Then, I'll go and
+meet with the police.</font>
+
+525
+00:39:55,820 --> 00:39:57,920
+<font color="yellow">It's crucial that we help them
+with their investigation.</font>
+
+526
+00:40:08,720 --> 00:40:13,720
+<font color="yellow">Hye In. I got a call
+from the police.</font>
+
+527
+00:40:13,720 --> 00:40:16,020
+<font color="yellow">You dropped your
+phone before, so...</font>
+
+528
+00:40:18,520 --> 00:40:20,730
+<font color="yellow">Yes, this is Jung Hye In.</font>
+
+529
+00:40:20,730 --> 00:40:23,020
+<font color="yellow">I'm Cha Seung In from the
+Gangnam Police Department.</font>
+
+530
+00:40:23,020 --> 00:40:26,620
+<font color="yellow">Have you ever gotten threatened
+or harassed by someone lately?</font>
+
+531
+00:40:26,620 --> 00:40:29,420
+<font color="yellow">Or, do you have someone who's
+been stalking you for a long time?</font>
+
+532
+00:40:29,920 --> 00:40:32,020
+<font color="yellow">Yes, there are a couple of them.</font>
+
+533
+00:40:32,020 --> 00:40:35,020
+<font color="yellow">I'll send you a photo, so can
+you tell me if they look familiar?</font>
+
+534
+00:40:45,020 --> 00:40:46,420
+<font color="yellow"><i>Hi!</i></font>
+
+535
+00:40:46,420 --> 00:40:49,320
+<font color="yellow"><i>You said you wanted to see
+how fake blood is made, right?</i></font>
+
+536
+00:40:49,320 --> 00:40:51,520
+<font color="yellow"><i>Please take good care of him.</i></font>
+
+537
+00:41:03,520 --> 00:41:05,170
+<font color="yellow">I'd like it if you could
+come to the scene</font>
+
+538
+00:41:05,170 --> 00:41:06,820
+<font color="yellow">and confirm a few things for us.</font>
+
+539
+00:41:08,820 --> 00:41:13,120
+<font color="yellow">Hye In. Where are you going?
+I'll drive you there.</font>
+
+540
+00:41:15,320 --> 00:41:17,410
+<font color="yellow">You should've stayed with him.</font>
+
+541
+00:41:18,770 --> 00:41:22,220
+<font color="yellow">You should've been with him!</font>
+
+542
+00:41:22,220 --> 00:41:26,220
+<font color="yellow">- What?
+- You should've stayed with Hyun Woo!</font>
+
+543
+00:41:26,220 --> 00:41:29,020
+<font color="yellow">The person who took Hyun Woo
+apparently committed suicide!</font>
+
+544
+00:41:29,520 --> 00:41:35,620
+<font color="yellow">If something happened to Hyun Woo,
+I'll never forgive you.</font>
+
+545
+00:41:41,720 --> 00:41:45,120
+<font color="yellow">So you're basically asking the police
+to help clean up after your mess?</font>
+
+546
+00:41:45,120 --> 00:41:47,220
+<font color="yellow">Is that what you're
+saying right now?</font>
+
+547
+00:41:47,220 --> 00:41:52,020
+<font color="yellow">But even so, it's great that you kept
+the motorcyclist from leaving, yes.</font>
+
+548
+00:41:52,020 --> 00:41:57,220
+<font color="yellow">Well, from now on, please call us
+if anything like this happens again!</font>
+
+549
+00:41:57,220 --> 00:41:59,320
+<font color="yellow">Kidnappings are like
+a race against time!</font>
+
+550
+00:42:00,020 --> 00:42:02,020
+<font color="yellow">Yes, I understand.</font>
+
+551
+00:42:02,820 --> 00:42:05,420
+<font color="yellow">You did this on purpose, right?</font>
+
+552
+00:42:06,220 --> 00:42:08,020
+<font color="yellow">What?</font>
+
+553
+00:42:08,020 --> 00:42:11,720
+<font color="yellow">You did it in order to raise
+the ratings of this show.</font>
+
+554
+00:42:11,720 --> 00:42:14,020
+<font color="yellow">Aren't you kind of hoping that
+the criminal will not be caught?</font>
+
+555
+00:42:15,020 --> 00:42:18,520
+<font color="yellow">- What are you saying?
+- Mr. Choi Joon Gu.</font>
+
+556
+00:42:18,520 --> 00:42:23,720
+<font color="yellow">You got in hot water for creating a show
+without your network's involvement.</font>
+
+557
+00:42:24,220 --> 00:42:27,520
+<font color="yellow">So how did you get
+back in here, anyway?</font>
+
+558
+00:42:27,520 --> 00:42:30,320
+<font color="yellow">I guess the president is more
+generous that I thought.</font>
+
+559
+00:42:31,020 --> 00:42:34,220
+<font color="yellow">Are you investigating
+me right now?</font>
+
+560
+00:42:34,220 --> 00:42:37,220
+<font color="yellow">No, I'm just curious, is all.</font>
+
+561
+00:42:37,720 --> 00:42:39,820
+<font color="yellow">You can investigate me or
+interrogate me whenever you want.</font>
+
+562
+00:42:39,820 --> 00:42:44,820
+<font color="yellow">But right now, shouldn't our first
+priority be finding Hyun Woo?</font>
+
+563
+00:42:44,820 --> 00:42:47,420
+<font color="yellow">We'll continue to work alongside
+you for the sake of this case.</font>
+
+564
+00:42:47,420 --> 00:42:49,620
+<font color="yellow">Let's find Hyun Woo
+as soon as possible.</font>
+
+565
+00:42:49,620 --> 00:42:52,220
+<font color="yellow">I beg of you.</font>
+
+566
+00:43:04,120 --> 00:43:08,220
+<font color="yellow">- I guess he's dead.
+- Well, that was sudden!</font>
+
+567
+00:43:08,220 --> 00:43:10,720
+<font color="yellow">- It's Jung Hye In!
+- Oh my gosh, Jung Hye In!</font>
+
+568
+00:43:10,720 --> 00:43:13,720
+<font color="yellow">What are you doing?
+Stop that!</font>
+
+569
+00:43:17,320 --> 00:43:20,420
+<font color="yellow">Hyun Woo!
+Hyun Woo!</font>
+
+570
+00:43:23,820 --> 00:43:26,920
+<font color="yellow">Get out of the way!</font>
+
+571
+00:43:29,620 --> 00:43:32,520
+<font color="yellow">- Hyun Woo! Hyun Woo!
+- You mustn't go in!</font>
+
+572
+00:43:32,520 --> 00:43:34,220
+<font color="yellow">- You can't go in!
+- No!</font>
+
+573
+00:43:34,220 --> 00:43:36,520
+<font color="yellow">It's all right.
+Let her go.</font>
+
+574
+00:44:02,720 --> 00:44:06,020
+<font color="yellow"><i>[ALWAYS GREAT GAS STATION]</i></font>
+
+575
+00:44:16,720 --> 00:44:19,520
+<font color="yellow">I'm Cha Seung In,
+the one who called you.</font>
+
+576
+00:44:20,020 --> 00:44:25,720
+<font color="yellow">- Where's my Hyun Woo?
+- You son is not here.</font>
+
+577
+00:44:27,620 --> 00:44:31,420
+<font color="yellow">I'm sorry, but there are a couple
+things I'd like to have you confirm.</font>
+
+578
+00:44:32,720 --> 00:44:34,920
+<font color="yellow">Have you ever seen this woman?</font>
+
+579
+00:44:36,120 --> 00:44:41,120
+<font color="yellow">- Yes. I've seen her.
+- Where?</font>
+
+580
+00:44:41,120 --> 00:44:44,620
+<font color="yellow">She brought the script to my house
+the day Hyun Woo was taken.</font>
+
+581
+00:44:44,620 --> 00:44:46,920
+<font color="yellow">Did you get a good look at her face?
+Are you sure it's her?</font>
+
+582
+00:44:46,920 --> 00:44:49,520
+<font color="yellow">I only saw her for a few moments,
+but I'm positive.</font>
+
+583
+00:44:49,520 --> 00:44:50,870
+<font color="yellow">Is she here?</font>
+
+584
+00:44:50,870 --> 00:44:52,220
+<font color="yellow">She's an accomplice.</font>
+
+585
+00:44:52,220 --> 00:44:54,720
+<font color="yellow">- She's not an accomplice.
+- What are you saying?</font>
+
+586
+00:44:54,720 --> 00:44:57,420
+<font color="yellow">- On that day...
+- She's a victim.</font>
+
+587
+00:44:57,420 --> 00:45:02,220
+<font color="yellow">She was also kidnapped,
+just like your son was.</font>
+
+588
+00:45:23,220 --> 00:45:25,820
+<font color="yellow">I don't know this man.</font>
+
+589
+00:45:25,820 --> 00:45:28,720
+<font color="yellow">I did see him on the last few
+days of the shoot for my movie.</font>
+
+590
+00:45:28,720 --> 00:45:32,620
+<font color="yellow">But he lied about his identity,
+and nobody knew him.</font>
+
+591
+00:45:32,620 --> 00:45:35,720
+<font color="yellow">Have you ever run into him in front
+of your home, or somewhere else?</font>
+
+592
+00:45:35,720 --> 00:45:39,820
+<font color="yellow">Has your son ever said that a
+strange man approached him?</font>
+
+593
+00:45:39,820 --> 00:45:41,420
+<font color="yellow">No.</font>
+
+594
+00:45:42,420 --> 00:45:47,020
+<font color="yellow">But... is this because of me?</font>
+
+595
+00:45:48,620 --> 00:45:52,520
+<font color="yellow">Is he trying to prevent me from
+retiring by making me do this TV show</font>
+
+596
+00:45:52,520 --> 00:45:53,920
+<font color="yellow">like it says here?</font>
+
+597
+00:45:53,920 --> 00:45:58,620
+<font color="yellow">Then he would've continued with that,
+instead of committing suicide.</font>
+
+598
+00:45:58,620 --> 00:46:00,720
+<font color="yellow">And if he'd changed his mind
+and decided to commit suicide</font>
+
+599
+00:46:00,720 --> 00:46:03,420
+<font color="yellow">I'm sure he would've left a note
+saying what must be done now.</font>
+
+600
+00:46:04,020 --> 00:46:06,620
+<font color="yellow">I'm sure that someone else
+is the true mastermind.</font>
+
+601
+00:46:06,620 --> 00:46:10,920
+<font color="yellow">They may have used the fact that Mr. Park
+was a huge fan of yours as an advantage.</font>
+
+602
+00:46:21,020 --> 00:46:23,920
+<font color="yellow"><i>Mommy...</i></font>
+
+603
+00:46:23,920 --> 00:46:29,520
+<font color="yellow">Hyun Woo!
+Hyun Woo, it's Mom!</font>
+
+604
+00:46:32,120 --> 00:46:35,720
+<font color="yellow">- Anything?
+- I'm not sure.</font>
+
+605
+00:46:39,020 --> 00:46:42,420
+<font color="yellow">Yes, it's me. We've found
+the owner of the car</font>
+
+606
+00:46:42,420 --> 00:46:44,420
+<font color="yellow">but it was stolen 3 days ago.</font>
+
+607
+00:46:44,420 --> 00:46:45,720
+<font color="yellow">But the car was bought under
+another person's name</font>
+
+608
+00:46:45,720 --> 00:46:46,920
+<font color="yellow">so the owner didn't
+bother reporting it.</font>
+
+609
+00:46:46,920 --> 00:46:49,320
+<font color="yellow">Yes. And I have a
+solid alibi, too.</font>
+
+610
+00:46:59,620 --> 00:47:01,320
+<font color="yellow"><i>[FOOTAGE OF YEONAN PIER'S
+CARGO TERMINAL]</i></font>
+
+611
+00:47:05,620 --> 00:47:07,720
+<font color="yellow"><i>[COMPILATION OF
+FOOTAGE FROM PORTS]</i></font>
+
+612
+00:47:19,120 --> 00:47:23,920
+<font color="yellow">I knew that you
+were skilled, PD Shin.</font>
+
+613
+00:47:23,920 --> 00:47:26,620
+<font color="yellow">And that's why I gave you
+the okay yesterday.</font>
+
+614
+00:47:26,620 --> 00:47:31,420
+<font color="yellow">So I thought that you'd be suited
+to work for my network.</font>
+
+615
+00:47:31,420 --> 00:47:34,320
+<font color="yellow">If this isn't anything urgent,
+I'll hear you out after the show today.</font>
+
+616
+00:47:36,520 --> 00:47:38,520
+<font color="yellow">I finally understand
+why people say that</font>
+
+617
+00:47:38,520 --> 00:47:41,220
+<font color="yellow">you shouldn't work with
+people past their prime.</font>
+
+618
+00:47:42,020 --> 00:47:44,820
+<font color="yellow">Have you lost your touch?</font>
+
+619
+00:47:46,520 --> 00:47:49,020
+<font color="yellow">Jung Hye In is the one
+who made the preview</font>
+
+620
+00:47:49,020 --> 00:47:52,920
+<font color="yellow">and all you have is a photo to work with,
+even though the show is in 2 hours.</font>
+
+621
+00:47:55,120 --> 00:47:59,520
+<font color="yellow">Well, do you have any
+back-up plans, at least?</font>
+
+622
+00:47:59,620 --> 00:48:01,820
+<font color="yellow">No.</font>
+
+623
+00:48:01,820 --> 00:48:04,520
+<font color="yellow">What are you doing to do, then?</font>
+
+624
+00:48:04,520 --> 00:48:08,920
+<font color="yellow">If we can't find it,
+that's what will be shown on TV.</font>
+
+625
+00:48:10,620 --> 00:48:16,020
+<font color="yellow">Are you trying to
+get my son killed?</font>
+
+626
+00:48:17,120 --> 00:48:20,170
+<font color="yellow">That may end up happening</font>
+
+627
+00:48:20,170 --> 00:48:23,220
+<font color="yellow">if you keep wasting my time
+with drivel like this.</font>
+
+628
+00:48:36,120 --> 00:48:40,920
+<font color="yellow">- Mommy... save me!
+- Hyun Woo, it's Mom!</font>
+
+629
+00:48:40,920 --> 00:48:44,820
+<font color="yellow">- It's Mom, Hyun Woo!
+- Mom... my...</font>
+
+630
+00:48:46,420 --> 00:48:50,220
+<font color="yellow"><i>- Hurry over here, Mommy!
+- Where are you, Hyun Woo?</i></font>
+
+631
+00:48:50,220 --> 00:48:53,920
+<font color="yellow">Are you in any sort of pain?
+Are you hurt anywhere?</font>
+
+632
+00:49:02,320 --> 00:49:04,520
+<font color="yellow"><i>- I'm scared, Mommy...
+- Hyun Woo!</i></font>
+
+633
+00:49:04,520 --> 00:49:07,720
+<font color="yellow"><i>It's so dark!</i></font>
+
+634
+00:49:11,820 --> 00:49:15,820
+<font color="yellow">Hyun Woo, Mommy will be there soon.
+I'll be there soon, okay?</font>
+
+635
+00:49:15,820 --> 00:49:17,520
+<font color="yellow"><i>- Mommy!
+- Where are you?</i></font>
+
+636
+00:49:17,520 --> 00:49:21,520
+<font color="yellow"><i>- You have to let me know where you are!
+- Mommy!</i></font>
+
+637
+00:49:22,520 --> 00:49:30,720
+<font color="yellow">Hyun Woo. Hyun Woo!
+Hyun Woo!</font>
+
+638
+00:49:31,820 --> 00:49:34,720
+<font color="yellow">Hyun Woo!
+Hyun Woo!</font>
+
+639
+00:49:39,020 --> 00:49:41,820
+<font color="yellow">- Here are the materials you requested.
+- Thanks.</font>
+
+640
+00:49:41,820 --> 00:49:43,920
+<font color="yellow">How did things go?
+All right?</font>
+
+641
+00:49:43,920 --> 00:49:45,320
+<font color="yellow">I'm not sure if we can
+find the car in time.</font>
+
+642
+00:49:45,320 --> 00:49:47,920
+<font color="yellow">- And even if we do...
+- Can we get a helicopter?</font>
+
+643
+00:49:47,920 --> 00:49:50,520
+<font color="yellow">A helicopter? Okay.
+We'll have to do that, then.</font>
+
+644
+00:49:50,520 --> 00:49:51,870
+<font color="yellow">No, it might not
+be able to find it in time.</font>
+
+645
+00:49:51,870 --> 00:49:53,220
+<font color="yellow">What about Jung Hye In?</font>
+
+646
+00:49:53,220 --> 00:49:54,620
+<font color="yellow">Still not picking up?</font>
+
+647
+00:49:54,620 --> 00:49:56,470
+<font color="yellow">Yes. I kept trying to call her.</font>
+
+648
+00:49:56,470 --> 00:49:58,320
+<font color="yellow">And her manager
+wouldn't pick up, either.</font>
+
+649
+00:49:58,320 --> 00:50:02,320
+<font color="yellow">What have you been doing this whole time?
+Make sure she's here in thirty minutes!</font>
+
+650
+00:50:02,320 --> 00:50:03,720
+<font color="yellow">Yes, sir.</font>
+
+651
+00:50:04,420 --> 00:50:09,720
+<font color="yellow">Damn it. I'm sure that she'll be here
+since we need her most. Let's wait.</font>
+
+652
+00:50:09,720 --> 00:50:11,720
+<font color="yellow">We still haven't even
+found the car yet.</font>
+
+653
+00:50:12,820 --> 00:50:15,020
+<font color="yellow">Sheesh.</font>
+
+654
+00:50:16,820 --> 00:50:19,320
+<font color="yellow">Please, pick up!</font>
+
+655
+00:50:19,320 --> 00:50:21,520
+<font color="yellow"><i>The person you are trying to
+reach is unavailable at this time...</i></font>
+
+656
+00:50:25,220 --> 00:50:27,420
+<font color="yellow">I found it.</font>
+
+657
+00:50:27,420 --> 00:50:30,020
+<font color="yellow">I knew I felt like I'd
+seen it somewhere.</font>
+
+658
+00:50:30,020 --> 00:50:31,820
+<font color="yellow">I once did some investigative
+work there three years ago.</font>
+
+659
+00:50:31,820 --> 00:50:34,420
+<font color="yellow">We'll be short on time,
+even if we head there now.</font>
+
+660
+00:50:34,420 --> 00:50:36,120
+<font color="yellow">You sure about this?</font>
+
+661
+00:50:37,120 --> 00:50:39,420
+<font color="yellow">Here, here, and here.</font>
+
+662
+00:50:39,420 --> 00:50:41,820
+<font color="yellow">And the most decisive piece
+of evidence is this graffiti.</font>
+
+663
+00:50:41,820 --> 00:50:44,720
+<font color="yellow">Let's hurry and report
+this to the police.</font>
+
+664
+00:50:44,720 --> 00:50:47,720
+<font color="yellow">Did you forget? The criminal told us
+that the show is supposed to be live.</font>
+
+665
+00:50:47,720 --> 00:50:50,320
+<font color="yellow">We might end up filming something
+that shouldn't be on TV.</font>
+
+666
+00:50:50,320 --> 00:50:52,420
+<font color="yellow">If the police gets there before us,
+they might get in our way.</font>
+
+667
+00:50:52,420 --> 00:50:55,220
+<font color="yellow">If it's that bad, we should come
+up with a contingency plan!</font>
+
+668
+00:50:55,220 --> 00:50:58,220
+<font color="yellow">No contingency plan will work.
+We just have to shoot everything as is.</font>
+
+669
+00:50:58,220 --> 00:51:00,020
+<font color="yellow">That's what we agreed to do.</font>
+
+670
+00:51:00,020 --> 00:51:01,320
+<font color="yellow">And even if the
+criminal falls for it</font>
+
+671
+00:51:01,320 --> 00:51:04,520
+<font color="yellow">do you think the viewers will continue
+watching if it doesn't seem genuine?</font>
+
+672
+00:51:04,520 --> 00:51:09,120
+<font color="yellow">Getting a 20 percent rating
+is already a herculean task.</font>
+
+673
+00:51:09,120 --> 00:51:11,170
+<font color="yellow">I'll send Hye In to the studio
+when she's found.</font>
+
+674
+00:51:11,170 --> 00:51:13,220
+<font color="yellow">You work on prompts for the show.</font>
+
+675
+00:51:13,220 --> 00:51:15,120
+<font color="yellow">Okay, okay.
+Hurry and go.</font>
+
+676
+00:51:15,120 --> 00:51:17,020
+<font color="yellow">Oh, and let me know what's in
+the trunk before the show if you can</font>
+
+677
+00:51:17,020 --> 00:51:19,620
+<font color="yellow">by sending me a
+photo or calling me.</font>
+
+678
+00:51:19,620 --> 00:51:21,720
+<font color="yellow">I'll take care of the rest here.</font>
+
+679
+00:51:22,420 --> 00:51:27,520
+<font color="yellow">- Writer Yeon. If the director...
+- I know. Go, already.</font>
+
+680
+00:51:34,720 --> 00:51:38,020
+<font color="yellow">- Young Gwan.
+- Yes?</font>
+
+681
+00:51:38,020 --> 00:51:41,620
+<font color="yellow">Find a port in Incheon that
+smaller freight ships visit.</font>
+
+682
+00:51:41,620 --> 00:51:43,420
+<font color="yellow">And look for places where the
+train tracks are close to the beach.</font>
+
+683
+00:51:43,420 --> 00:51:46,420
+<font color="yellow">There's a railroad crossing, and
+a train passed by it at 8:40 p.m.</font>
+
+684
+00:51:46,420 --> 00:51:48,120
+<font color="yellow">Call for some backup and
+find it as soon as you can.</font>
+
+685
+00:51:48,120 --> 00:51:49,720
+<font color="yellow">Did you find Ji Eun?</font>
+
+686
+00:51:50,220 --> 00:51:53,520
+<font color="yellow">Jung Hye In got a call from her son.
+I'll head over to Incheon right now</font>
+
+687
+00:51:53,520 --> 00:51:55,720
+<font color="yellow">so call me as soon as
+you find the place.</font>
+
+688
+00:51:55,720 --> 00:51:57,420
+<font color="yellow">Yes, sir.</font>
+
+689
+00:52:05,620 --> 00:52:11,220
+<font color="yellow"><i>Due to this customer's request,
+we are unable to complete your call.</i></font>
+
+690
+00:52:17,620 --> 00:52:24,720
+<font color="yellow"><i>Due to this customer's request,
+we are unable to complete your call.</i></font>
+
+691
+00:52:31,620 --> 00:52:37,920
+<font color="yellow">Let's get it together.
+Get it together, Jung Hye In.</font>
+
+692
+00:52:39,520 --> 00:52:41,920
+<font color="yellow"><i>I'm sure that someone else
+is the true mastermind.</i></font>
+
+693
+00:52:45,020 --> 00:52:46,420
+<font color="yellow"><i>[WANTED]</i></font>
+
+694
+00:52:46,420 --> 00:52:49,020
+<font color="yellow"><i>- Mommy... Mommy!
+- Hyun Woo!</i></font>
+
+695
+00:52:49,020 --> 00:52:51,620
+<font color="yellow"><i>It's so dark!</i></font>
+
+696
+00:52:53,720 --> 00:52:56,120
+<font color="yellow"><i>Mommy!</i></font>
+
+697
+00:53:10,820 --> 00:53:13,120
+<font color="yellow">Please wait at home, and I'll...</font>
+
+698
+00:53:13,120 --> 00:53:16,320
+<font color="yellow">I might get another
+call from Hyun Woo.</font>
+
+699
+00:53:16,320 --> 00:53:18,220
+<font color="yellow">Let's go together.</font>
+
+700
+00:53:36,720 --> 00:53:39,420
+<font color="yellow">What are you
+doing right now?</font>
+
+701
+00:53:39,420 --> 00:53:41,820
+<font color="yellow">Um, we're not completely
+sure where it is, either.</font>
+
+702
+00:53:41,820 --> 00:53:43,520
+<font color="yellow">We're just going to
+try heading out first</font>
+
+703
+00:53:43,520 --> 00:53:46,120
+<font color="yellow">so please give us a
+call when you find the car.</font>
+
+704
+00:53:46,120 --> 00:53:48,620
+<font color="yellow">Tell me where the
+hell you're going!</font>
+
+705
+00:53:49,420 --> 00:53:51,520
+<font color="yellow">But, um, why are you
+talking so informally?</font>
+
+706
+00:53:51,520 --> 00:53:53,620
+<font color="yellow">It's pissing me off.</font>
+
+707
+00:53:54,220 --> 00:53:56,520
+<font color="yellow">Park Bo Yeon, you haven't
+found where Hye In is yet?</font>
+
+708
+00:53:56,520 --> 00:53:58,720
+<font color="yellow">No. It keeps saying that she's
+in the middle of another call.</font>
+
+709
+00:53:58,720 --> 00:54:01,220
+<font color="yellow">Call the authorities
+and ask them to find her!</font>
+
+710
+00:54:01,220 --> 00:54:03,820
+<font color="yellow">I did, but they said that they can
+only do that in emergency situations...</font>
+
+711
+00:54:03,820 --> 00:54:06,320
+<font color="yellow">Then put on an act, punk!</font>
+
+712
+00:54:06,320 --> 00:54:07,970
+<font color="yellow">Our program might go under
+and a kid may die</font>
+
+713
+00:54:07,970 --> 00:54:09,620
+<font color="yellow">,
+so what the hell are you doing?</font>
+
+714
+00:54:09,620 --> 00:54:11,020
+<font color="yellow">Yes, sir.</font>
+
+715
+00:54:23,420 --> 00:54:25,920
+<font color="yellow">Who the hell are you?</font>
+
+716
+00:54:27,220 --> 00:54:30,920
+<font color="yellow">Hey! Hey, you! Hey!</font>
+
+717
+00:54:42,620 --> 00:54:45,020
+<font color="yellow">He's not a staff member
+of yours, right?</font>
+
+718
+00:54:45,020 --> 00:54:48,320
+<font color="yellow">Take it easy, please!
+I'm not a weirdo, I promise!</font>
+
+719
+00:54:48,320 --> 00:54:51,120
+<font color="yellow">I'm a reporter!
+Ow!</font>
+
+720
+00:54:51,120 --> 00:54:53,720
+<font color="yellow">I'm just here doing my job!</font>
+
+721
+00:54:54,520 --> 00:55:00,220
+<font color="yellow">Wait, sir! Ow!
+Wait, please!</font>
+
+722
+00:55:10,420 --> 00:55:13,020
+<font color="yellow">Where did you say that you saw
+those large pieces of cargo, again?</font>
+
+723
+00:55:13,020 --> 00:55:15,720
+<font color="yellow">- Here, here, and...
+- Here it is.</font>
+
+724
+00:55:15,720 --> 00:55:17,220
+<font color="yellow">Thank you.</font>
+
+725
+00:55:18,620 --> 00:55:21,970
+<font color="yellow">They said that the kid
+might be in Incheon</font>
+
+726
+00:55:21,970 --> 00:55:25,320
+<font color="yellow">so check every nook and cranny!</font>
+
+727
+00:55:25,320 --> 00:55:29,420
+<font color="yellow">Did you find it? Hey, are you going to
+take responsibility if the kid dies?</font>
+
+728
+00:55:34,420 --> 00:55:37,420
+<font color="yellow">I found it!
+Sir, I found it!</font>
+
+729
+00:55:42,320 --> 00:55:44,920
+<font color="yellow">All right. I'll be right there.</font>
+
+730
+00:55:45,420 --> 00:55:47,720
+<font color="yellow">We found the place where
+the call was made from.</font>
+
+731
+00:55:47,720 --> 00:55:50,320
+<font color="yellow">There are others looking
+for him, too, so...</font>
+
+732
+00:55:50,320 --> 00:55:53,020
+<font color="yellow">Can we find him within
+thirty minutes?</font>
+
+733
+00:56:00,320 --> 00:56:03,720
+<font color="yellow">- Yes, it's me.
+- Where are you right now?</font>
+
+734
+00:56:03,720 --> 00:56:05,460
+<font color="yellow">What the hell are
+you doing right now?</font>
+
+735
+00:56:05,460 --> 00:56:07,720
+<font color="yellow"><i>Did you find the car?</i></font>
+
+736
+00:56:07,720 --> 00:56:12,220
+<font color="yellow">Go to the studio right now.
+We're on our way to the scene.</font>
+
+737
+00:56:12,220 --> 00:56:14,820
+<font color="yellow"><i>Where are you heading?</i></font>
+
+738
+00:56:14,820 --> 00:56:18,720
+<font color="yellow">The north port in Incheon.
+It's a warehouse.</font>
+
+739
+00:56:19,320 --> 00:56:22,520
+<font color="yellow">Is there a railroad
+crossing near that?</font>
+
+740
+00:56:23,020 --> 00:56:24,420
+<font color="yellow">How did you know that?</font>
+
+741
+00:56:24,420 --> 00:56:28,920
+<font color="yellow">I got a call from Hyun Woo
+and it's from the same location.</font>
+
+742
+00:56:29,420 --> 00:56:33,220
+<font color="yellow">Hyun Woo and the criminal
+may be near there, too.</font>
+
+743
+00:56:33,220 --> 00:56:34,720
+<font color="yellow"><i>Hello?</i></font>
+
+744
+00:56:35,520 --> 00:56:38,620
+<font color="yellow">I'll do the show.
+I'll be right there.</font>
+
+745
+00:56:38,620 --> 00:56:42,720
+<font color="yellow">I think I'll be there a bit after 10.
+Text me your exact address.</font>
+
+746
+00:56:42,720 --> 00:56:44,470
+<font color="yellow"><i>Then, we'll use what Writer Yeon wrote...</i></font>
+
+747
+00:56:44,470 --> 00:56:46,220
+<font color="yellow"><i>No, I have to open the show.</i></font>
+
+748
+00:56:46,220 --> 00:56:48,620
+<font color="yellow">They'll have doubts
+if we stall for time.</font>
+
+749
+00:56:48,620 --> 00:56:51,520
+<font color="yellow">You can broadcast a video that
+I send you with my phone, right?</font>
+
+750
+00:57:02,820 --> 00:57:11,320
+<font color="yellow">Get ready to begin.
+Five, four, three, two, one.</font>
+
+751
+00:57:13,020 --> 00:57:16,220
+<font color="yellow"><i>I'm all sweaty.</i></font>
+
+752
+00:57:22,420 --> 00:57:24,320
+<font color="yellow"><i>Please.</i></font>
+
+753
+00:57:32,420 --> 00:57:35,020
+<font color="yellow"><i>[FIRST MISSION: WHAT COULD
+BE INSIDE THIS TRUNK?]</i></font>
+
+754
+00:58:04,120 --> 00:58:06,920
+<font color="yellow">- Is Hye In ready?
+- Yes.</font>
+
+755
+00:58:06,920 --> 00:58:09,420
+<font color="yellow">We'll be going in
+in 10 seconds.</font>
+
+756
+00:58:21,820 --> 00:58:29,920
+<font color="yellow">Right now, we're on our way to
+find a car at a pier in Incheon.</font>
+
+757
+00:58:30,420 --> 00:58:44,120
+<font color="yellow">Before today's show is over, we will
+show everyone what is in the trunk</font>
+
+758
+00:58:44,120 --> 00:58:46,920
+<font color="yellow">to complete the mission.</font>
+
+759
+00:58:51,520 --> 00:58:55,320
+<font color="yellow">You have to put a light here, and
+some more over there, too!</font>
+
+760
+00:58:55,320 --> 00:58:57,220
+<font color="yellow">Camera.
+Film them!</font>
+
+761
+00:59:04,720 --> 00:59:06,320
+<font color="yellow">Follow her!</font>
+
+762
+00:59:29,820 --> 00:59:31,820
+<font color="yellow">Turn the feed back to
+what's going on in the studio</font>
+
+763
+00:59:31,820 --> 00:59:32,820
+<font color="yellow">and turn it back when
+things have settled down.</font>
+
+764
+00:59:32,820 --> 00:59:34,620
+<font color="yellow">Switch to 5. Hurry.</font>
+
+765
+00:59:45,720 --> 00:59:49,020
+<font color="yellow">- Stop filming.
+- Get the camera here.</font>
+
+766
+00:59:54,320 --> 00:59:56,520
+<font color="yellow">- No!
+- Move!</font>
+
+767
+01:01:11,220 --> 01:01:14,220
+<font color="yellow"><i>A child was discovered in the trunk.
+They are in critical condition.</i></font>
+
+768
+01:01:14,220 --> 01:01:16,120
+<font color="yellow"><i>- They are being taken to a hospital.
+- You can't record here.</i></font>
+
+769
+01:01:16,120 --> 01:01:18,720
+<font color="yellow"><i>If Ms. Jung Hye In's son ends up
+dying because of this hospital's policy</i></font>
+
+770
+01:01:18,720 --> 01:01:19,720
+<font color="yellow"><i>you'll have to close
+down, won't you?</i></font>
+
+771
+01:01:19,720 --> 01:01:20,820
+<font color="yellow"><i>Everything was going
+fine up until now</i></font>
+
+772
+01:01:20,820 --> 01:01:23,220
+<font color="yellow"><i>but it's definitely
+not at 20 percent yet.</i></font>
+
+773
+01:01:23,220 --> 01:01:25,320
+<font color="yellow"><i>As to be expected of
+Jung Hye In. You did great.</i></font>
+
+774
+01:01:25,320 --> 01:01:27,620
+<font color="yellow"><i>Don't ever joke like this again.
+It's seriously creeping me out.</i></font>
+
+775
+01:01:27,620 --> 01:01:30,320
+<font color="yellow"><i>Hyun Woo may get hurt if
+we hesitate for even a second.</i></font>
+
+776
+01:01:30,320 --> 01:01:34,320
+<font color="yellow"><i>So I'm going to do
+whatever I must.</i></font>
+
+777
+01:01:34,360 --> 01:01:39,370
+<font color="yellow">Subtitles by DramaFever</font>
+

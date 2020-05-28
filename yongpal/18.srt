@@ -1,0 +1,3520 @@
+1
+00:00:08,355 --> 00:00:10,615
+-=Episode Terakhir=-
+
+2
+00:00:26,864 --> 00:00:28,548
+Anda tak apa-apa, Presdir?
+
+3
+00:00:31,934 --> 00:00:33,304
+Tunggu di luar.
+
+4
+00:00:38,795 --> 00:00:40,665
+Anda tak apa-apa, Presdir?
+
+5
+00:00:40,665 --> 00:00:42,435
+Tak apa-apa.
+
+6
+00:00:42,460 --> 00:00:42,599
+S
+
+7
+00:00:42,600 --> 00:00:42,738
+Su
+
+8
+00:00:42,739 --> 00:00:42,878
+Sub
+
+9
+00:00:42,879 --> 00:00:43,017
+Subt
+
+10
+00:00:43,018 --> 00:00:43,157
+Subti
+
+11
+00:00:43,158 --> 00:00:43,296
+Subtit
+
+12
+00:00:43,297 --> 00:00:43,436
+Subtitl
+
+13
+00:00:43,437 --> 00:00:43,575
+Subtitle
+
+14
+00:00:43,576 --> 00:00:43,715
+Subtitle
+
+15
+00:00:43,716 --> 00:00:43,854
+Subtitle o
+
+16
+00:00:43,855 --> 00:00:43,994
+Subtitle ol
+
+17
+00:00:43,995 --> 00:00:44,133
+Subtitle ole
+
+18
+00:00:44,134 --> 00:00:44,273
+Subtitle oleh
+
+19
+00:00:44,274 --> 00:00:44,412
+Subtitle oleh
+
+20
+00:00:44,413 --> 00:00:44,552
+Subtitle oleh :
+
+21
+00:00:44,553 --> 00:00:44,692
+Subtitle oleh :
+
+22
+00:00:44,693 --> 00:00:44,831
+Subtitle oleh :
+
+23
+00:00:44,832 --> 00:00:44,971
+Subtitle oleh :
+~
+
+24
+00:00:44,972 --> 00:00:45,110
+Subtitle oleh :
+~
+
+25
+00:00:45,111 --> 00:00:45,250
+Subtitle oleh :
+~ D
+
+26
+00:00:45,251 --> 00:00:45,389
+Subtitle oleh :
+~ Da
+
+27
+00:00:45,390 --> 00:00:45,529
+Subtitle oleh :
+~ Dar
+
+28
+00:00:45,530 --> 00:00:45,668
+Subtitle oleh :
+~ Dark
+
+29
+00:00:45,669 --> 00:00:45,808
+Subtitle oleh :
+~ DarkS
+
+30
+00:00:45,809 --> 00:00:45,947
+Subtitle oleh :
+~ DarkSm
+
+31
+00:00:45,948 --> 00:00:46,087
+Subtitle oleh :
+~ DarkSmu
+
+32
+00:00:46,088 --> 00:00:46,226
+Subtitle oleh :
+~ DarkSmur
+
+33
+00:00:46,227 --> 00:00:46,366
+Subtitle oleh :
+~ DarkSmurf
+
+34
+00:00:46,367 --> 00:00:46,506
+Subtitle oleh :
+~ DarkSmurfS
+
+35
+00:00:46,507 --> 00:00:46,645
+Subtitle oleh :
+~ DarkSmurfSu
+
+36
+00:00:46,646 --> 00:00:46,785
+Subtitle oleh :
+~ DarkSmurfSub
+
+37
+00:00:46,786 --> 00:00:46,924
+Subtitle oleh :
+~ DarkSmurfSub
+
+38
+00:00:46,925 --> 00:00:47,064
+Subtitle oleh :
+~ DarkSmurfSub I
+
+39
+00:00:47,065 --> 00:00:47,203
+Subtitle oleh :
+~ DarkSmurfSub In
+
+40
+00:00:47,204 --> 00:00:47,343
+Subtitle oleh :
+~ DarkSmurfSub Ind
+
+41
+00:00:47,344 --> 00:00:47,482
+Subtitle oleh :
+~ DarkSmurfSub Indo
+
+42
+00:00:47,483 --> 00:00:47,622
+Subtitle oleh :
+~ DarkSmurfSub Indon
+
+43
+00:00:47,623 --> 00:00:47,761
+Subtitle oleh :
+~ DarkSmurfSub Indone
+
+44
+00:00:47,762 --> 00:00:47,901
+Subtitle oleh :
+~ DarkSmurfSub Indones
+
+45
+00:00:47,902 --> 00:00:48,040
+Subtitle oleh :
+~ DarkSmurfSub Indonesi
+
+46
+00:00:48,041 --> 00:00:48,180
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+47
+00:00:48,181 --> 00:00:48,319
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+48
+00:00:48,320 --> 00:00:55,460
+Subtitle oleh :
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+49
+00:00:55,485 --> 00:01:02,485
+Diterjemahkan oleh :
+--- ** <font color="#fbed00">Scalpel Team</font> **---
+
+50
+00:01:02,889 --> 00:01:04,052
+Presdir!
+
+51
+00:01:04,052 --> 00:01:05,480
+Anda tak apa-apa?
+
+52
+00:01:08,460 --> 00:01:09,974
+Jibsa (<font color="#ffff80">Pelayan</font>)...
+
+53
+00:01:11,646 --> 00:01:13,760
+Oppa kemana?
+
+54
+00:01:15,290 --> 00:01:16,421
+Maaf?
+
+55
+00:01:17,656 --> 00:01:19,992
+Apa yang Anda maksud?
+
+56
+00:01:19,992 --> 00:01:22,793
+Hari ini kan ada pesta.
+
+57
+00:01:22,793 --> 00:01:24,959
+Oppa di mana?
+
+58
+00:01:36,325 --> 00:01:37,933
+- Terima kasih.
+- Sampai jumpa.
+
+59
+00:01:37,933 --> 00:01:40,054
+Dah.
+
+60
+00:01:41,350 --> 00:01:42,536
+Dadah!
+
+61
+00:01:44,540 --> 00:01:47,905
+- Dr. Kim, Anda segitu senangnya?
+- Soal apa?
+
+62
+00:01:47,905 --> 00:01:52,430
+Aku dengar semuanya.
+Kemarin malam Sophia ke sini?
+
+63
+00:01:54,868 --> 00:01:56,164
+Anda sudah dengar ternyata.
+
+64
+00:01:56,164 --> 00:01:58,873
+Terlihat jelas di wajah Anda.
+
+65
+00:01:58,873 --> 00:02:01,737
+Aku senang, tapi agak khawatir juga.
+
+66
+00:02:01,737 --> 00:02:05,602
+Dia terlihat sakit,
+tapi dia terus saja bilang tak apa-apa.
+
+67
+00:02:05,602 --> 00:02:06,778
+Benarkah?
+
+68
+00:02:06,778 --> 00:02:09,590
+Aku yakin Anda akan merawatnya.
+
+69
+00:02:51,780 --> 00:02:53,701
+Sedang apa kau di sini?
+
+70
+00:02:53,701 --> 00:02:57,277
+- Halo, Kepala Staf.
+- Sedang apa kau di sini!
+
+71
+00:02:58,520 --> 00:03:03,673
+Server di sini paling baik...
+dasi kupasang rapi kok!
+
+72
+00:03:06,483 --> 00:03:08,381
+Aku akan segera pergi.
+
+73
+00:03:08,381 --> 00:03:10,858
+- Cepat sana pergi.
+- Baik!
+
+74
+00:03:31,441 --> 00:03:32,608
+Iya?
+
+75
+00:03:35,730 --> 00:03:38,400
+- Apa Dokter melakukan kesalahan?
+- Apa?
+
+76
+00:03:38,400 --> 00:03:40,537
+Ada surat dari pengadilan.
+
+77
+00:03:40,537 --> 00:03:41,832
+Pengadilan?
+
+78
+00:03:59,174 --> 00:04:00,895
+-=Pengadilan Distrik Seoul Pusat=-
+
+79
+00:04:04,401 --> 00:04:06,490
+-=Pengajuan perintah penahanan
+oleh Han Yeo Jin=-
+
+80
+00:04:15,443 --> 00:04:17,699
+Direktur Kim, ada apa?
+
+81
+00:04:17,699 --> 00:04:19,074
+-=Presdir Han Yeo Jin=-
+
+82
+00:04:23,374 --> 00:04:26,184
+Apa? Perintah penahanan?
+
+83
+00:04:28,257 --> 00:04:29,581
+Kenapa ya?
+
+84
+00:04:29,581 --> 00:04:35,331
+Aku tidak tahu. Dia bilang kemarin malam
+kalau dia akan kembali.
+
+85
+00:04:35,331 --> 00:04:37,454
+Di kantornya Yeo Jin tak ada yang angkat telepon.
+
+86
+00:04:38,466 --> 00:04:44,043
+- Nuna bisa melihatnya?
+- Baiklah, aku akan menemuinya.
+
+87
+00:04:44,043 --> 00:04:47,002
+Terima kasih, Nuna.
+
+88
+00:04:53,168 --> 00:04:56,072
+Apa kita harus ikut khawatir?
+
+89
+00:04:56,072 --> 00:05:00,064
+Tentu saja tidak.
+Di rumah dia sudah dibatasi ruang geraknya.
+
+90
+00:05:00,064 --> 00:05:03,495
+Tak akan lama lagi.
+
+91
+00:05:03,495 --> 00:05:08,081
+Tidak, Kim Tae Hyun tak akan semudah itu menyerah.
+
+92
+00:05:08,081 --> 00:05:11,565
+Kecuali dia menyerah sendiri...
+
+93
+00:05:11,565 --> 00:05:13,761
+kita tak tahu apa yang akan dia lakukan.
+
+94
+00:05:20,324 --> 00:05:22,019
+-=Hari ini Tutup=-
+
+95
+00:05:31,391 --> 00:05:34,040
+- Maaf.
+- Hari ini kami tutup.
+
+96
+00:05:34,040 --> 00:05:35,389
+Begitu ya.
+
+97
+00:05:35,389 --> 00:05:37,755
+Permisi!
+
+98
+00:05:37,755 --> 00:05:39,992
+Hari ini dokter tak menerima pasien.
+
+99
+00:05:39,992 --> 00:05:41,836
+Iya.
+
+100
+00:05:42,704 --> 00:05:46,173
+Iya? Ada apa ke sini?
+
+101
+00:05:46,173 --> 00:05:47,500
+Halo.
+
+102
+00:05:58,880 --> 00:06:02,252
+Aku tahu kalau hal itu CT Scan
+
+103
+00:06:02,252 --> 00:06:06,375
+tapi aku tak tahu apa artinya.
+Tolong jelaskan padaku.
+
+104
+00:06:06,375 --> 00:06:08,548
+Boleh. Bisa kulihat?
+
+105
+00:06:21,555 --> 00:06:25,670
+Sepertinya orang ini menderita kanker hati.
+
+106
+00:06:26,730 --> 00:06:28,646
+Sudah stadium 2...
+
+107
+00:06:29,920 --> 00:06:31,526
+Ka... kanker hati?
+
+108
+00:06:32,855 --> 00:06:36,670
+Seorang wanita, umur 31 tahun.
+
+109
+00:06:42,458 --> 00:06:43,961
+Hanshin...
+
+110
+00:06:43,961 --> 00:06:48,384
+Itu hasil CT scannya Presdir, Bugunim.
+
+111
+00:06:59,170 --> 00:07:00,937
+Ini aku, Direktur Kim.
+
+112
+00:07:00,937 --> 00:07:03,377
+Aku dalam perjalanan menemui Yeo Jin now.
+
+113
+00:07:03,377 --> 00:07:06,572
+Aku akan bertemu Yeo Jin, nanti kuhubungi lagi.
+
+114
+00:07:07,793 --> 00:07:14,838
+Nuna... kurasa Yeo Jin menderita kanker.
+
+115
+00:07:15,605 --> 00:07:18,158
+Apa? Tidak mungkin!
+
+116
+00:07:19,382 --> 00:07:22,600
+Kenapa menurutmu begitu?
+
+117
+00:07:25,367 --> 00:07:27,309
+Wajahnya pucat...
+
+118
+00:07:27,309 --> 00:07:30,946
+dan kemarin malam aku memeriksanya
+saat dia di sini.
+
+119
+00:07:33,266 --> 00:07:36,024
+Baiklah, aku akan coba tanyakan padanya.
+
+120
+00:07:36,024 --> 00:07:39,297
+Terima kasih. Oh ya, 1 hal lagi.
+
+121
+00:07:39,297 --> 00:07:40,630
+Apa?
+
+122
+00:07:41,637 --> 00:07:43,339
+Kalau Nuna ketemu Yeo Jin...
+
+123
+00:07:44,560 --> 00:07:48,536
+katakan aku akan ke lantai 13
+kalau dia benar-benar mengalami kesulitan.
+
+124
+00:07:49,605 --> 00:07:53,072
+Dia tak perlu dipaksa turun ke lantai 1.
+
+125
+00:07:53,072 --> 00:07:56,779
+Baiklah. Aku mengerti.
+Akan kukatakan padanya
+
+126
+00:08:12,819 --> 00:08:16,764
+Jibsa, hari ini kau tak mengusirku?
+
+127
+00:08:17,576 --> 00:08:21,055
+- Saya sudah menerima pesan.
+- Oh, begitu?
+
+128
+00:08:21,055 --> 00:08:24,865
+Pesan? Dari siapa? Ju In baru?
+
+129
+00:08:24,865 --> 00:08:28,387
+Kita masih belum tahu
+siapa Ju In yang baru, kan?
+
+130
+00:08:28,387 --> 00:08:29,565
+Apa?
+
+131
+00:08:31,391 --> 00:08:33,990
+Kau itu bisa saja.
+
+132
+00:08:39,260 --> 00:08:42,052
+- Sudah lama ya.
+- Ya, Samunim.
+
+133
+00:08:42,052 --> 00:08:44,386
+Kabar Anda baik-baik saja?
+
+134
+00:08:44,386 --> 00:08:47,267
+- Aku ingin segelas air.
+- Samunim!
+
+135
+00:08:53,376 --> 00:08:55,817
+Mau saya ambilkan yang dingin?
+
+136
+00:08:55,817 --> 00:09:00,408
+Ya, boleh. Lebih enak. Jus jeruk?
+
+137
+00:09:00,408 --> 00:09:03,130
+<i>Iya, airnya.</i>
+
+138
+00:09:03,130 --> 00:09:04,130
+Iya.
+
+139
+00:09:07,054 --> 00:09:09,636
+Jadi, bagaimana keadaan Yeo Jin?
+
+140
+00:09:11,418 --> 00:09:16,004
+Seperti yang Anda tahu,
+beliau lemah dan demam.
+
+141
+00:09:17,104 --> 00:09:20,245
+Benar, harusnya kau menjawab begitu.
+
+142
+00:09:20,245 --> 00:09:25,884
+Kau mungkin akan di sini lama
+meskipun Ju In-nim-nya ganti-ganti.
+
+143
+00:09:27,183 --> 00:09:28,601
+Terima kasih.
+
+144
+00:09:29,643 --> 00:09:33,038
+Yeo Jin di mana? Aku kemari untuk mengetahui kondisinya,
+jadi aku harus bertemu dengannya.
+
+145
+00:09:33,038 --> 00:09:34,496
+Beliau di kamar tidur.
+
+146
+00:09:52,913 --> 00:09:54,149
+Yeo Jin.
+
+147
+00:10:03,004 --> 00:10:04,313
+Yeo Jin.
+
+148
+00:10:11,072 --> 00:10:12,798
+Harusnya aku tak kemari.
+
+149
+00:10:15,639 --> 00:10:19,268
+Balas dendam semestinya terasa enak...
+
+150
+00:10:30,884 --> 00:10:32,160
+Ambilkan mobilku.
+
+151
+00:10:47,628 --> 00:10:50,139
+Direktur Kim, ini aku.
+
+152
+00:10:51,340 --> 00:10:54,432
+- Iya, Nuna.
+- Dugaanmu benar.
+
+153
+00:10:54,432 --> 00:10:59,320
+Yeo Jin kena kanker. Kita harus bagaimana?
+
+154
+00:11:05,432 --> 00:11:11,240
+Apa... dia bilang apa?
+
+155
+00:11:11,240 --> 00:11:14,875
+Mungkin itu sebabnya dia minta surat perintah
+penahanan.
+
+156
+00:11:14,875 --> 00:11:17,244
+Apa maksudmu?
+
+157
+00:11:17,244 --> 00:11:21,475
+Bukannya kau sudah tahu
+saat Yeo Jin menemuimu.
+
+158
+00:11:23,634 --> 00:11:25,607
+Tapi, kemarin dia menemuiku-
+
+159
+00:11:25,607 --> 00:11:29,860
+=Untuk terakhir kalinya dia ingin bertemu denganmu.=
+
+160
+00:11:31,451 --> 00:11:36,013
+Bagaimana ini, Direktur Kim?
+Aku kasihan pada Yeo Jin.
+
+161
+00:11:37,758 --> 00:11:41,621
+Kurasa waktunya tidak banyak lagi.
+
+162
+00:11:47,416 --> 00:11:51,436
+Nuna sudah sampaikan padanya
+apa yang kukatakan tadi?
+
+163
+00:11:51,436 --> 00:11:55,634
+Apa? Tentu sudah kutanyakan padanya?
+
+164
+00:11:55,634 --> 00:11:58,851
+Dia bilang tak akan pernah ke lantai 12
+rumah sakit Hanshin.
+
+165
+00:11:58,851 --> 00:12:00,958
+=Dia tak ingin kau melihatnya seperti ini.=
+
+166
+00:12:00,958 --> 00:12:03,918
+=Dan tentu saja,
+dia juga tak ingin ke Klinik Lantai 1.=
+
+167
+00:12:04,899 --> 00:12:09,509
+Dia hanya ingin di rumah sendirian...
+
+168
+00:12:11,811 --> 00:12:16,437
+Sungguh? Sungguh dia bilang begitu?
+
+169
+00:12:16,437 --> 00:12:19,514
+Iya, aku dengar sendiri darinya.
+
+170
+00:12:21,125 --> 00:12:25,350
+Begitu ya, baiklah. Terima kasih.
+
+171
+00:12:25,350 --> 00:12:28,815
+Iya, nanti kuhubungi lagi.
+
+172
+00:12:50,129 --> 00:12:51,616
+Selamat datang, Samunim.
+
+173
+00:12:51,616 --> 00:12:55,227
+Apa? Kenapa kau tak memanggilku
+Lee Chae Young lagi?
+
+174
+00:12:57,697 --> 00:13:00,732
+Hal itu atas perintah Presdir,
+saya tak punya pilihan.
+
+175
+00:13:01,639 --> 00:13:06,336
+Akan kupastikan pada Yeo Jin sebelum mati
+apa benar dia yang menyuruh begitu.
+
+176
+00:13:07,648 --> 00:13:12,419
+<i>Tunggu saja. Saat aku jadi Ju In
+aku akan mencabik-cabikmu.</i>
+
+177
+00:13:12,419 --> 00:13:16,375
+<i>Maafkan aku, tapi hal itu tak akan pernah terjadi,
+Lee Chae Young.</i>
+
+178
+00:13:25,086 --> 00:13:30,469
+<i>Aku jelas memintanya bilang pada Yeo Jin
+kalau aku akan ke lantai 13.</i>
+
+179
+00:13:30,469 --> 00:13:33,096
+<i>Itu sebabnya dia tak perlu turun ke lantai 1.</i>
+
+180
+00:13:33,096 --> 00:13:37,602
+<i>Tidak mungkin Yeo Jin
+tak mengerti yang kumaksudkan.</i>
+
+181
+00:13:37,602 --> 00:13:39,480
+<i>Tapi...</i>
+
+182
+00:13:39,480 --> 00:13:42,596
+<i>Apa? Tentu saja kutanyakan padanya.</i>
+
+183
+00:13:42,596 --> 00:13:46,058
+<i>Dia bilang tak akan pernah mau ke lantai 12
+rumah sakit Hanshin.</i>
+
+184
+00:13:46,058 --> 00:13:48,330
+<i>Dia tak ingin kau melihatnya seperti ini.</i>
+
+185
+00:13:48,330 --> 00:13:51,438
+<i>Dan tentu saja,
+dia juga tak ingin ke Klinik Lantai 1.</i>
+
+186
+00:13:51,438 --> 00:13:54,596
+<i>Dia hanya ingin di rumah sendirian...</i>
+
+187
+00:13:54,596 --> 00:13:56,871
+<i>Kalau begitu...</i>
+
+188
+00:14:07,038 --> 00:14:08,408
+Bagaimana dia?
+
+189
+00:14:08,408 --> 00:14:12,639
+Nampaknya dia kena ensefalopati hati
+karena gagal hati akut.
+(<font color="#ffff80">Ensefalopati Hepatik : ganggaun fungsi otak akibat kerusakan hati</font>)
+
+190
+00:14:12,639 --> 00:14:15,417
+- Aku yakin kanker--
+- Tunggu sebentar.
+
+191
+00:14:15,417 --> 00:14:20,813
+Tolong pelankan suara Anda atau...
+ke kantor saja.
+
+192
+00:14:20,813 --> 00:14:23,780
+Saya khawatir staf lain akan mendengarkan kita.
+
+193
+00:14:25,456 --> 00:14:26,758
+Begitu ya?
+
+194
+00:14:28,240 --> 00:14:31,934
+Ngomong-omong, umurnya berapa lama lagi?
+
+195
+00:14:37,488 --> 00:14:39,174
+Aku tak yakin.
+
+196
+00:14:39,174 --> 00:14:42,764
+Kurasa tak akan lama.
+
+197
+00:14:43,952 --> 00:14:45,754
+- Kepala Staf.
+- Iya?
+
+198
+00:14:45,754 --> 00:14:49,626
+Saya akan pindahkan Presdir ke Gedung Timur.
+
+199
+00:14:49,626 --> 00:14:52,417
+- Guest House?
+- Iya.
+
+200
+00:14:52,417 --> 00:14:58,626
+Sulit mengontrol
+dengan begitu banyak pasang mata yang memperhatikan.
+
+201
+00:14:58,626 --> 00:15:00,831
+Iya, akan lebih bagus begitu.
+
+202
+00:15:00,831 --> 00:15:03,738
+Bakalan sering menjerit, berteriak dan membanting
+
+203
+00:15:03,738 --> 00:15:06,645
+karena delusinya.
+
+204
+00:15:06,645 --> 00:15:09,196
+Jadi, dia harus diisolasi.
+
+205
+00:15:09,196 --> 00:15:14,219
+Silakan.
+Toh hari ini juga akan ada meeting jam 7.
+
+206
+00:15:14,219 --> 00:15:16,557
+Para tamu akan tak nyaman.
+
+207
+00:15:17,799 --> 00:15:18,945
+Silakan saja.
+
+208
+00:15:18,945 --> 00:15:20,426
+- Para tamu?
+- Iya.
+
+209
+00:15:20,426 --> 00:15:25,029
+Wakil Presdrir, beberapa Presiden perusahaan
+dan Samunim akan datang.
+
+210
+00:15:26,115 --> 00:15:29,400
+Kami akan membahas wasiat yang baru.
+
+211
+00:15:33,905 --> 00:15:38,195
+Kalau Anda punya rencana seperti itu,
+harusnya Anda memberitahu saya
+
+212
+00:15:38,195 --> 00:15:41,533
+supaya saya bisa persiapkan
+menyambut para tamu.
+
+213
+00:15:41,533 --> 00:15:42,644
+Apa?
+
+214
+00:15:45,196 --> 00:15:48,456
+Kali ini kau ingin bagian yang lebih besar?
+
+215
+00:15:48,481 --> 00:15:48,620
+S
+
+216
+00:15:48,621 --> 00:15:48,759
+Su
+
+217
+00:15:48,760 --> 00:15:48,899
+Sub
+
+218
+00:15:48,900 --> 00:15:49,038
+Subt
+
+219
+00:15:49,039 --> 00:15:49,178
+Subti
+
+220
+00:15:49,179 --> 00:15:49,317
+Subtit
+
+221
+00:15:49,318 --> 00:15:49,457
+Subtitl
+
+222
+00:15:49,458 --> 00:15:49,596
+Subtitle
+
+223
+00:15:49,597 --> 00:15:49,736
+Subtitle
+
+224
+00:15:49,737 --> 00:15:49,875
+Subtitle o
+
+225
+00:15:49,876 --> 00:15:50,015
+Subtitle ol
+
+226
+00:15:50,016 --> 00:15:50,154
+Subtitle ole
+
+227
+00:15:50,155 --> 00:15:50,294
+Subtitle oleh
+
+228
+00:15:50,295 --> 00:15:50,433
+Subtitle oleh
+
+229
+00:15:50,434 --> 00:15:50,573
+Subtitle oleh :
+
+230
+00:15:50,574 --> 00:15:50,713
+Subtitle oleh :
+
+231
+00:15:50,714 --> 00:15:50,852
+Subtitle oleh :
+
+232
+00:15:50,853 --> 00:15:50,992
+Subtitle oleh :
+~
+
+233
+00:15:50,993 --> 00:15:51,131
+Subtitle oleh :
+~
+
+234
+00:15:51,132 --> 00:15:51,271
+Subtitle oleh :
+~ D
+
+235
+00:15:51,272 --> 00:15:51,410
+Subtitle oleh :
+~ Da
+
+236
+00:15:51,411 --> 00:15:51,550
+Subtitle oleh :
+~ Dar
+
+237
+00:15:51,551 --> 00:15:51,689
+Subtitle oleh :
+~ Dark
+
+238
+00:15:51,690 --> 00:15:51,829
+Subtitle oleh :
+~ DarkS
+
+239
+00:15:51,830 --> 00:15:51,968
+Subtitle oleh :
+~ DarkSm
+
+240
+00:15:51,969 --> 00:15:52,108
+Subtitle oleh :
+~ DarkSmu
+
+241
+00:15:52,109 --> 00:15:52,247
+Subtitle oleh :
+~ DarkSmur
+
+242
+00:15:52,248 --> 00:15:52,387
+Subtitle oleh :
+~ DarkSmurf
+
+243
+00:15:52,388 --> 00:15:52,527
+Subtitle oleh :
+~ DarkSmurfS
+
+244
+00:15:52,528 --> 00:15:52,666
+Subtitle oleh :
+~ DarkSmurfSu
+
+245
+00:15:52,667 --> 00:15:52,806
+Subtitle oleh :
+~ DarkSmurfSub
+
+246
+00:15:52,807 --> 00:15:52,945
+Subtitle oleh :
+~ DarkSmurfSub
+
+247
+00:15:52,946 --> 00:15:53,085
+Subtitle oleh :
+~ DarkSmurfSub I
+
+248
+00:15:53,086 --> 00:15:53,224
+Subtitle oleh :
+~ DarkSmurfSub In
+
+249
+00:15:53,225 --> 00:15:53,364
+Subtitle oleh :
+~ DarkSmurfSub Ind
+
+250
+00:15:53,365 --> 00:15:53,503
+Subtitle oleh :
+~ DarkSmurfSub Indo
+
+251
+00:15:53,504 --> 00:15:53,643
+Subtitle oleh :
+~ DarkSmurfSub Indon
+
+252
+00:15:53,644 --> 00:15:53,782
+Subtitle oleh :
+~ DarkSmurfSub Indone
+
+253
+00:15:53,783 --> 00:15:53,922
+Subtitle oleh :
+~ DarkSmurfSub Indones
+
+254
+00:15:53,923 --> 00:15:54,061
+Subtitle oleh :
+~ DarkSmurfSub Indonesi
+
+255
+00:15:54,062 --> 00:15:54,201
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+256
+00:15:54,202 --> 00:15:54,340
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+257
+00:15:54,341 --> 00:16:02,481
+Subtitle oleh :
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+258
+00:16:02,506 --> 00:16:02,633
+D
+
+259
+00:16:02,634 --> 00:16:02,761
+Di
+
+260
+00:16:02,762 --> 00:16:02,888
+Dit
+
+261
+00:16:02,889 --> 00:16:03,016
+Dite
+
+262
+00:16:03,017 --> 00:16:03,144
+Diter
+
+263
+00:16:03,145 --> 00:16:03,271
+Diterj
+
+264
+00:16:03,272 --> 00:16:03,399
+Diterje
+
+265
+00:16:03,400 --> 00:16:03,527
+Diterjem
+
+266
+00:16:03,528 --> 00:16:03,654
+Diterjema
+
+267
+00:16:03,655 --> 00:16:03,782
+Diterjemah
+
+268
+00:16:03,783 --> 00:16:03,910
+Diterjemahk
+
+269
+00:16:03,911 --> 00:16:04,037
+Diterjemahka
+
+270
+00:16:04,038 --> 00:16:04,165
+Diterjemahkan
+
+271
+00:16:04,166 --> 00:16:04,293
+Diterjemahkan
+
+272
+00:16:04,294 --> 00:16:04,420
+Diterjemahkan o
+
+273
+00:16:04,421 --> 00:16:04,548
+Diterjemahkan ol
+
+274
+00:16:04,549 --> 00:16:04,676
+Diterjemahkan ole
+
+275
+00:16:04,677 --> 00:16:04,803
+Diterjemahkan oleh
+
+276
+00:16:04,804 --> 00:16:04,931
+Diterjemahkan oleh
+
+277
+00:16:04,932 --> 00:16:05,059
+Diterjemahkan oleh :
+
+278
+00:16:05,060 --> 00:16:05,186
+Diterjemahkan oleh :
+
+279
+00:16:05,187 --> 00:16:05,314
+Diterjemahkan oleh :
+
+280
+00:16:05,315 --> 00:16:05,442
+Diterjemahkan oleh :
+-
+
+281
+00:16:05,443 --> 00:16:05,569
+Diterjemahkan oleh :
+--
+
+282
+00:16:05,570 --> 00:16:05,697
+Diterjemahkan oleh :
+---
+
+283
+00:16:05,698 --> 00:16:05,825
+Diterjemahkan oleh :
+---
+
+284
+00:16:05,826 --> 00:16:05,952
+Diterjemahkan oleh :
+--- *
+
+285
+00:16:05,953 --> 00:16:06,080
+Diterjemahkan oleh :
+--- **
+
+286
+00:16:06,081 --> 00:16:06,208
+Diterjemahkan oleh :
+--- **
+
+287
+00:16:06,209 --> 00:16:06,335
+Diterjemahkan oleh :
+--- ** S
+
+288
+00:16:06,336 --> 00:16:06,463
+Diterjemahkan oleh :
+--- ** Sc
+
+289
+00:16:06,464 --> 00:16:06,591
+Diterjemahkan oleh :
+--- ** Sca
+
+290
+00:16:06,592 --> 00:16:06,718
+Diterjemahkan oleh :
+--- ** Scal
+
+291
+00:16:06,719 --> 00:16:06,846
+Diterjemahkan oleh :
+--- ** Scalp
+
+292
+00:16:06,847 --> 00:16:06,974
+Diterjemahkan oleh :
+--- ** Scalpe
+
+293
+00:16:06,975 --> 00:16:07,101
+Diterjemahkan oleh :
+--- ** Scalpel
+
+294
+00:16:07,102 --> 00:16:07,229
+Diterjemahkan oleh :
+--- ** Scalpel
+
+295
+00:16:07,230 --> 00:16:07,357
+Diterjemahkan oleh :
+--- ** Scalpel T
+
+296
+00:16:07,358 --> 00:16:07,484
+Diterjemahkan oleh :
+--- ** Scalpel Te
+
+297
+00:16:07,485 --> 00:16:07,612
+Diterjemahkan oleh :
+--- ** Scalpel Tea
+
+298
+00:16:07,613 --> 00:16:07,740
+Diterjemahkan oleh :
+--- ** Scalpel Team
+
+299
+00:16:07,741 --> 00:16:07,868
+Diterjemahkan oleh :
+--- ** Scalpel Team
+
+300
+00:16:07,868 --> 00:16:07,995
+Diterjemahkan oleh :
+--- ** Scalpel Team *
+
+301
+00:16:07,996 --> 00:16:08,122
+Diterjemahkan oleh :
+--- ** Scalpel Team **
+
+302
+00:16:08,123 --> 00:16:08,250
+Diterjemahkan oleh :
+--- ** Scalpel Team **-
+
+303
+00:16:08,251 --> 00:16:08,378
+Diterjemahkan oleh :
+--- ** Scalpel Team **--
+
+304
+00:16:08,379 --> 00:16:15,207
+Diterjemahkan oleh :
+--- ** <font color="#fbed00">Scalpel Team</font> **---
+
+305
+00:16:15,331 --> 00:16:17,422
+Bagus. Sekarang kau boleh pergi.
+
+306
+00:16:18,591 --> 00:16:19,753
+Baik.
+
+307
+00:16:30,001 --> 00:16:31,171
+Air.
+
+308
+00:16:33,745 --> 00:16:35,129
+Tolong ambilkan air.
+
+309
+00:16:45,005 --> 00:16:49,159
+Anda tak boleh minum air ini.
+
+310
+00:16:50,336 --> 00:16:53,943
+Aku haus. Aku minta minum.
+
+311
+00:16:56,909 --> 00:16:58,076
+Presdir!
+
+312
+00:16:58,076 --> 00:17:01,956
+Sadarlah! Sadarlah!
+
+313
+00:17:01,956 --> 00:17:04,583
+Yeo Jin, sadarlah!
+
+314
+00:17:04,583 --> 00:17:07,109
+Sadarlah!
+
+315
+00:17:07,109 --> 00:17:10,500
+Ada apa? Yeo Jin!
+
+316
+00:17:30,708 --> 00:17:33,440
+Samunim bilang apa?
+
+317
+00:17:34,673 --> 00:17:36,000
+Ada yang aneh.
+
+318
+00:17:36,000 --> 00:17:38,226
+Benar-benar aneh.
+
+319
+00:17:39,540 --> 00:17:41,910
+Saat kupikirkan lagi mengenai Presdir
+dari kemarim malam
+
+320
+00:17:41,910 --> 00:17:44,170
+aku pun tak mengerti.
+
+321
+00:17:44,170 --> 00:17:47,400
+Semestinya beliau benar-benar
+tak ingin bertemu Anda.
+
+322
+00:17:47,400 --> 00:17:51,977
+Maka beliau tak akan menyuruhku pergi.
+Tapi aku tak pernah menerima telepon sama sekali.
+
+323
+00:17:55,401 --> 00:17:56,727
+Apa maksudmu?
+
+324
+00:17:57,817 --> 00:18:00,204
+- Dia menyuruhmu pergi?
+- Apa?
+
+325
+00:18:04,210 --> 00:18:09,865
+Jujur saja, aku masih pengawal Anda.
+
+326
+00:18:09,865 --> 00:18:11,080
+Apa?
+
+327
+00:18:11,080 --> 00:18:14,397
+Aku pengawal rahasia yang dipekerjakan Presdir
+bukannya perusahaan.
+
+328
+00:18:16,634 --> 00:18:20,434
+Aku minta maaf. Beliau memintaku merahasiakannya.
+
+329
+00:18:23,826 --> 00:18:25,118
+Sudahlah.
+
+330
+00:18:25,118 --> 00:18:28,455
+Apa ada yang tahu mengenai hal ini?
+
+331
+00:18:28,455 --> 00:18:30,890
+Tidak ada yang tahu. Hanya Presdir saja.
+
+332
+00:18:32,803 --> 00:18:34,676
+Yeo Jibsa tahu.
+
+333
+00:18:47,510 --> 00:18:49,776
+-=Lee Sang Chu=-
+
+334
+00:18:54,113 --> 00:18:57,241
+- Halo, Sang Chul.
+- Halo.
+
+335
+00:18:57,241 --> 00:18:59,957
+=Kau menelponku soal cincin, kan?=
+
+336
+00:18:59,957 --> 00:19:02,250
+Cincin?
+
+337
+00:19:04,141 --> 00:19:06,184
+Jadi kau sudah melupakannya.
+
+338
+00:19:06,184 --> 00:19:10,284
+Kau meninggalkan cincin yang dibelikan
+Hyeongmu.
+
+339
+00:19:12,397 --> 00:19:13,684
+Iya.
+
+340
+00:19:13,684 --> 00:19:17,375
+=Kutinggalkan di tempat biasanya,
+jadi ambillah ke sini.=
+
+341
+00:19:17,375 --> 00:19:19,583
+Akan lebih bagus kalau kau mengambilnya hari ini.
+
+342
+00:19:19,583 --> 00:19:22,837
+Tapi akan ada tamu yang datang jam 7,
+jadi aku tak punya banyak waktu.
+
+343
+00:19:22,837 --> 00:19:25,784
+=Sebelum jam 7, ambillah.=
+
+344
+00:19:25,784 --> 00:19:27,830
+=Aku sibuk, sudah dulu ya.=
+
+345
+00:19:27,830 --> 00:19:34,242
+Oh ya, berhubung kau tidak ada,
+anjing tetangga terus saja masuk.
+
+346
+00:19:34,242 --> 00:19:35,957
+Baik.
+
+347
+00:19:48,853 --> 00:19:50,852
+Apa maksudnya semua itu?
+
+348
+00:19:52,166 --> 00:19:55,582
+- Memangnya kau punya Hyeong?
+- Tidak.
+
+349
+00:19:59,384 --> 00:20:04,776
+Yeo Jin sekarang di Gedung Timur
+tempat aku menginap dulu.
+
+350
+00:20:05,784 --> 00:20:08,199
+Para tamu akan datang jam 7...
+
+351
+00:20:09,199 --> 00:20:11,444
+jadi Jibsa ingin kau membawa Yeo Jin
+sebelum jam 7.
+
+352
+00:20:11,444 --> 00:20:15,335
+Sebentar. Dari mana Anda tahu
+apa maksud Jibsa Yeo?
+
+353
+00:20:16,425 --> 00:20:17,964
+Apa hubungannya dengn anjing tetangga?
+
+354
+00:20:22,026 --> 00:20:24,682
+- Pintu untuk anjing.
+- Pintu untuk anjing apa?
+
+355
+00:20:24,682 --> 00:20:27,951
+Iya, aku diam-diam memotong pagar.
+
+356
+00:20:29,713 --> 00:20:31,876
+Tapi bagaimana Jibsa Yeo bisa tahu?
+
+357
+00:20:40,742 --> 00:20:45,884
+Aigoo! Dokter hebat kita Kim Yong Pal!
+Lama tak bertemu!
+
+358
+00:20:47,242 --> 00:20:52,536
+Ngomong-omong ada apa nih
+tumbenan kau telepon?
+
+359
+00:20:53,930 --> 00:20:55,063
+Apa?
+
+360
+00:20:56,228 --> 00:21:01,785
+Bisa saja kalau si pemilik rumah yang melaporkannya.
+
+361
+00:21:03,689 --> 00:21:06,057
+Apa? Benarkah?
+
+362
+00:21:24,506 --> 00:21:26,338
+Pintu untuk anjing besar sekali.
+
+363
+00:21:26,338 --> 00:21:28,935
+Aku tak mau sampai terluka.
+
+364
+00:21:42,763 --> 00:21:44,459
+Sang Chul, ada apa kemari?
+
+365
+00:21:44,459 --> 00:21:46,785
+- Sudah lama tak ketemu.
+- Maaf.
+
+366
+00:22:13,007 --> 00:22:14,199
+Yeo Jin!
+
+367
+00:22:16,628 --> 00:22:17,892
+Yeo Jin.
+
+368
+00:22:20,813 --> 00:22:21,959
+Han Yeo Jin!
+
+369
+00:22:34,630 --> 00:22:35,837
+Tae Hyun.
+
+370
+00:22:40,709 --> 00:22:44,769
+Ini... sungguh kamu, kan?
+
+371
+00:22:46,428 --> 00:22:47,997
+Beneran kamu, kan?
+
+372
+00:22:51,548 --> 00:22:52,682
+Iya, aku.
+
+373
+00:22:57,969 --> 00:22:59,046
+Tae Hyun!
+
+374
+00:23:01,263 --> 00:23:02,532
+Tae Hyun...
+
+375
+00:23:07,546 --> 00:23:09,446
+Aku tahu kamu akan datang.
+
+376
+00:23:15,121 --> 00:23:19,265
+Tak apa-apa... Tak apa-apa...
+
+377
+00:23:31,266 --> 00:23:32,776
+Selamat datang.
+
+378
+00:23:34,796 --> 00:23:36,146
+Silakan masuk.
+
+379
+00:23:36,146 --> 00:23:40,696
+Kau pasti berubah pikiran
+supaya membuat kesan bagus pada Ju In yang baru.
+
+380
+00:23:51,392 --> 00:23:55,588
+Tidakkah ini terlalu mencolok untuk rumah
+yang akan segera jadi pemakaman?
+
+381
+00:23:57,459 --> 00:24:00,621
+Pemakaman artinya juga upacara penobatan.
+
+382
+00:24:02,502 --> 00:24:05,853
+Orang yang bilang begitu
+berakhir mati, kan?
+
+383
+00:24:11,459 --> 00:24:14,387
+Tapi... Young Ae di sini...
+
+384
+00:24:14,387 --> 00:24:16,453
+Menurutmu tak apa kita lakukan ini?
+
+385
+00:24:17,763 --> 00:24:21,105
+- Kami sudah memindahkannya ke kamar tamu.
+- Benarkah?
+
+386
+00:24:21,105 --> 00:24:22,788
+Bagus!
+
+387
+00:24:27,094 --> 00:24:29,215
+Presdir akan turun!
+
+388
+00:24:36,844 --> 00:24:38,267
+Bagaimana ini...
+
+389
+00:24:48,967 --> 00:24:50,199
+Presdir!
+
+390
+00:24:50,199 --> 00:24:52,250
+Sekuriti!
+
+391
+00:24:53,403 --> 00:24:54,538
+Sekuriti!
+
+392
+00:24:56,941 --> 00:24:59,226
+Bawa keluar mereka berdua!
+
+393
+00:25:01,766 --> 00:25:04,714
+Kenapa? Kau itu karyawannya siapa?
+
+394
+00:25:04,714 --> 00:25:05,797
+Kau ingin dipecat?
+
+395
+00:25:05,797 --> 00:25:07,335
+Direktur Min.
+
+396
+00:25:07,335 --> 00:25:09,753
+Hari ini kau dipecat.
+
+397
+00:25:15,922 --> 00:25:19,528
+Orang-orang ini bawa keluar semuanya!
+Keluar dari rumahku!
+
+398
+00:25:31,795 --> 00:25:34,201
+Begini ya, dalam penyergapan
+
+399
+00:25:34,201 --> 00:25:38,355
+kita harus menerobos masuk tiba-tiba
+dan berteriak, "jangan bergerak! Angkat tangan!"
+
+400
+00:25:38,355 --> 00:25:40,497
+- Ini agak...
+- Detektif Lee...
+
+401
+00:25:40,497 --> 00:25:45,297
+Apa tak seharusnya pencet bel?
+Kita harus bagaimana?
+
+402
+00:25:45,297 --> 00:25:47,165
+Anda ini...
+
+403
+00:25:48,891 --> 00:25:51,523
+Gerbang yang tak bisa kita buka...
+
+404
+00:25:52,560 --> 00:25:53,642
+Apa kita pergi saja?
+
+405
+00:26:02,789 --> 00:26:05,125
+Apa benar pencurinya masuk ke dalam rumah?
+
+406
+00:26:10,724 --> 00:26:12,824
+Sungguh kasus yang aneh.
+
+407
+00:26:12,824 --> 00:26:14,230
+Ada apa ini?
+
+408
+00:26:14,230 --> 00:26:16,142
+Biarkan saja.
+
+409
+00:26:19,882 --> 00:26:22,386
+- Anda Jibsa Yeo?
+- Ya.
+
+410
+00:26:24,188 --> 00:26:27,253
+- Tolong tunggu sebentar.
+- Ya.
+
+411
+00:26:31,880 --> 00:26:33,115
+Lepaskan aku!
+
+412
+00:26:35,964 --> 00:26:38,967
+Anggap saja ini kemunduran sementara
+dari strategi kita...
+
+413
+00:26:38,967 --> 00:26:41,086
+Siapa kalian?
+
+414
+00:26:41,086 --> 00:26:43,565
+Kami polisi.
+
+415
+00:26:43,565 --> 00:26:49,338
+Karena sudah masuk tanpa izin, penculikan,
+dan penahanan yang melanggar hukum...
+
+416
+00:26:49,338 --> 00:26:52,234
+Dan racun!
+Ya, kalian meracuninya.
+
+417
+00:26:52,234 --> 00:26:54,949
+Serta, pemalsuan dokumen hukum...
+
+418
+00:26:54,949 --> 00:26:58,688
+Polisi? Polisi.
+Tak ada satupun yang dari Kantor Kejaksaan?
+
+419
+00:26:59,844 --> 00:27:02,701
+Hei, telepon Komisaris sekarang juga!
+
+420
+00:27:02,701 --> 00:27:07,164
+Komisaris sedang berlibur, jadi Anda
+bisa menghubunginya nanti.
+
+421
+00:27:07,164 --> 00:27:12,272
+Pokoknya, yang ini dan lainnya atas berbagai tuduhan,
+kami menahan Anda.
+
+422
+00:27:12,272 --> 00:27:14,654
+- Jalan.
+- Perlihatkan dulu surat perintahnya padaku.
+
+423
+00:27:16,619 --> 00:27:18,089
+Surat perintah?
+
+424
+00:27:18,089 --> 00:27:20,261
+Kami tak butuh surat perintah.
+
+425
+00:27:20,261 --> 00:27:22,463
+Seorang residen menelepon 119 dan melaporkan
+
+426
+00:27:22,463 --> 00:27:26,201
+kalau ada sekelompok maling masuk ke rumah.
+
+427
+00:27:26,201 --> 00:27:27,269
+Apa?
+
+428
+00:27:27,269 --> 00:27:28,888
+Pemilik rumah ini...
+
+429
+00:27:30,260 --> 00:27:31,287
+Bisa kalian...
+
+430
+00:27:36,823 --> 00:27:38,887
+Anda yang melaporkannya, bukan?
+
+431
+00:27:39,971 --> 00:27:41,972
+- Ya.
+- Tangkap mereka sekarang!
+
+432
+00:27:41,972 --> 00:27:47,131
+- Lepaskan!
+- Lepaskan aku! Lepaskan aku.
+
+433
+00:27:47,156 --> 00:28:02,156
+<font color="#ff6464">Fanpage  DSS-INDO</font>
+www.facebook.com/DarkSmurfSubIndo
+
+434
+00:28:07,181 --> 00:28:22,181
+<font color="#c896ff">DSS-INDO BLOG :</font>
+http://dssindonesia.blogspot.com
+
+435
+00:28:23,616 --> 00:28:26,335
+Yeo Jin. Yeo Jin!
+
+436
+00:28:36,742 --> 00:28:38,300
+- Dr. Kim!
+- Kita harus bergegas.
+
+437
+00:28:38,300 --> 00:28:41,178
+Dia keracunan.
+Dia harus didialisis.
+
+438
+00:28:41,178 --> 00:28:43,413
+Dia gagal hati akut dan butuh infus dialisis.
+
+439
+00:28:43,413 --> 00:28:44,891
+Baik.
+
+440
+00:28:50,210 --> 00:28:52,173
+Jangan pergi, Tae Hyun.
+
+441
+00:28:55,989 --> 00:28:59,388
+Jangan khawatir. Aku akan ada di sisimu.
+
+442
+00:28:59,388 --> 00:29:01,228
+Aku takkan kemana-mana.
+
+443
+00:30:17,268 --> 00:30:20,157
+Presdir, Anda sudah siuman.
+
+444
+00:30:21,516 --> 00:30:22,709
+Keluar.
+
+445
+00:30:26,511 --> 00:30:27,954
+Kau tidak dengar aku?
+
+446
+00:30:36,083 --> 00:30:38,961
+Anda terpapar zat etionin dalam waktu yang lama.
+
+447
+00:30:38,961 --> 00:30:41,837
+Etionin itu tak berwarna dan berbau.
+
+448
+00:30:41,837 --> 00:30:45,596
+Ini bisa menyebabkan halusinasi...
+
+449
+00:30:46,884 --> 00:30:49,409
+dan kanker hati akut.
+
+450
+00:30:51,991 --> 00:30:53,230
+Kanker?
+
+451
+00:30:56,170 --> 00:30:59,442
+Sedang berkembang dari stadium 2 ke stadium 3.
+
+452
+00:31:01,070 --> 00:31:04,352
+Untungnya, ini tidak menyebar ke organ lain...
+
+453
+00:31:04,352 --> 00:31:08,682
+jadi prognosa Anda akan baik bila
+kita lakukan transplantasi hati.
+
+454
+00:31:09,968 --> 00:31:12,568
+Area yang kami operasi 3 tahun lalu
+
+455
+00:31:12,568 --> 00:31:16,077
+tumpang tindih dengan area transplantasi.
+
+456
+00:31:16,077 --> 00:31:20,823
+Karena adhesi, tingkat keberhasilan operasinya sangat rendah.
+
+457
+00:31:23,818 --> 00:31:26,942
+Karena saya yang melakukan operasinya 3 tahun yang lalu
+
+458
+00:31:26,942 --> 00:31:29,038
+akan lebih baik kalau saya yang melakukan operasinya...
+
+459
+00:31:29,038 --> 00:31:30,609
+Lebih baik?
+
+460
+00:31:30,609 --> 00:31:32,615
+Ya, benar.
+
+461
+00:31:35,836 --> 00:31:37,047
+Keluar.
+
+462
+00:31:43,035 --> 00:31:47,147
+Kalau saya pergi, takkan ada
+seorang pun yang akan masuk.
+
+463
+00:31:48,489 --> 00:31:51,627
+- Kau satu-satunya dokter di sini?
+- Ya.
+
+464
+00:31:51,627 --> 00:31:57,317
+Sayangnya, hanya sayalah dokter
+yang bersedia merawat Anda.
+
+465
+00:32:00,538 --> 00:32:02,460
+Kurasa aku tak punya kesempatan.
+
+466
+00:32:05,345 --> 00:32:08,248
+Untuk mengatakan pada Anda yang sebenarnya, lemah.
+
+467
+00:32:10,393 --> 00:32:17,374
+Apa itu artinya kau punya kekuasaan atasku
+dan akulah yang lemah di hadapanmu?
+
+468
+00:32:17,374 --> 00:32:18,471
+Tidak.
+
+469
+00:32:20,544 --> 00:32:24,432
+Kita hanya sebagai dokter dan pasien.
+
+470
+00:32:28,443 --> 00:32:29,669
+Hanya?
+
+471
+00:32:31,325 --> 00:32:33,743
+Kau adalah seorang dokter.
+
+472
+00:32:33,768 --> 00:32:33,907
+S
+
+473
+00:32:33,908 --> 00:32:34,047
+Su
+
+474
+00:32:34,047 --> 00:32:34,186
+Sub
+
+475
+00:32:34,187 --> 00:32:34,325
+Subt
+
+476
+00:32:34,326 --> 00:32:34,465
+Subti
+
+477
+00:32:34,466 --> 00:32:34,604
+Subtit
+
+478
+00:32:34,605 --> 00:32:34,744
+Subtitl
+
+479
+00:32:34,745 --> 00:32:34,883
+Subtitle
+
+480
+00:32:34,884 --> 00:32:35,023
+Subtitle
+
+481
+00:32:35,024 --> 00:32:35,162
+Subtitle o
+
+482
+00:32:35,163 --> 00:32:35,302
+Subtitle ol
+
+483
+00:32:35,303 --> 00:32:35,441
+Subtitle ole
+
+484
+00:32:35,442 --> 00:32:35,581
+Subtitle oleh
+
+485
+00:32:35,582 --> 00:32:35,720
+Subtitle oleh
+
+486
+00:32:35,721 --> 00:32:35,860
+Subtitle oleh :
+
+487
+00:32:35,861 --> 00:32:36,000
+Subtitle oleh :
+488
+00:32:36,001 --> 00:32:36,139
+Subtitle oleh :
+
+488
+00:32:36,140 --> 00:32:36,279
+Subtitle oleh :
+~
+
+489
+00:32:36,280 --> 00:32:36,418
+Subtitle oleh :
+~
+
+490
+00:32:36,419 --> 00:32:36,558
+Subtitle oleh :
+~ D
+
+491
+00:32:36,559 --> 00:32:36,697
+Subtitle oleh :
+~ Da
+
+492
+00:32:36,698 --> 00:32:36,837
+Subtitle oleh :
+~ Dar
+
+493
+00:32:36,838 --> 00:32:36,976
+Subtitle oleh :
+~ Dark
+
+494
+00:32:36,977 --> 00:32:37,116
+Subtitle oleh :
+~ DarkS
+
+495
+00:32:37,117 --> 00:32:37,255
+Subtitle oleh :
+~ DarkSm
+
+496
+00:32:37,256 --> 00:32:37,395
+Subtitle oleh :
+~ DarkSmu
+
+497
+00:32:37,396 --> 00:32:37,534
+Subtitle oleh :
+~ DarkSmur
+
+498
+00:32:37,535 --> 00:32:37,674
+Subtitle oleh :
+~ DarkSmurf
+
+499
+00:32:37,675 --> 00:32:37,814
+Subtitle oleh :
+~ DarkSmurfS
+
+500
+00:32:37,815 --> 00:32:37,953
+Subtitle oleh :
+~ DarkSmurfSu
+
+501
+00:32:37,954 --> 00:32:38,093
+Subtitle oleh :
+~ DarkSmurfSub
+
+502
+00:32:38,094 --> 00:32:38,232
+Subtitle oleh :
+~ DarkSmurfSub
+
+503
+00:32:38,233 --> 00:32:38,372
+Subtitle oleh :
+~ DarkSmurfSub I
+
+504
+00:32:38,373 --> 00:32:38,511
+Subtitle oleh :
+~ DarkSmurfSub In
+
+505
+00:32:38,512 --> 00:32:38,651
+Subtitle oleh :
+~ DarkSmurfSub Ind
+
+506
+00:32:38,652 --> 00:32:38,790
+Subtitle oleh :
+~ DarkSmurfSub Indo
+
+507
+00:32:38,791 --> 00:32:38,930
+Subtitle oleh :
+~ DarkSmurfSub Indon
+
+508
+00:32:38,931 --> 00:32:39,069
+Subtitle oleh :
+~ DarkSmurfSub Indone
+
+509
+00:32:39,070 --> 00:32:39,209
+Subtitle oleh :
+~ DarkSmurfSub Indones
+
+510
+00:32:39,210 --> 00:32:39,348
+Subtitle oleh :
+~ DarkSmurfSub Indonesi
+
+511
+00:32:39,349 --> 00:32:39,488
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+512
+00:32:39,489 --> 00:32:39,627
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+513
+00:32:39,628 --> 00:32:45,768
+Subtitle oleh :
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+514
+00:32:45,793 --> 00:32:51,093
+Diterjemahkan oleh :
+--- ** <font color="#fbed00">Scalpel Team</font> **---
+
+515
+00:32:51,280 --> 00:32:53,828
+Aku ingin hidup sedikit lebih lama...
+
+516
+00:33:02,143 --> 00:33:10,525
+Aku ingin hidup bahagia dengannya meski hanya sesaat.
+
+517
+00:33:20,281 --> 00:33:21,567
+Presdir.
+
+518
+00:33:26,180 --> 00:33:31,247
+Aku tak melakukan apapun selain menyakitinya selama ini.
+
+519
+00:33:33,444 --> 00:33:35,561
+Karena balas dendamku...
+
+520
+00:33:36,711 --> 00:33:40,107
+Karena gelar Presdir sialan ini...
+
+521
+00:33:47,482 --> 00:33:50,446
+Aku mohon bantuanmu.
+Sebagai seorang pasien.
+
+522
+00:33:51,886 --> 00:33:56,526
+Berikan aku sedikit waktu untuk hidup lebih lama lagi.
+
+523
+00:34:02,428 --> 00:34:07,374
+Aku ingin membuatnya bahagia.
+
+524
+00:34:19,851 --> 00:34:22,226
+Saya berjanji, sebagai dokter.
+
+525
+00:34:26,643 --> 00:34:28,179
+Saya akan lakukan yang terbaik.
+
+526
+00:34:48,050 --> 00:34:49,465
+Kau sudah datang.
+
+527
+00:34:49,465 --> 00:34:52,074
+- Dokter.
+- Ya?
+
+528
+00:34:54,378 --> 00:34:56,416
+Tolong pakai hatiku.
+
+529
+00:34:56,416 --> 00:35:00,179
+Golongan darahku sama dengan Presdir.
+
+530
+00:35:00,179 --> 00:35:03,449
+Ini sangat cocok saat aku mengeceknya 3 tahun lalu.
+
+531
+00:35:06,226 --> 00:35:08,324
+Pasti bagus kalau kita bisa berhasil.
+
+532
+00:35:55,780 --> 00:35:59,115
+Sudah kubilang ini agak adiktif.
+
+533
+00:36:00,574 --> 00:36:02,934
+Ya memang.
+
+534
+00:36:02,934 --> 00:36:04,983
+Enak.
+
+535
+00:36:19,088 --> 00:36:20,405
+Yeo Jin...
+
+536
+00:36:23,628 --> 00:36:24,628
+Yeo Jin.
+
+537
+00:36:25,916 --> 00:36:27,157
+Biarkan dia beristirahat.
+
+538
+00:36:29,202 --> 00:36:31,824
+Tubuhnya tak bisa menanganinya.
+
+539
+00:36:31,824 --> 00:36:36,820
+Dia harus meminimalisir aktifitasnya
+untuk bertahan sedikit lebih lama.
+
+540
+00:36:55,614 --> 00:36:58,869
+Kabag Lee, apa kita punya donor hati?
+
+541
+00:37:01,784 --> 00:37:02,967
+Pak.
+
+542
+00:37:09,849 --> 00:37:10,954
+Tae Hyun...
+
+543
+00:37:10,954 --> 00:37:14,693
+Transplantasi hati itu tidak memungkinkan
+dalam kondisinya yang begini...
+
+544
+00:37:14,693 --> 00:37:21,527
+dan bahkan kecil kemungkinan mengatasi adhesi dari Whipple.
+(<font color="#ffff80">Operasi Whipple : pengangkatan pankreas</font>)?</i>
+
+545
+00:37:21,527 --> 00:37:24,047
+Tak ada yang bersedia melakukannya sekarang.
+
+546
+00:37:35,072 --> 00:37:36,768
+Biar aku saja.
+
+547
+00:37:39,592 --> 00:37:41,494
+Jangan konyol!
+
+548
+00:37:46,152 --> 00:37:48,346
+Kau juga tahu kalau itu mustahil.
+
+549
+00:37:48,346 --> 00:37:52,862
+Ya, kalau aku bisa panggil dokter sepertimu,
+aku akan mencobanya.
+
+550
+00:37:52,862 --> 00:37:54,463
+Kuanggap diriku sudah tidak waras!
+
+551
+00:37:55,735 --> 00:37:57,210
+Tapi tidak 'kan!
+
+552
+00:37:59,614 --> 00:38:03,402
+Kalau aku tak punya hati nurani seperti dulu, pasti.
+
+553
+00:38:03,402 --> 00:38:07,731
+Aku akan biarkan Yeo Jin mati ditanganmu!
+Kubilang aku takkan bertanggung jawab!
+
+554
+00:38:12,257 --> 00:38:15,925
+Tapi segalanya berubah juga buatku.
+
+555
+00:38:15,925 --> 00:38:18,963
+Aku punya hati nurani sekarang karena kau.
+
+556
+00:38:18,963 --> 00:38:21,967
+Aku takkan membiarkannya mati
+kalau aku lebih tahu!
+
+557
+00:38:25,239 --> 00:38:26,813
+Lalu kita harus gimana?
+
+558
+00:38:35,054 --> 00:38:36,637
+Tunggulah sebentar.
+
+559
+00:38:36,637 --> 00:38:39,621
+Kita akan adakan pertemuan dengan spesialis ternama.
+
+560
+00:38:41,480 --> 00:38:43,449
+Mari kita gantungkan harapan di sana.
+
+561
+00:39:00,041 --> 00:39:02,307
+Wanita 31 tahun.
+
+562
+00:39:02,307 --> 00:39:07,063
+Karena pecahnya hati, empedu,
+dan pankreas 3 tahun lalu
+
+563
+00:39:07,063 --> 00:39:08,853
+kami melakukan prosedur Whipple.
+
+564
+00:39:08,853 --> 00:39:12,478
+Sekarang, dia mengidap kanker hati,
+jadi dia butuh transplantasi.
+
+565
+00:39:12,478 --> 00:39:16,177
+Pasti akan terjadi adhesi dalam prosedur Whipple.
+
+566
+00:39:16,177 --> 00:39:20,373
+Oleh sebab itu saya mengundang para spesialis ternama.
+
+567
+00:39:20,373 --> 00:39:22,969
+Meski akan sulit, bukan berarti tidak mungkin
+
+568
+00:39:22,969 --> 00:39:25,565
+hanya karena prosedur Whipple-nya.
+
+569
+00:39:25,565 --> 00:39:28,106
+Ya, itu benar.
+
+570
+00:39:28,106 --> 00:39:31,842
+Kita punya tingkat berhasilan tinggi
+dalam mengulang prosedur Whipple.
+
+571
+00:39:31,842 --> 00:39:37,722
+Kabag Lee, tidakkah seharusnya Anda
+perlihatkan kami CT-nya terlebih dulu?
+
+572
+00:39:37,722 --> 00:39:39,478
+Baik, akan saya perlihatkan.
+
+573
+00:39:47,503 --> 00:39:51,936
+Seperti yang Anda sekalian lihat, pasien ini--
+
+574
+00:39:51,936 --> 00:39:54,574
+Kita harus terima kenyataannya.
+
+575
+00:39:54,574 --> 00:39:57,371
+Akan sulit sekali. Maafkan aku.
+
+576
+00:40:06,675 --> 00:40:09,932
+Menurutku juga begitu, maaf.
+
+577
+00:40:12,197 --> 00:40:13,637
+Dokter, tolong tunggu sebentar!
+
+578
+00:40:15,014 --> 00:40:16,653
+Sayang sekali.
+
+579
+00:40:36,152 --> 00:40:39,010
+Pak Kepala! Profesor! Tolong tunggu dulu!
+
+580
+00:40:59,474 --> 00:41:00,923
+Pak...
+
+581
+00:41:04,402 --> 00:41:06,251
+Tolong operasi dia.
+
+582
+00:41:06,251 --> 00:41:10,789
+Tae Hyun, aku tidak bilang
+aku tak mau melakukannya.
+
+583
+00:41:10,789 --> 00:41:14,186
+Aku tak bisa. Kau sudah lihat semuanya.
+Hasil CT dan MRI.
+
+584
+00:41:14,186 --> 00:41:16,784
+Semua spesialis sudah angkat tangan.
+
+585
+00:41:18,836 --> 00:41:21,701
+Kita sudah mengembalikan nyawanya
+dengan operasi absurd 3 tahun lalu!
+
+586
+00:41:26,672 --> 00:41:28,360
+Anda...
+
+587
+00:41:31,072 --> 00:41:33,135
+Anda sudah menyelamatkannya.
+
+588
+00:41:36,889 --> 00:41:40,378
+Ya... memang.
+
+589
+00:41:43,472 --> 00:41:49,242
+Tapi, karena operasi yang absurd itu, sekarang...
+
+590
+00:41:51,476 --> 00:41:53,186
+Sekarang aku tak bisa!
+
+591
+00:42:07,802 --> 00:42:09,050
+Pak...
+
+592
+00:42:11,264 --> 00:42:15,166
+Kau... Kau itu kenapa sih?
+
+593
+00:42:15,166 --> 00:42:17,856
+Karena Anda sudah menyelamatkannya dulu...
+
+594
+00:42:19,867 --> 00:42:21,550
+tolong selamatkan dia lagi sekarang.
+
+595
+00:42:22,597 --> 00:42:23,597
+Tolong?
+
+596
+00:42:32,670 --> 00:42:37,541
+Aku mesti melakukan apa?
+
+597
+00:42:40,978 --> 00:42:42,918
+Kumohon, Pak...
+
+598
+00:42:45,610 --> 00:42:48,735
+Tolong selamatkan Yeo Jin-ku!
+
+599
+00:43:24,416 --> 00:43:27,643
+Aku tak mau operasi.
+
+600
+00:43:32,338 --> 00:43:33,559
+Apa?
+
+601
+00:43:36,525 --> 00:43:40,295
+Apa maksudmu?
+Kau akan segera dioperasi.
+
+602
+00:43:40,295 --> 00:43:42,313
+Tunggulah sebentar lagi.
+
+603
+00:43:45,847 --> 00:43:49,956
+Kenapa kalau bohong kamu kentara sekali?
+
+604
+00:43:51,780 --> 00:43:53,554
+Aku tidak bohong.
+
+605
+00:43:55,014 --> 00:43:57,574
+Kamu bisa dioperasi.
+
+606
+00:44:02,027 --> 00:44:04,063
+Sudahlah, Tae Hyun.
+
+607
+00:44:10,400 --> 00:44:12,079
+Tunggulah sebentar lagi.
+
+608
+00:44:12,079 --> 00:44:16,849
+Dokter yang akan melakukan operasinya
+akan segera datang.
+
+609
+00:44:26,289 --> 00:44:30,628
+Ngomong-ngomong, kenapa kamu tak memberiku cincinnya?
+
+610
+00:44:32,920 --> 00:44:34,219
+Huh?
+
+611
+00:44:34,219 --> 00:44:36,733
+Kamu beli cincin.
+
+612
+00:44:38,021 --> 00:44:39,853
+Kenapa kamu tak pasangkan di jariku?
+
+613
+00:44:44,565 --> 00:44:46,172
+Bukit Angin.
+
+614
+00:44:47,494 --> 00:44:48,523
+Apa?
+
+615
+00:44:49,592 --> 00:44:53,978
+Saat kamu sudah siuman,
+aku akan memasangkannya padamu di Bukit Angin.
+
+616
+00:45:01,255 --> 00:45:05,391
+Kalau begitu bawa aku kesana sekarang.
+
+617
+00:45:08,257 --> 00:45:09,880
+Apa?
+
+618
+00:45:09,880 --> 00:45:11,478
+Bukit Angin.
+
+619
+00:45:12,478 --> 00:45:14,077
+Oke.
+
+620
+00:45:14,077 --> 00:45:17,463
+Setelah operasi, saat kamu sudah benar-benar pulih.
+
+621
+00:45:19,733 --> 00:45:21,594
+Tae Hyun...
+
+622
+00:45:23,780 --> 00:45:26,039
+Jangan nanti-nanti...
+
+623
+00:45:27,445 --> 00:45:28,958
+Ayo kesana sekarang.
+
+624
+00:45:32,539 --> 00:45:33,791
+Tidak.
+
+625
+00:45:36,411 --> 00:45:39,338
+Mungkin saja ini permintaan terakhirku.
+
+626
+00:46:14,324 --> 00:46:17,777
+- Tae Hyun...
+- Ya?
+
+627
+00:46:17,777 --> 00:46:24,702
+Aku bisa pergi ke Bukit Angin, 'kan?
+
+628
+00:46:24,702 --> 00:46:27,800
+Kalau tak sanggup, haruskah kita balik lagi?
+
+629
+00:46:30,976 --> 00:46:35,527
+Tidak. Aku mau kesana.
+
+630
+00:46:37,876 --> 00:46:39,878
+Aku bisa.
+
+631
+00:47:03,541 --> 00:47:07,362
+Ajussi tolong lebih cepat. Kita harus sampai
+ke RS Hanshin sesegera mungkin.
+
+632
+00:47:07,362 --> 00:47:08,672
+Baik.
+
+633
+00:47:18,478 --> 00:47:20,027
+Aku berat ya?
+
+634
+00:47:21,402 --> 00:47:23,380
+Ya, kamu berat.
+
+635
+00:47:25,286 --> 00:47:27,130
+Turunkan aku.
+
+636
+00:47:33,099 --> 00:47:36,728
+Sudah sampai. Kita di Bukit Angin.
+
+637
+00:47:51,755 --> 00:47:54,795
+Mudah sekali menuju kemari.
+
+638
+00:47:56,376 --> 00:47:58,612
+Kenapa kita tak kemari lebih awal?
+
+639
+00:48:14,179 --> 00:48:18,572
+<i>Kudengar ini Bukit Angin.</i>
+
+640
+00:48:19,954 --> 00:48:23,800
+<i>Saat 2 orang ciuman disini...</i>
+
+641
+00:48:29,775 --> 00:48:34,335
+<i>mereka takkan terpisahkan.</i>
+
+642
+00:49:27,128 --> 00:49:28,411
+Cantiknya.
+
+643
+00:49:34,590 --> 00:49:39,777
+Kalau kita ciuman untuk yang kedua kalinya di sini...
+
+644
+00:49:44,530 --> 00:49:46,682
+kita takkan pernah berpisah.
+
+645
+00:50:50,304 --> 00:50:53,072
+Cynthia! Kau cepat sekali datangnya!
+
+646
+00:50:53,072 --> 00:50:54,369
+Tentu.
+
+647
+00:50:56,742 --> 00:51:00,242
+- Oh, Cynthia. Kenapa kau kemari?
+- Apa kabarmu?
+
+648
+00:51:00,242 --> 00:51:04,423
+Sedang tidak baik.
+Aku agak sibuk, jadi kita ngobrol lagi nanti.
+
+649
+00:51:04,423 --> 00:51:07,184
+Anda masih belum berubah pikiran?
+
+650
+00:51:07,184 --> 00:51:10,652
+- Tentang operasi Young Ae?
+- Apa?
+
+651
+00:51:10,652 --> 00:51:12,860
+Dari mana kau tahu?
+
+652
+00:51:15,501 --> 00:51:18,422
+Beri salam. Ini Yong Pal.
+
+653
+00:51:18,422 --> 00:51:20,240
+Hai.
+
+654
+00:51:21,617 --> 00:51:23,201
+Yong Pal?
+
+655
+00:51:23,201 --> 00:51:25,509
+Dia partner bisnisku.
+
+656
+00:51:25,509 --> 00:51:27,943
+Kupikir aku bisa membantumu
+mengambil keputusan yang tepat.
+
+657
+00:51:27,943 --> 00:51:30,068
+Kami datang karena kunjungan rumah ilegal.
+
+658
+00:51:30,093 --> 00:51:30,232
+S
+
+659
+00:51:30,233 --> 00:51:30,371
+Su
+
+660
+00:51:30,372 --> 00:51:30,511
+Sub
+
+661
+00:51:30,512 --> 00:51:30,650
+Subt
+
+662
+00:51:30,651 --> 00:51:30,790
+Subti
+
+663
+00:51:30,791 --> 00:51:30,929
+Subtit
+
+664
+00:51:30,930 --> 00:51:31,069
+Subtitl
+
+665
+00:51:31,070 --> 00:51:31,208
+Subtitle
+
+666
+00:51:31,209 --> 00:51:31,348
+Subtitle
+
+667
+00:51:31,349 --> 00:51:31,487
+Subtitle o
+
+668
+00:51:31,488 --> 00:51:31,627
+Subtitle ol
+
+669
+00:51:31,628 --> 00:51:31,766
+Subtitle ole
+
+670
+00:51:31,767 --> 00:51:31,906
+Subtitle oleh
+
+671
+00:51:31,907 --> 00:51:32,045
+Subtitle oleh
+
+672
+00:51:32,046 --> 00:51:32,185
+Subtitle oleh :
+
+673
+00:51:32,186 --> 00:51:32,325
+Subtitle oleh :
+675
+00:51:32,326 --> 00:51:32,464
+Subtitle oleh :
+
+674
+00:51:32,465 --> 00:51:32,604
+Subtitle oleh :
+~
+
+675
+00:51:32,605 --> 00:51:32,743
+Subtitle oleh :
+~
+
+676
+00:51:32,744 --> 00:51:32,883
+Subtitle oleh :
+~ D
+
+677
+00:51:32,884 --> 00:51:33,022
+Subtitle oleh :
+~ Da
+
+678
+00:51:33,023 --> 00:51:33,162
+Subtitle oleh :
+~ Dar
+
+679
+00:51:33,163 --> 00:51:33,301
+Subtitle oleh :
+~ Dark
+
+680
+00:51:33,302 --> 00:51:33,441
+Subtitle oleh :
+~ DarkS
+
+681
+00:51:33,442 --> 00:51:33,580
+Subtitle oleh :
+~ DarkSm
+
+682
+00:51:33,581 --> 00:51:33,720
+Subtitle oleh :
+~ DarkSmu
+
+683
+00:51:33,721 --> 00:51:33,859
+Subtitle oleh :
+~ DarkSmur
+
+684
+00:51:33,860 --> 00:51:33,999
+Subtitle oleh :
+~ DarkSmurf
+
+685
+00:51:34,000 --> 00:51:34,139
+Subtitle oleh :
+~ DarkSmurfS
+
+686
+00:51:34,140 --> 00:51:34,278
+Subtitle oleh :
+~ DarkSmurfSu
+
+687
+00:51:34,279 --> 00:51:34,418
+Subtitle oleh :
+~ DarkSmurfSub
+
+688
+00:51:34,419 --> 00:51:34,557
+Subtitle oleh :
+~ DarkSmurfSub
+
+689
+00:51:34,558 --> 00:51:34,697
+Subtitle oleh :
+~ DarkSmurfSub I
+
+690
+00:51:34,698 --> 00:51:34,836
+Subtitle oleh :
+~ DarkSmurfSub In
+
+691
+00:51:34,837 --> 00:51:34,976
+Subtitle oleh :
+~ DarkSmurfSub Ind
+
+692
+00:51:34,977 --> 00:51:35,115
+Subtitle oleh :
+~ DarkSmurfSub Indo
+
+693
+00:51:35,116 --> 00:51:35,255
+Subtitle oleh :
+~ DarkSmurfSub Indon
+
+694
+00:51:35,256 --> 00:51:35,394
+Subtitle oleh :
+~ DarkSmurfSub Indone
+
+695
+00:51:35,395 --> 00:51:35,534
+Subtitle oleh :
+~ DarkSmurfSub Indones
+
+696
+00:51:35,535 --> 00:51:35,673
+Subtitle oleh :
+~ DarkSmurfSub Indonesi
+
+697
+00:51:35,674 --> 00:51:35,813
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+698
+00:51:35,814 --> 00:51:35,952
+Subtitle oleh :
+~ DarkSmurfSub Indonesia
+
+699
+00:51:35,953 --> 00:51:42,593
+Subtitle oleh :
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+
+700
+00:51:43,849 --> 00:51:45,456
+Halo, Pak.
+
+701
+00:51:45,456 --> 00:51:48,576
+Tae Hyun, kembali sekarang juga.
+
+702
+00:51:48,576 --> 00:51:50,340
+Cepat! Bawa dia ke ruang operasi.
+
+703
+00:51:51,789 --> 00:51:53,032
+Baik, aku mengerti.
+
+704
+00:51:53,032 --> 00:51:56,809
+Yeo Jin... kamu bisa operasi sekarang.
+
+705
+00:51:59,244 --> 00:52:00,494
+Yeo Jin.
+
+706
+00:52:01,655 --> 00:52:02,715
+Yeo Jin!
+
+707
+00:52:08,831 --> 00:52:09,976
+Tae Hyun.
+
+708
+00:52:10,786 --> 00:52:12,231
+Dr. Kim, kau baik-baik saja?
+
+709
+00:52:12,231 --> 00:52:14,534
+- Ini orangnya?
+- Senang bertemu denganmu.
+
+710
+00:52:14,534 --> 00:52:17,494
+Aku juga Yong Pal.
+
+711
+00:52:17,494 --> 00:52:20,188
+Dia diadopsi oleh keluarga di Amerika
+dan masuk Johns Hopkins.
+
+712
+00:52:20,188 --> 00:52:23,693
+Dia sedang residensi, lalu terjadilah sesuatu.
+Seperti kau, Dr. Kim.
+
+713
+00:52:23,693 --> 00:52:26,186
+Sekarang, dialah Yong Pal.
+
+714
+00:52:26,186 --> 00:52:30,632
+Percayakan padanya. Penampilannya memang begini,
+tapi dia seperti hantu dalam operasi.
+
+715
+00:52:31,900 --> 00:52:33,539
+Yang paling penting, dia berpengalaman
+
+716
+00:52:33,539 --> 00:52:35,440
+sukses mengulang kembali prosedur Whipple.
+
+717
+00:52:37,043 --> 00:52:39,242
+Kau ngapain? Ganti baju sana.
+
+718
+00:52:42,159 --> 00:52:44,268
+Kita mulai?
+
+719
+00:52:53,346 --> 00:52:54,677
+Kau harus hati-hati.
+
+720
+00:52:54,677 --> 00:52:56,512
+Akan banyak terjadi adhesi.
+
+721
+00:52:56,537 --> 00:52:56,685
+D
+
+722
+00:52:56,686 --> 00:52:56,834
+Di
+
+723
+00:52:56,835 --> 00:52:56,983
+Dit
+
+724
+00:52:56,984 --> 00:52:57,132
+Dite
+
+725
+00:52:57,133 --> 00:52:57,281
+Diter
+
+726
+00:52:57,282 --> 00:52:57,430
+Diterj
+
+727
+00:52:57,431 --> 00:52:57,579
+Diterje
+
+728
+00:52:57,580 --> 00:52:57,727
+Diterjem
+
+729
+00:52:57,728 --> 00:52:57,876
+Diterjema
+
+730
+00:52:57,877 --> 00:52:58,025
+Diterjemah
+
+731
+00:52:58,026 --> 00:52:58,174
+Diterjemahk
+
+732
+00:52:58,175 --> 00:52:58,323
+Diterjemahka
+
+733
+00:52:58,324 --> 00:52:58,472
+Diterjemahkan
+
+734
+00:52:58,473 --> 00:52:58,621
+Diterjemahkan
+
+735
+00:52:58,622 --> 00:52:58,770
+Diterjemahkan o
+
+736
+00:52:58,771 --> 00:52:58,919
+Diterjemahkan ol
+
+737
+00:52:58,920 --> 00:52:59,068
+Diterjemahkan ole
+
+738
+00:52:59,069 --> 00:52:59,217
+Diterjemahkan oleh
+
+739
+00:52:59,218 --> 00:52:59,366
+Diterjemahkan oleh
+
+740
+00:52:59,367 --> 00:52:59,515
+Diterjemahkan oleh :
+
+741
+00:52:59,516 --> 00:52:59,664
+Diterjemahkan oleh :
+744
+00:52:59,665 --> 00:52:59,813
+Diterjemahkan oleh :
+
+742
+00:52:59,814 --> 00:52:59,962
+Diterjemahkan oleh :
+-
+
+743
+00:52:59,963 --> 00:53:00,110
+Diterjemahkan oleh :
+--
+
+744
+00:53:00,111 --> 00:53:00,259
+Diterjemahkan oleh :
+---
+
+745
+00:53:00,260 --> 00:53:00,408
+Diterjemahkan oleh :
+---
+
+746
+00:53:00,409 --> 00:53:00,557
+Diterjemahkan oleh :
+--- *
+
+747
+00:53:00,558 --> 00:53:00,706
+Diterjemahkan oleh :
+--- **
+
+748
+00:53:00,707 --> 00:53:00,855
+Diterjemahkan oleh :
+--- **
+
+749
+00:53:00,856 --> 00:53:01,004
+Diterjemahkan oleh :
+--- ** S
+
+750
+00:53:01,005 --> 00:53:01,153
+Diterjemahkan oleh :
+--- ** Sc
+
+751
+00:53:01,154 --> 00:53:01,302
+Diterjemahkan oleh :
+--- ** Sca
+
+752
+00:53:01,303 --> 00:53:01,451
+Diterjemahkan oleh :
+--- ** Scal
+
+753
+00:53:01,452 --> 00:53:01,600
+Diterjemahkan oleh :
+--- ** Scalp
+
+754
+00:53:01,601 --> 00:53:01,749
+Diterjemahkan oleh :
+--- ** Scalpe
+
+755
+00:53:01,750 --> 00:53:01,898
+Diterjemahkan oleh :
+--- ** Scalpel
+
+756
+00:53:01,899 --> 00:53:02,047
+Diterjemahkan oleh :
+--- ** Scalpel
+
+757
+00:53:02,048 --> 00:53:02,196
+Diterjemahkan oleh :
+--- ** Scalpel T
+
+758
+00:53:02,197 --> 00:53:02,345
+Diterjemahkan oleh :
+--- ** Scalpel Te
+
+759
+00:53:02,346 --> 00:53:02,493
+Diterjemahkan oleh :
+--- ** Scalpel Tea
+
+760
+00:53:02,494 --> 00:53:02,642
+Diterjemahkan oleh :
+--- ** Scalpel Team
+
+761
+00:53:02,643 --> 00:53:02,791
+Diterjemahkan oleh :
+--- ** Scalpel Team
+
+762
+00:53:02,792 --> 00:53:02,940
+Diterjemahkan oleh :
+--- ** Scalpel Team *
+
+763
+00:53:02,941 --> 00:53:03,089
+Diterjemahkan oleh :
+--- ** Scalpel Team **
+
+764
+00:53:03,090 --> 00:53:03,238
+Diterjemahkan oleh :
+--- ** Scalpel Team **-
+
+765
+00:53:03,239 --> 00:53:03,387
+Diterjemahkan oleh :
+--- ** Scalpel Team **--
+
+766
+00:53:03,388 --> 00:53:11,537
+Diterjemahkan oleh :
+--- ** <font color="#fbed00">Scalpel Team</font> **---
+
+767
+00:53:20,222 --> 00:53:22,389
+Adhesinya lebih buruk daripada yang kuduga.
+
+768
+00:53:22,389 --> 00:53:24,047
+Akan sangat beresiko.
+
+769
+00:53:24,047 --> 00:53:27,527
+Organ lain bisa rusak.
+
+770
+00:53:42,746 --> 00:53:43,945
+Scissors.
+
+771
+00:53:47,400 --> 00:53:48,865
+Are you in?
+
+772
+00:53:48,865 --> 00:53:52,552
+Oke. Scissors.
+
+773
+00:54:00,985 --> 00:54:05,436
+Sekarang, jangan cemaskan apapun.
+Kau bisa tenang.
+
+774
+00:54:05,436 --> 00:54:06,818
+Ya.
+
+775
+00:54:09,043 --> 00:54:10,797
+Kita sudah siap, Pak.
+
+776
+00:54:24,583 --> 00:54:25,664
+Scissors.
+
+777
+00:54:48,650 --> 00:54:51,251
+<i>Yeo Jin... bertahanlah!</i>
+
+778
+00:54:51,251 --> 00:54:52,619
+<i>Kumohon.</i>
+
+779
+00:54:57,193 --> 00:55:01,911
+<i>Cara untuk meloloskan diri dari mimpi buruk
+adalah bangun dari tidurmu.</i>
+
+780
+00:55:01,911 --> 00:55:05,253
+<i>Tapi selama kau menolak untuk bangun</i>
+
+781
+00:55:05,253 --> 00:55:07,329
+<i>mimpi buruk akan terus berlanjut.</i>
+
+782
+00:55:07,329 --> 00:55:11,548
+<i>Mimpi buruk tersebut akan berubah jadi kenyataan lain</i>
+
+783
+00:55:11,548 --> 00:55:15,141
+<i>dan kenyataan itu takkan berhenti.</i>
+
+784
+00:55:15,141 --> 00:55:19,782
+<i>Sampai dia memanggil namaku.</i>
+
+785
+00:55:19,782 --> 00:55:21,559
+Yeo Jin.
+
+786
+00:55:21,559 --> 00:55:23,849
+Yeo Jin, kamu bisa mendengarkanku?
+
+787
+00:55:30,891 --> 00:55:32,824
+Kamu tahu siapa aku?
+
+788
+00:55:35,978 --> 00:55:37,289
+<i>Yong Pal.</i>
+
+789
+00:55:39,157 --> 00:55:45,617
+<i>[Terima kasih sudah menyaksikan Yong Pal.]</i>
+
+790
+00:55:45,617 --> 00:55:47,594
+<i>[A Yong Pal pemutaran pertama.]</i>
+
+791
+00:55:48,574 --> 00:55:53,574
+<i>[Yong Pal]</i>
+
+792
+00:55:58,373 --> 00:56:00,259
+<i>Yong Pal? Dukun berbakat?</i>
+
+793
+00:56:00,259 --> 00:56:02,713
+Tak akan ada yang mati di sini!
+
+794
+00:56:02,713 --> 00:56:04,652
+Jangan mendekat!
+Jangan mendekat!
+
+795
+00:56:06,056 --> 00:56:08,137
+Ayo!
+
+796
+00:56:08,137 --> 00:56:09,309
+Haruskah kau kuberi uangnya?
+
+797
+00:56:10,818 --> 00:56:12,971
+Kumohon buka matamu!
+
+798
+00:56:14,706 --> 00:56:16,570
+- Mereka akan membunuhku.
+- Aku Yong Pal.
+
+799
+00:56:18,554 --> 00:56:21,532
+Darah!
+
+800
+00:56:26,045 --> 00:56:27,161
+Tae Hyun, sadarlah!
+
+801
+00:56:28,824 --> 00:56:30,527
+<i>Aku juga buaya. Seekor buaya harus hidup dengan buaya lainnya.</i>
+
+802
+00:56:38,150 --> 00:56:42,231
+Sampai jumpa.
+
+803
+00:56:42,231 --> 00:56:43,650
+<i>Suatu saat nanti kau akan merindukan piknik.</i>
+
+804
+00:56:45,045 --> 00:56:49,173
+Kalau aku datang lagi, maukah kau menerimaku kembali?
+
+805
+00:56:49,173 --> 00:56:52,224
+Kalau aku kembali, kamu mau menerimaku?
+
+806
+00:56:52,249 --> 00:57:09,249
+Terima kasih telah menyaksikan "<font color="#80ffff">Yong Pal</font>" bersama
+~ <font color="#808080">Dark</font><font color="#ff8000">Smurf</font><font color="#808080">Sub</font> <font color="#ff0000">Indonesia</font> ~
+

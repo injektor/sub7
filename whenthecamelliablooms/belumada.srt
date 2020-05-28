@@ -1,0 +1,3 @@
+﻿1
+00:00:00,500 --> 00:15:00,500
+<font color="#0080ff"><b>Belum ada subtitle</b></font>

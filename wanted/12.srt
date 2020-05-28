@@ -1,0 +1,3319 @@
+1
+00:00:09,470 --> 00:00:11,520
+<font color="yellow"><i>[EPISODE 12]</i></font>
+
+2
+00:00:19,040 --> 00:00:21,000
+<font color="yellow">I'll go alone from here.</font>
+
+3
+00:00:21,000 --> 00:00:22,310
+<font color="yellow">Will you be okay?</font>
+
+4
+00:00:22,310 --> 00:00:24,680
+<font color="yellow">I don't have much time before we air.</font>
+
+5
+00:00:24,680 --> 00:00:28,150
+<font color="yellow">I think we risk exposure if
+the three of us stick together.</font>
+
+6
+00:00:28,150 --> 00:00:30,050
+<font color="yellow">Call someone from your team
+or Lieutenant Cha</font>
+
+7
+00:00:30,050 --> 00:00:31,320
+<font color="yellow">and don't go anywhere alone.</font>
+
+8
+00:00:31,320 --> 00:00:32,500
+<font color="yellow">Okay.</font>
+
+9
+00:00:32,500 --> 00:00:34,890
+<font color="yellow">Let me know when you find a safe place.</font>
+
+10
+00:01:00,830 --> 00:01:01,880
+<font color="yellow">I'm sorry.</font>
+
+11
+00:01:01,880 --> 00:01:04,030
+<font color="yellow">I can't have any more complications.</font>
+
+12
+00:02:14,120 --> 00:02:20,720
+<font color="yellow"><i>If anything happens to me,
+send this to a TV station or a newspaper.</i></font>
+
+13
+00:02:20,730 --> 00:02:23,750
+<font color="yellow"><i>I'm sorry to put this burden on you.</i></font>
+
+14
+00:02:23,750 --> 00:02:27,030
+<font color="yellow"><i>I'm sorry I couldn't protect you.</i></font>
+
+15
+00:02:43,520 --> 00:02:47,070
+<font color="yellow">It seems like they've determined
+that Ha Dong Min committed suicide.</font>
+
+16
+00:02:47,070 --> 00:02:49,170
+<font color="yellow">The autopsy report isn't out yet.</font>
+
+17
+00:02:50,310 --> 00:02:52,190
+<font color="yellow">What about the CCTV inside the prison?</font>
+
+18
+00:02:52,190 --> 00:02:54,840
+<font color="yellow">The precinct is being very uncooperative.</font>
+
+19
+00:02:54,850 --> 00:02:56,840
+<font color="yellow">We're not in charge
+of this investigation</font>
+
+20
+00:02:56,840 --> 00:02:58,840
+<font color="yellow">so we have no jurisdiction.</font>
+
+21
+00:03:07,880 --> 00:03:09,910
+<font color="yellow">Do you have any time?</font>
+
+22
+00:03:09,910 --> 00:03:11,470
+<font color="yellow">I have some questions I want to ask.</font>
+
+23
+00:03:11,470 --> 00:03:13,860
+<font color="yellow"><i>I'm really busy right now.
+Come down to see me.</i></font>
+
+24
+00:03:20,270 --> 00:03:22,400
+<font color="yellow">You're a great teacher there.</font>
+
+25
+00:03:22,400 --> 00:03:25,850
+<font color="yellow">I heard you didn't join the
+investigation team and I wondered why.</font>
+
+26
+00:03:25,850 --> 00:03:28,490
+<font color="yellow">Don't you know how to investigate
+anything officially?</font>
+
+27
+00:03:29,060 --> 00:03:30,390
+<font color="yellow">Did you look into it?</font>
+
+28
+00:03:31,390 --> 00:03:33,140
+<font color="yellow">You didn't have to ask me.</font>
+
+29
+00:03:33,140 --> 00:03:35,570
+<font color="yellow">It's been bothering me ever
+since Park Sae Yong's death</font>
+
+30
+00:03:35,570 --> 00:03:37,230
+<font color="yellow">so I looked into it.</font>
+
+31
+00:03:37,230 --> 00:03:39,420
+<font color="yellow">Was it suicide?</font>
+
+32
+00:03:41,840 --> 00:03:46,740
+<font color="yellow">They're trying to push the investigation
+in that direction and close the case.</font>
+
+33
+00:03:46,740 --> 00:03:51,470
+<font color="yellow">The medical examiner in charge told me
+unofficially that it could be murder.</font>
+
+34
+00:03:52,660 --> 00:03:53,840
+<font color="yellow">Is that for sure?</font>
+
+35
+00:03:54,670 --> 00:03:57,500
+<font color="yellow">The spot where he was positioned
+with the noose around his neck</font>
+
+36
+00:03:57,500 --> 00:03:59,260
+<font color="yellow">is different than where
+the strangulation is.</font>
+
+37
+00:03:59,590 --> 00:04:02,080
+<font color="yellow">He has multiple strangulation
+marks on his throat.</font>
+
+38
+00:04:02,090 --> 00:04:04,430
+<font color="yellow">He has defensive wounds
+on his hands and feet.</font>
+
+39
+00:04:04,440 --> 00:04:08,870
+<font color="yellow">The crime scene photos show his pants
+and shirt rolled up on one side.</font>
+
+40
+00:04:08,870 --> 00:04:14,200
+<font color="yellow">It probably happened when was dragged
+across the floor after being strangled.</font>
+
+41
+00:04:14,890 --> 00:04:16,970
+<font color="yellow">When will there be official results?</font>
+
+42
+00:04:16,970 --> 00:04:19,470
+<font color="yellow">We already have the results</font>
+
+43
+00:04:19,470 --> 00:04:21,980
+<font color="yellow">but they're delaying
+to look for evidence.</font>
+
+44
+00:04:21,980 --> 00:04:23,700
+<font color="yellow">They're trying to prove it was suicide.</font>
+
+45
+00:04:23,700 --> 00:04:25,820
+<font color="yellow">Who could be ordering
+them to do such a thing?</font>
+
+46
+00:04:26,290 --> 00:04:27,630
+<font color="yellow">I don't know.</font>
+
+47
+00:04:28,440 --> 00:04:29,860
+<font color="yellow">But, be careful.</font>
+
+48
+00:04:30,370 --> 00:04:32,550
+<font color="yellow">I heard Chief Jung is being
+disciplined right now.</font>
+
+49
+00:04:32,550 --> 00:04:35,540
+<font color="yellow">If something happens to you,
+he won't be able to help you.</font>
+
+50
+00:04:36,330 --> 00:04:39,150
+<font color="yellow">Anyway, thank you.
+I'll call you again.</font>
+
+51
+00:04:39,150 --> 00:04:41,720
+<font color="yellow">Don't call me.
+I don't like hearing from you.</font>
+
+52
+00:04:47,150 --> 00:04:49,270
+<font color="yellow">Senior, can't you just tell me?</font>
+
+53
+00:04:49,270 --> 00:04:53,150
+<font color="yellow">Who killed Na Soo Hyun and
+how did you know to go there?</font>
+
+54
+00:04:57,990 --> 00:04:59,950
+<font color="yellow">I'm not trying to keep secrets from you.</font>
+
+55
+00:05:00,270 --> 00:05:01,880
+<font color="yellow">This isn't because I don't trust you.</font>
+
+56
+00:05:01,880 --> 00:05:04,240
+<font color="yellow">Then why won't you tell me?</font>
+
+57
+00:05:04,240 --> 00:05:06,460
+<font color="yellow">I don't want to drag you into this.</font>
+
+58
+00:05:07,060 --> 00:05:10,250
+<font color="yellow">You might end up having to quit,
+and it's dangerous.</font>
+
+59
+00:05:15,210 --> 00:05:17,050
+<font color="yellow">Then what is it that I can do?</font>
+
+60
+00:05:17,050 --> 00:05:18,900
+<font color="yellow">Tell me that, at least.</font>
+
+61
+00:05:21,340 --> 00:05:23,190
+<font color="yellow">We don't have much time.</font>
+
+62
+00:05:23,190 --> 00:05:25,740
+<font color="yellow">The kidnapper doesn't know
+that Na Soo Hyun is dead.</font>
+
+63
+00:05:25,740 --> 00:05:28,740
+<font color="yellow">He'll worry if he doesn't hear from him
+and that Lee Ji Eun is missing too.</font>
+
+64
+00:05:28,810 --> 00:05:29,920
+<font color="yellow">That's true.</font>
+
+65
+00:05:29,920 --> 00:05:32,970
+<font color="yellow">Let's find out who he is today.</font>
+
+66
+00:05:32,970 --> 00:05:34,010
+<font color="yellow">Okay.</font>
+
+67
+00:05:34,010 --> 00:05:37,410
+<font color="yellow">Na Soo Hyun didn't start all this
+just because of his brother.</font>
+
+68
+00:05:37,410 --> 00:05:42,330
+<font color="yellow">No, his brother Na Jae Hyun got involved
+because of his sister Na Young Hyun.</font>
+
+69
+00:05:43,580 --> 00:05:49,420
+<font color="yellow">Didn't you say that Na Young Hyun died
+of an illness two years before all that?</font>
+
+70
+00:05:50,160 --> 00:05:51,820
+<font color="yellow">Let's start from there.</font>
+
+71
+00:05:51,820 --> 00:05:55,240
+<font color="yellow">Find out how she died
+and look into her medical records.</font>
+
+72
+00:05:55,250 --> 00:05:56,410
+<font color="yellow">Okay.</font>
+
+73
+00:06:02,230 --> 00:06:04,470
+<font color="yellow">Yes, Jung Hye In.
+Where are you?</font>
+
+74
+00:06:04,470 --> 00:06:08,730
+<font color="yellow">I'm at the station now.
+Lieutenant Oh is with Lee Ji Eun.</font>
+
+75
+00:06:09,090 --> 00:06:11,680
+<font color="yellow">She said she'd find a place
+and contact me.</font>
+
+76
+00:06:12,710 --> 00:06:15,390
+<font color="yellow">What happened to Na Soo Hyun?</font>
+
+77
+00:06:18,160 --> 00:06:21,070
+<font color="yellow">He was killed... by them.</font>
+
+78
+00:06:23,050 --> 00:06:24,630
+<font color="yellow">I was too late.</font>
+
+79
+00:06:26,080 --> 00:06:27,300
+<font color="yellow">I'm sorry.</font>
+
+80
+00:06:28,100 --> 00:06:30,500
+<font color="yellow">Na Soo Hyun, Lee Ji Eun,
+and Park Sae Yong.</font>
+
+81
+00:06:31,490 --> 00:06:35,130
+<font color="yellow">Now none of the kidnapper's
+accomplices can help him.</font>
+
+82
+00:06:35,130 --> 00:06:36,850
+<font color="yellow">He will get desperate.</font>
+
+83
+00:06:36,850 --> 00:06:40,710
+<font color="yellow">He will think he has no time and
+his identity may be revealed.</font>
+
+84
+00:06:40,710 --> 00:06:42,270
+<font color="yellow">We have to move fast.</font>
+
+85
+00:06:42,270 --> 00:06:46,000
+<font color="yellow">I found a video tape that Lee Ji Eun's
+father left before she died.</font>
+
+86
+00:06:46,600 --> 00:06:49,950
+<font color="yellow">I'll take a look at it
+and call you if I find anything.</font>
+
+87
+00:06:50,400 --> 00:06:51,890
+<font color="yellow">I need to investigate something too.</font>
+
+88
+00:06:51,890 --> 00:06:53,380
+<font color="yellow">I'll call you later.</font>
+
+89
+00:06:54,320 --> 00:06:56,280
+<font color="yellow">I think you all comprehend
+the situation now.</font>
+
+90
+00:06:56,300 --> 00:06:58,620
+<font color="yellow">We have a mountain of issues
+besides what I mentioned.</font>
+
+91
+00:06:58,620 --> 00:07:01,440
+<font color="yellow">You should be prepared to deal
+with it personally, as well.</font>
+
+92
+00:07:02,510 --> 00:07:03,730
+<font color="yellow">Are we finished now?</font>
+
+93
+00:07:03,730 --> 00:07:07,720
+<font color="yellow">Yes, it's only the first meeting.
+We'll end it here for now.</font>
+
+94
+00:07:09,810 --> 00:07:13,190
+<font color="yellow">By the way, what is today's mission?</font>
+
+95
+00:07:13,190 --> 00:07:15,880
+<font color="yellow">Does it have to do with Choi Pil Kyu,
+by any chance?</font>
+
+96
+00:07:15,880 --> 00:07:18,560
+<font color="yellow">I heard that Jung Hye In found
+him by a Han River bridge</font>
+
+97
+00:07:18,560 --> 00:07:20,690
+<font color="yellow">and called in last night.</font>
+
+98
+00:07:24,350 --> 00:07:26,860
+<font color="yellow">It will be difficult if you
+continue to be so uncooperative.</font>
+
+99
+00:07:28,110 --> 00:07:30,500
+<font color="yellow">Whatever the case,
+I'll say one last thing.</font>
+
+100
+00:07:30,500 --> 00:07:33,580
+<font color="yellow">You can no longer have your mission
+targets appear on your show.</font>
+
+101
+00:07:34,480 --> 00:07:36,330
+<font color="yellow">Didn't you say you're
+here to resolve issues</font>
+
+102
+00:07:36,330 --> 00:07:37,650
+<font color="yellow">not control the content?</font>
+
+103
+00:07:37,650 --> 00:07:40,080
+<font color="yellow">The best way to solve
+problems is with prevention.</font>
+
+104
+00:07:40,080 --> 00:07:42,940
+<font color="yellow">There was a risk of aiding
+and abetting a murderer before.</font>
+
+105
+00:07:42,940 --> 00:07:44,940
+<font color="yellow">Even if the person lives</font>
+
+106
+00:07:44,940 --> 00:07:46,940
+<font color="yellow">there is the risk of
+a defamation lawsuit.</font>
+
+107
+00:07:46,940 --> 00:07:51,200
+<font color="yellow">There is the issue that this show
+has an image that it is immoral.</font>
+
+108
+00:07:51,200 --> 00:07:54,630
+<font color="yellow">We will take it into consideration.
+Why don't you leave now?</font>
+
+109
+00:07:59,950 --> 00:08:01,320
+<font color="yellow">Ah, Jung Hye In.</font>
+
+110
+00:08:02,070 --> 00:08:04,400
+<font color="yellow">I'm Lawyer Kim Sang Woo from Ohsung.</font>
+
+111
+00:08:06,920 --> 00:08:08,920
+<font color="yellow">I think you should know.</font>
+
+112
+00:08:08,920 --> 00:08:12,220
+<font color="yellow">Starting today, we will need to know
+the structure of the show before it airs.</font>
+
+113
+00:08:12,220 --> 00:08:13,580
+<font color="yellow">Wait a minute!</font>
+
+114
+00:08:14,030 --> 00:08:15,920
+<font color="yellow">We didn't discuss that earlier.</font>
+
+115
+00:08:15,920 --> 00:08:18,600
+<font color="yellow">This is our president's policy
+as per our counsel.</font>
+
+116
+00:08:19,030 --> 00:08:21,980
+<font color="yellow">You have often acted on your own.</font>
+
+117
+00:08:21,980 --> 00:08:24,820
+<font color="yellow">You have gone off script
+on the air, as well.</font>
+
+118
+00:08:24,830 --> 00:08:28,320
+<font color="yellow">You even got SG to acquire
+UCN on your own.</font>
+
+119
+00:08:28,320 --> 00:08:29,640
+<font color="yellow">What's your point?</font>
+
+120
+00:08:29,640 --> 00:08:33,440
+<font color="yellow">We would like you to follow the script
+and not act on your own from now on.</font>
+
+121
+00:08:33,450 --> 00:08:37,540
+<font color="yellow">At times, you will have to
+agree to some of our requests.</font>
+
+122
+00:08:39,550 --> 00:08:42,460
+<font color="yellow">Will that increase my chances
+of finding Hyun Woo?</font>
+
+123
+00:08:43,600 --> 00:08:44,780
+<font color="yellow">That's not it.</font>
+
+124
+00:08:44,780 --> 00:08:48,150
+<font color="yellow">You have handed the station over to us,
+so you should follow our policies...</font>
+
+125
+00:08:48,150 --> 00:08:50,140
+<font color="yellow">I can't promise you anything.</font>
+
+126
+00:08:50,200 --> 00:08:53,290
+<font color="yellow">You can deal with your
+management issues on your own.</font>
+
+127
+00:08:55,360 --> 00:08:56,950
+<font color="yellow">How are the preparations going?</font>
+
+128
+00:09:04,670 --> 00:09:05,960
+<font color="yellow">Where have you been?</font>
+
+129
+00:09:06,460 --> 00:09:08,010
+<font color="yellow">I had something to take care of.</font>
+
+130
+00:09:09,170 --> 00:09:11,320
+<font color="yellow">I received proof that Hyun Woo is alive.</font>
+
+131
+00:09:16,820 --> 00:09:18,120
+<font color="yellow"><i>Hyun Woo.</i></font>
+
+132
+00:09:18,550 --> 00:09:21,150
+<font color="yellow"><i>I told you not to watch this.</i></font>
+
+133
+00:09:21,640 --> 00:09:23,120
+<font color="yellow"><i>It's not a good show.</i></font>
+
+134
+00:09:23,120 --> 00:09:24,700
+<font color="yellow"><i>Your mom won't like it either.</i></font>
+
+135
+00:09:24,700 --> 00:09:25,910
+<font color="yellow">Bo Yeon.</font>
+
+136
+00:09:26,950 --> 00:09:29,160
+<font color="yellow">I wanted to talk to you for a bit.</font>
+
+137
+00:09:30,280 --> 00:09:32,140
+<font color="yellow">Oh, okay.</font>
+
+138
+00:09:33,110 --> 00:09:34,960
+<font color="yellow">Let's have a meeting once I'm back.</font>
+
+139
+00:09:37,670 --> 00:09:39,010
+<font color="yellow">If you're hiding something...</font>
+
+140
+00:09:39,010 --> 00:09:41,200
+<font color="yellow">If it's something we need
+for the show, I'll tell you.</font>
+
+141
+00:09:42,020 --> 00:09:44,020
+<font color="yellow">I won't stab you in the back
+with a live audience</font>
+
+142
+00:09:44,020 --> 00:09:45,410
+<font color="yellow">like you did to me yesterday.</font>
+
+143
+00:09:48,720 --> 00:09:51,280
+<font color="yellow">I didn't have time to tell you
+and it was a method that worked.</font>
+
+144
+00:09:51,280 --> 00:09:54,760
+<font color="yellow">If you were able to do a close-up
+on a picture on a dead body</font>
+
+145
+00:09:55,490 --> 00:09:57,870
+<font color="yellow">then didn't some planning go into that?</font>
+
+146
+00:10:01,280 --> 00:10:02,430
+<font color="yellow">I'll be back.</font>
+
+147
+00:10:20,060 --> 00:10:22,600
+<font color="yellow">Why are we in the editing room?</font>
+
+148
+00:10:22,600 --> 00:10:24,310
+<font color="yellow">Do you need to check something?</font>
+
+149
+00:10:24,310 --> 00:10:25,890
+<font color="yellow">Make this play for me.</font>
+
+150
+00:10:26,610 --> 00:10:29,130
+<font color="yellow">I'm not good at this stuff.</font>
+
+151
+00:10:30,080 --> 00:10:32,190
+<font color="yellow">What is it?</font>
+
+152
+00:10:32,560 --> 00:10:35,330
+<font color="yellow">I'll look at first and then let you know.</font>
+
+153
+00:10:36,490 --> 00:10:40,820
+<font color="yellow">Don't tell anyone yet.</font>
+
+154
+00:10:42,150 --> 00:10:43,660
+<font color="yellow">Okay, I won't.</font>
+
+155
+00:10:56,200 --> 00:10:58,050
+<font color="yellow">You just need to press this.</font>
+
+156
+00:11:01,530 --> 00:11:02,570
+<font color="yellow">Okay.</font>
+
+157
+00:11:04,630 --> 00:11:06,750
+<font color="yellow">- Bo Yeon.
+- Yes?</font>
+
+158
+00:11:09,270 --> 00:11:11,470
+<font color="yellow">I wasn't sure if you'd come back.</font>
+
+159
+00:11:12,840 --> 00:11:14,760
+<font color="yellow">I didn't think you had to.</font>
+
+160
+00:11:15,410 --> 00:11:18,350
+<font color="yellow">No, I'm here because I want to be.</font>
+
+161
+00:11:18,350 --> 00:11:20,210
+<font color="yellow">Don't feel too burdened by it.</font>
+
+162
+00:11:21,280 --> 00:11:22,570
+<font color="yellow">Thank you.</font>
+
+163
+00:11:40,240 --> 00:11:41,980
+<font color="yellow"><i>Should I just sit like this?</i></font>
+
+164
+00:11:44,590 --> 00:11:45,940
+<font color="yellow"><i>One moment, please.</i></font>
+
+165
+00:12:00,380 --> 00:12:03,530
+<font color="yellow"><i>Since 2006...</i></font>
+
+166
+00:12:03,560 --> 00:12:07,700
+<font color="yellow"><i>I have been working at SG Chemical
+in the management support team.</i></font>
+
+167
+00:12:08,070 --> 00:12:10,740
+<font color="yellow"><i>I've been working in administrations
+and my name is Lee Yong Hwan.</i></font>
+
+168
+00:12:15,230 --> 00:12:17,740
+<font color="yellow"><i>I'm sorry. I'm sorry.</i></font>
+
+169
+00:12:20,220 --> 00:12:21,450
+<font color="yellow"><i>But...</i></font>
+
+170
+00:12:22,880 --> 00:12:26,370
+<font color="yellow"><i>I don't know if I can really do this.</i></font>
+
+171
+00:12:26,920 --> 00:12:29,480
+<font color="yellow"><i>I really don't know.</i></font>
+
+172
+00:12:33,460 --> 00:12:38,100
+<font color="yellow">Since 2008, Professor Kim Woo Jin has
+been doing research at Korea University.</font>
+
+173
+00:12:38,100 --> 00:12:43,070
+<font color="yellow">I have been in charge of
+overseeing that research.</font>
+
+174
+00:12:45,040 --> 00:12:51,200
+<font color="yellow">That research involved legal issues
+regarding our products.</font>
+
+175
+00:12:52,020 --> 00:12:56,900
+<font color="yellow">The law firm Ohsung consulted us on it.</font>
+
+176
+00:12:59,350 --> 00:13:02,300
+<font color="yellow"><i>I was the intermediary between
+Ohsung and the research team.</i></font>
+
+177
+00:13:02,710 --> 00:13:04,910
+<font color="yellow"><i>I was in charge of communication.</i></font>
+
+178
+00:13:05,850 --> 00:13:10,410
+<font color="yellow"><i>The research had to be kept hidden
+until we had the results.</i></font>
+
+179
+00:13:11,640 --> 00:13:16,700
+<font color="yellow"><i>Unless it was very basic communication,
+we did not use email or the phone.</i></font>
+
+180
+00:13:17,460 --> 00:13:23,780
+<font color="yellow"><i>Communication continued between
+the lawyers, SG, and the research team.</i></font>
+
+181
+00:13:24,630 --> 00:13:27,300
+<font color="yellow"><i>There were many revisions
+to the research results.</i></font>
+
+182
+00:13:27,700 --> 00:13:32,340
+<font color="yellow"><i>As for the research results,
+I went directly to the lab.</i></font>
+
+183
+00:13:32,410 --> 00:13:34,440
+<font color="yellow"><i>I would bring it back in my USB.</i></font>
+
+184
+00:13:34,440 --> 00:13:35,680
+<font color="yellow"><i>Even money...</i></font>
+
+185
+00:13:37,310 --> 00:13:40,700
+<font color="yellow"><i>The company wouldn't deposit it
+into the university account.</i></font>
+
+186
+00:13:40,700 --> 00:13:43,410
+<font color="yellow"><i>It was put into a personal account
+and transferred.</i></font>
+
+187
+00:13:43,890 --> 00:13:47,070
+<font color="yellow"><i>It was deposited into the accounts of the
+personal accounts of the researchers.</i></font>
+
+188
+00:13:47,540 --> 00:13:51,030
+<font color="yellow"><i>As for the documents
+or instructions from Ohsung</i></font>
+
+189
+00:13:51,730 --> 00:13:53,710
+<font color="yellow"><i>I would receive the paperwork directly.</i></font>
+
+190
+00:13:54,820 --> 00:13:57,270
+<font color="yellow">Park Bo Yeon, what did you
+talk about with Jung Hye In?</font>
+
+191
+00:13:58,720 --> 00:14:02,530
+<font color="yellow">She just said she was sorry and
+asked if I could keep doing the show.</font>
+
+192
+00:14:04,120 --> 00:14:06,860
+<font color="yellow">I don't know if
+Bo Yeon should continue...</font>
+
+193
+00:14:06,860 --> 00:14:08,290
+<font color="yellow">It's her choice. Leave her be.</font>
+
+194
+00:14:09,320 --> 00:14:11,590
+<font color="yellow">Let's discuss what we should do.
+We don't have much time.</font>
+
+195
+00:14:12,460 --> 00:14:15,010
+<font color="yellow">What can we do to get
+Choi Pil Kyu on our show?</font>
+
+196
+00:14:16,120 --> 00:14:17,390
+<font color="yellow">Is that possible?</font>
+
+197
+00:14:17,390 --> 00:14:19,390
+<font color="yellow">Do we have something
+we can use to make a deal</font>
+
+198
+00:14:19,390 --> 00:14:20,900
+<font color="yellow">like we did with Ha Dong Min?</font>
+
+199
+00:14:20,900 --> 00:14:25,340
+<font color="yellow">That was only possible because we
+had actual evidence he was guilty.</font>
+
+200
+00:14:25,390 --> 00:14:28,970
+<font color="yellow">Right now, we can't even meet him and
+have nothing to persuade him with.</font>
+
+201
+00:14:29,530 --> 00:14:32,720
+<font color="yellow">SG is telling us we can't
+have him on our show.</font>
+
+202
+00:14:32,720 --> 00:14:34,830
+<font color="yellow">They keep pressuring us.</font>
+
+203
+00:14:47,210 --> 00:14:49,150
+<font color="yellow">About this person, Choi Pil Kyu...</font>
+
+204
+00:14:49,150 --> 00:14:52,820
+<font color="yellow">Is he possibly involved in Na Jae Hyun
+and Ham Tae Young's old case?</font>
+
+205
+00:14:53,210 --> 00:14:56,570
+<font color="yellow">That is what the kidnapper
+is trying to expose right now.</font>
+
+206
+00:14:57,490 --> 00:15:00,660
+<font color="yellow">They're both dead,
+so we can't really find out.</font>
+
+207
+00:15:18,310 --> 00:15:19,590
+<font color="yellow"><i>I'm sorry.</i></font>
+
+208
+00:15:20,230 --> 00:15:23,630
+<font color="yellow"><i>This is hard to do with a clear head.</i></font>
+
+209
+00:15:26,290 --> 00:15:31,000
+<font color="yellow"><i>One day, I got a document from Ohsung.</i></font>
+
+210
+00:15:31,560 --> 00:15:35,860
+<font color="yellow"><i>They had mistakenly left
+a note stuck in there.</i></font>
+
+211
+00:15:40,390 --> 00:15:41,680
+<font color="yellow"><i>It's this here.</i></font>
+
+212
+00:15:42,290 --> 00:15:45,240
+<font color="yellow"><i>It was written on July 16.</i></font>
+
+213
+00:15:45,320 --> 00:15:47,780
+<font color="yellow"><i>It's signed by Choi Pil Kyu</i></font>
+
+214
+00:15:50,210 --> 00:15:53,040
+<font color="yellow"><i>"I took care of it cleanly."</i></font>
+
+215
+00:15:53,060 --> 00:15:56,860
+<font color="yellow"><i>"The three men won't
+be a problem again."</i></font>
+
+216
+00:15:56,860 --> 00:15:59,660
+<font color="yellow"><i>"Mister Na won't be speaking again."</i></font>
+
+217
+00:16:00,700 --> 00:16:03,340
+<font color="yellow"><i>"I have found someone to fix it."</i></font>
+
+218
+00:16:03,340 --> 00:16:06,320
+<font color="yellow"><i>"I will keep an eye on things for now."</i></font>
+
+219
+00:16:22,230 --> 00:16:23,740
+<font color="yellow"><i>"I took care of it cleanly."</i></font>
+
+220
+00:16:23,790 --> 00:16:27,620
+<font color="yellow"><i>"The three men won't
+be a problem again."</i></font>
+
+221
+00:16:27,620 --> 00:16:30,380
+<font color="yellow"><i>"Mister Na won't be speaking again."</i></font>
+
+222
+00:16:31,480 --> 00:16:34,120
+<font color="yellow"><i>"I have found someone to fix it."</i></font>
+
+223
+00:16:34,120 --> 00:16:36,910
+<font color="yellow"><i>I will keep an eye on things for now.</i></font>
+
+224
+00:16:36,910 --> 00:16:39,230
+<font color="yellow">Oh. Hye In, you're in here?</font>
+
+225
+00:16:41,220 --> 00:16:43,460
+<font color="yellow">What is it?
+Is something wrong?</font>
+
+226
+00:16:54,690 --> 00:16:55,850
+<font color="yellow">Senior.</font>
+
+227
+00:16:56,710 --> 00:16:57,770
+<font color="yellow">Yes?</font>
+
+228
+00:16:59,470 --> 00:17:01,770
+<font color="yellow">How did you endure it?</font>
+
+229
+00:17:03,800 --> 00:17:06,450
+<font color="yellow">When your wife suddenly passed away.</font>
+
+230
+00:17:07,530 --> 00:17:10,300
+<font color="yellow">Even when I thought it
+was just an accident...</font>
+
+231
+00:17:12,570 --> 00:17:14,600
+<font color="yellow">I had a hard time.</font>
+
+232
+00:17:17,730 --> 00:17:20,080
+<font color="yellow">I barely got through it
+because of Hyun Woo.</font>
+
+233
+00:17:26,780 --> 00:17:28,200
+<font color="yellow">But, you...</font>
+
+234
+00:17:32,050 --> 00:17:34,050
+<font color="yellow">You never even knew why.</font>
+
+235
+00:17:36,100 --> 00:17:37,430
+<font color="yellow">How did you do it?</font>
+
+236
+00:17:38,620 --> 00:17:40,300
+<font color="yellow">What do you mean how?</font>
+
+237
+00:17:40,890 --> 00:17:43,060
+<font color="yellow">How can anyone endure such a thing?</font>
+
+238
+00:17:49,810 --> 00:17:51,030
+<font color="yellow">I'm sorry.</font>
+
+239
+00:17:51,970 --> 00:17:53,900
+<font color="yellow">I can't do anything for you.</font>
+
+240
+00:18:01,400 --> 00:18:05,170
+<font color="yellow">You were getting
+your Ph.D in 2009, right?</font>
+
+241
+00:18:05,760 --> 00:18:10,860
+<font color="yellow">Is it true that you took part in research
+with Professor Kim Woo Jin for SG Group?</font>
+
+242
+00:18:11,400 --> 00:18:14,830
+<font color="yellow">Your name is written here
+in the research logs.</font>
+
+243
+00:18:15,800 --> 00:18:18,440
+<font color="yellow">Yes, well it is true.</font>
+
+244
+00:18:18,760 --> 00:18:20,500
+<font color="yellow">What is this about?</font>
+
+245
+00:18:20,500 --> 00:18:25,660
+<font color="yellow">If you look at the emails from SG,
+there are requests from their lawyers.</font>
+
+246
+00:18:25,660 --> 00:18:29,480
+<font color="yellow">It looks like they're asking you to
+modify research results to suit them.</font>
+
+247
+00:18:30,720 --> 00:18:33,070
+<font color="yellow">Did that help your thesis?</font>
+
+248
+00:18:45,310 --> 00:18:47,460
+<font color="yellow">You're right.
+Na Young Hyun, six years old.</font>
+
+249
+00:18:47,460 --> 00:18:51,220
+<font color="yellow">She was admitted to our hospital
+nine years ago and died during treatment.</font>
+
+250
+00:18:59,500 --> 00:19:01,060
+<font color="yellow"><i>[HA DONG MIN]</i></font>
+
+251
+00:19:03,000 --> 00:19:05,020
+<font color="yellow">Na Young Hyun's doctor was...</font>
+
+252
+00:19:06,140 --> 00:19:07,890
+<font color="yellow">Doctor Ha Dong Min?</font>
+
+253
+00:19:11,350 --> 00:19:13,040
+<font color="yellow">Yes, he was.</font>
+
+254
+00:19:13,040 --> 00:19:15,530
+<font color="yellow">I forgot that he worked here.</font>
+
+255
+00:19:15,530 --> 00:19:18,420
+<font color="yellow">I don't know much because
+I haven't worked here long.</font>
+
+256
+00:19:18,420 --> 00:19:21,070
+<font color="yellow">I heard a lot about him
+when he appeared on Wanted.</font>
+
+257
+00:19:21,070 --> 00:19:23,200
+<font color="yellow">They say he became very famous</font>
+
+258
+00:19:23,200 --> 00:19:25,340
+<font color="yellow">when he moved to Soojung Hospital
+seven years ago.</font>
+
+259
+00:19:27,690 --> 00:19:31,610
+<font color="yellow">By the way...
+where did you get that video?</font>
+
+260
+00:19:32,970 --> 00:19:36,940
+<font color="yellow">Lee Yong Hwan died a long time ago
+and his wife died too.</font>
+
+261
+00:19:37,030 --> 00:19:38,590
+<font color="yellow">What is your source?</font>
+
+262
+00:19:39,430 --> 00:19:41,750
+<font color="yellow">That's kind of hard for me to tell you.</font>
+
+263
+00:19:41,750 --> 00:19:42,970
+<font color="yellow">I'm sorry.</font>
+
+264
+00:19:42,970 --> 00:19:47,980
+<font color="yellow">To summarize, Choi Pil Kyu
+handled affairs for SG Group.</font>
+
+265
+00:19:48,760 --> 00:19:52,160
+<font color="yellow">He hired someone to kill
+Ham Tae Young and Na Jae Hyun.</font>
+
+266
+00:19:52,160 --> 00:19:57,440
+<font color="yellow">So, the people that Jo Nam Chul
+was talking about was SG Group.</font>
+
+267
+00:19:57,480 --> 00:20:00,270
+<font color="yellow">The reason that Tae Young
+and Na Jae Hyun were meeting...</font>
+
+268
+00:20:01,270 --> 00:20:03,760
+<font color="yellow">may have to do with that research.</font>
+
+269
+00:20:03,760 --> 00:20:06,430
+<font color="yellow">The kidnapper is trying
+to reveal that SG Group</font>
+
+270
+00:20:06,430 --> 00:20:09,100
+<font color="yellow">is doing something to kill people.</font>
+
+271
+00:20:09,480 --> 00:20:12,080
+<font color="yellow">And that they're trying to cover it up.</font>
+
+272
+00:20:12,080 --> 00:20:14,940
+<font color="yellow">SG already knows about it then.</font>
+
+273
+00:20:15,010 --> 00:20:17,680
+<font color="yellow">They created that car accident
+with Jo Nam Chul on purpose.</font>
+
+274
+00:20:17,680 --> 00:20:20,440
+<font color="yellow">They were trying to kill him
+to keep him quiet.</font>
+
+275
+00:20:20,450 --> 00:20:23,020
+<font color="yellow">They must have become
+more certain after</font>
+
+276
+00:20:23,020 --> 00:20:25,600
+<font color="yellow">Ham Tae Young
+and Na Jae Hyun's mission.</font>
+
+277
+00:20:27,400 --> 00:20:31,920
+<font color="yellow">But, you know when President Song
+was going to end the show?</font>
+
+278
+00:20:31,920 --> 00:20:33,580
+<font color="yellow">Why would they help?</font>
+
+279
+00:20:33,580 --> 00:20:36,410
+<font color="yellow">They even bought out the station
+like Senior Hye In requested.</font>
+
+280
+00:20:37,040 --> 00:20:40,210
+<font color="yellow">They're probably trying to control
+the show however they can.</font>
+
+281
+00:20:41,100 --> 00:20:45,020
+<font color="yellow">They can shut us down completely
+whenever they want to.</font>
+
+282
+00:20:45,660 --> 00:20:49,490
+<font color="yellow">We need to get Choi Pil Kyu on this show,
+no matter what.</font>
+
+283
+00:20:50,170 --> 00:20:52,230
+<font color="yellow">We can do the show with what we have.</font>
+
+284
+00:20:52,230 --> 00:20:55,770
+<font color="yellow">We're not a news program
+that can just report things.</font>
+
+285
+00:20:55,770 --> 00:20:57,840
+<font color="yellow">That's not good enough evidence either.</font>
+
+286
+00:20:57,870 --> 00:21:02,040
+<font color="yellow">The mission was to
+give him his punishment.</font>
+
+287
+00:21:02,040 --> 00:21:04,740
+<font color="yellow">We need to use that
+to get him to confess.</font>
+
+288
+00:21:05,220 --> 00:21:08,310
+<font color="yellow">That's true, but is there a way?</font>
+
+289
+00:21:09,130 --> 00:21:10,800
+<font color="yellow">We have to use his fear.</font>
+
+290
+00:21:11,290 --> 00:21:15,570
+<font color="yellow">Make him think that things could be worse
+if he doesn't appear on tonight's show.</font>
+
+291
+00:21:26,700 --> 00:21:29,590
+<font color="yellow">We know what the kidnapper's motive is.</font>
+
+292
+00:21:30,730 --> 00:21:33,400
+<font color="yellow">How are we supposed to find him though?</font>
+
+293
+00:21:35,750 --> 00:21:37,170
+<font color="yellow">My brother....</font>
+
+294
+00:21:37,650 --> 00:21:43,160
+<font color="yellow">He found the people who
+did that to Young Hyun.</font>
+
+295
+00:21:45,150 --> 00:21:47,370
+<font color="yellow">My brother ended up dying.</font>
+
+296
+00:21:50,230 --> 00:21:56,150
+<font color="yellow">The detective who tried to find
+my brother ended up dying.</font>
+
+297
+00:21:57,790 --> 00:22:01,660
+<font color="yellow">But, I still tried.</font>
+
+298
+00:22:02,730 --> 00:22:04,730
+<font color="yellow">I lost everything.</font>
+
+299
+00:22:05,890 --> 00:22:07,750
+<font color="yellow">It was so...</font>
+
+300
+00:22:09,100 --> 00:22:11,300
+<font color="yellow">painful and torturous.</font>
+
+301
+00:22:11,690 --> 00:22:15,850
+<font color="yellow">It was just so hard.</font>
+
+302
+00:22:17,050 --> 00:22:19,960
+<font color="yellow">So, I even tried to forgive them all.</font>
+
+303
+00:22:21,030 --> 00:22:25,980
+<font color="yellow">But, I couldn't forgive them.</font>
+
+304
+00:22:29,140 --> 00:22:32,770
+<font color="yellow">No one asked for forgiveness.</font>
+
+305
+00:22:34,210 --> 00:22:39,360
+<font color="yellow">No one said they had done anything wrong.</font>
+
+306
+00:22:43,360 --> 00:22:47,160
+<font color="yellow">We need to look for someone around
+us with that same motive.</font>
+
+307
+00:22:48,890 --> 00:22:50,780
+<font color="yellow">Let's eat first, Senior.</font>
+
+308
+00:22:50,780 --> 00:22:53,490
+<font color="yellow">What if you pass out
+before we can catch him?</font>
+
+309
+00:22:53,490 --> 00:22:55,990
+<font color="yellow">- I'm not hungry.
+- Come on!</font>
+
+310
+00:22:55,990 --> 00:22:57,870
+<font color="yellow">Let's go!</font>
+
+311
+00:23:08,120 --> 00:23:10,910
+<font color="yellow">Don't they need to think
+of the show today?</font>
+
+312
+00:23:10,910 --> 00:23:12,390
+<font color="yellow">Hyun Woo needs to be kept safe.</font>
+
+313
+00:23:23,340 --> 00:23:24,560
+<font color="yellow">What is that?</font>
+
+314
+00:23:25,500 --> 00:23:28,690
+<font color="yellow">It's a note that Na Soo Hyun
+made Ko Hyung Joon write.</font>
+
+315
+00:23:30,800 --> 00:23:33,000
+<font color="yellow">Where did heck did you get this?</font>
+
+316
+00:23:34,250 --> 00:23:38,330
+<font color="yellow">Choi Pil Kyu gave him money
+to start his own business?</font>
+
+317
+00:23:38,330 --> 00:23:41,410
+<font color="yellow">He was probably ordered to
+do so by SG Group.</font>
+
+318
+00:23:41,900 --> 00:23:45,000
+<font color="yellow">Ko Hyung Joon never mentioned this.</font>
+
+319
+00:23:46,880 --> 00:23:50,920
+<font color="yellow">I went to look for Im Hyung Soon,
+but he had fled to The Philippines.</font>
+
+320
+00:23:51,180 --> 00:23:54,820
+<font color="yellow">I felt like something would happen
+to me if I pursued it any further.</font>
+
+321
+00:23:54,820 --> 00:23:56,140
+<font color="yellow">So, I quit being a detective.</font>
+
+322
+00:23:58,090 --> 00:24:01,580
+<font color="yellow">My life was ruined
+because of Na Soo Hyun.</font>
+
+323
+00:24:03,170 --> 00:24:08,420
+<font color="yellow">This mission is to punish Choi Pil Kyu
+for his crime from seven years ago.</font>
+
+324
+00:24:10,360 --> 00:24:12,750
+<font color="yellow">Na Soo Hyun sent me this note.</font>
+
+325
+00:24:19,150 --> 00:24:22,160
+<font color="yellow">Isn't he trying to tell you
+to go back and see Ko Hyung Joon?</font>
+
+326
+00:24:22,820 --> 00:24:27,230
+<font color="yellow">You can hear more from him or
+drag him onto to show as a witness.</font>
+
+327
+00:24:30,620 --> 00:24:32,070
+<font color="yellow">Aren't you going to get to work?</font>
+
+328
+00:24:59,980 --> 00:25:01,110
+<font color="yellow">Young Gwan.</font>
+
+329
+00:25:01,940 --> 00:25:03,010
+<font color="yellow">Yes?</font>
+
+330
+00:25:03,330 --> 00:25:05,430
+<font color="yellow">I think Ko Hyung Joon is in danger.</font>
+
+331
+00:25:06,900 --> 00:25:08,530
+<font color="yellow">It's someone from SG Group.</font>
+
+332
+00:25:16,770 --> 00:25:19,890
+<font color="yellow">Chief, we're at Ilsan-dong,
+third floor of Jaeil building.</font>
+
+333
+00:25:20,260 --> 00:25:21,930
+<font color="yellow">It's Ko Hyung Joon's office.</font>
+
+334
+00:25:22,480 --> 00:25:26,100
+<font color="yellow">He may be confined in there
+or even murdered.</font>
+
+335
+00:25:26,520 --> 00:25:27,790
+<font color="yellow">We're going in now.</font>
+
+336
+00:25:32,160 --> 00:25:33,500
+<font color="yellow">I'll go in first.</font>
+
+337
+00:25:37,524 --> 00:25:49,524
+<font color="yellow">Synced & ripped by bozxphd
+Subtitles by DramaFever</font>
+
+338
+00:25:50,580 --> 00:25:53,530
+<font color="yellow">That kid tried to kill me!</font>
+
+339
+00:25:53,530 --> 00:25:54,630
+<font color="yellow">What can we do?</font>
+
+340
+00:25:55,460 --> 00:25:57,690
+<font color="yellow">I think this time I'm going to kill you.</font>
+
+341
+00:26:00,920 --> 00:26:03,900
+<font color="yellow">I didn't tell him about Choi Pil Kyu.
+No one knows about him.</font>
+
+342
+00:26:04,480 --> 00:26:06,140
+<font color="yellow">But, what can I do?</font>
+
+343
+00:26:06,140 --> 00:26:08,980
+<font color="yellow">I think you might talk in the future.</font>
+
+344
+00:26:08,980 --> 00:26:10,330
+<font color="yellow">That's the problem here.</font>
+
+345
+00:26:13,370 --> 00:26:16,670
+<font color="yellow">What did I do wrong
+that you're doing this?</font>
+
+346
+00:26:19,730 --> 00:26:23,040
+<font color="yellow">All I did was work on a case.</font>
+
+347
+00:26:23,040 --> 00:26:25,440
+<font color="yellow">I stopped working on it like
+I was told and quit my job.</font>
+
+348
+00:26:25,440 --> 00:26:26,860
+<font color="yellow">That's all I've done.</font>
+
+349
+00:26:28,550 --> 00:26:32,660
+<font color="yellow">I heard you said it wasn't
+enough money and took more.</font>
+
+350
+00:26:34,220 --> 00:26:36,190
+<font color="yellow">That was the price of your life.</font>
+
+351
+00:26:50,000 --> 00:26:51,290
+<font color="yellow">Follow me quietly.</font>
+
+352
+00:26:57,810 --> 00:26:59,030
+<font color="yellow">Stay here!</font>
+
+353
+00:26:59,030 --> 00:27:00,340
+<font color="yellow">Senior!</font>
+
+354
+00:27:42,360 --> 00:27:43,450
+<font color="yellow">Who are you?</font>
+
+355
+00:27:43,450 --> 00:27:45,180
+<font color="yellow">I'm Shin Dong Wook from UCN.</font>
+
+356
+00:27:45,180 --> 00:27:48,150
+<font color="yellow">I wanted to talk you for a moment.</font>
+
+357
+00:27:50,470 --> 00:27:53,580
+<font color="yellow">Weren't you people told not
+to let any media people in?</font>
+
+358
+00:27:53,580 --> 00:27:55,080
+<font color="yellow">What's with the poor security?</font>
+
+359
+00:27:59,160 --> 00:28:00,400
+<font color="yellow">Hold on.</font>
+
+360
+00:28:01,950 --> 00:28:03,240
+<font color="yellow">Should we talk here?</font>
+
+361
+00:28:07,980 --> 00:28:10,930
+<font color="yellow">We're going to air this video tonight.</font>
+
+362
+00:28:10,930 --> 00:28:13,830
+<font color="yellow">Then Ohsung and SG will
+try to cut tail and run.</font>
+
+363
+00:28:14,180 --> 00:28:16,700
+<font color="yellow">"He did it on his own and
+we never ordered him to do it."</font>
+
+364
+00:28:18,720 --> 00:28:21,250
+<font color="yellow">That video won't make it on air.</font>
+
+365
+00:28:21,250 --> 00:28:22,660
+<font color="yellow">Sure.</font>
+
+366
+00:28:22,660 --> 00:28:25,840
+<font color="yellow">Suppose it doesn't since UCN
+is owned by SG Group.</font>
+
+367
+00:28:25,840 --> 00:28:30,580
+<font color="yellow">Then I would be forced to send this
+to other stations and newspapers.</font>
+
+368
+00:28:30,580 --> 00:28:31,980
+<font color="yellow">- What?
+- When I do...</font>
+
+369
+00:28:31,980 --> 00:28:35,080
+<font color="yellow">I wonder if Ohsung and SG
+will protect you.</font>
+
+370
+00:28:35,080 --> 00:28:37,240
+<font color="yellow">Will they say you only
+did what you were told?</font>
+
+371
+00:28:37,240 --> 00:28:40,140
+<font color="yellow">SG Group will be hearing about this too.</font>
+
+372
+00:28:40,200 --> 00:28:42,610
+<font color="yellow">They will be moving quickly to fix this.</font>
+
+373
+00:28:43,040 --> 00:28:44,490
+<font color="yellow">Won't you regret this?</font>
+
+374
+00:28:44,490 --> 00:28:47,650
+<font color="yellow">You'll be turned into a criminal
+without the chance to even protest.</font>
+
+375
+00:28:53,860 --> 00:28:57,720
+<font color="yellow">Lawyer Choi Pil Kyu has to
+appear on tonight's show.</font>
+
+376
+00:28:59,160 --> 00:29:01,950
+<font color="yellow">There has to be a chance
+for a confession and arrest.</font>
+
+377
+00:29:01,950 --> 00:29:04,310
+<font color="yellow">That way we can say
+he received his punishment</font>
+
+378
+00:29:04,310 --> 00:29:06,670
+<font color="yellow">without him dying or getting hurt.</font>
+
+379
+00:29:06,670 --> 00:29:10,830
+<font color="yellow">I wish you would respect
+the advice of the legal team.</font>
+
+380
+00:29:12,850 --> 00:29:15,340
+<font color="yellow">Please look for another way.</font>
+
+381
+00:29:15,340 --> 00:29:17,500
+<font color="yellow">You said you wanted to find Hyun Woo.</font>
+
+382
+00:29:18,500 --> 00:29:23,530
+<font color="yellow">You said you wanted to know
+the real reason he died.</font>
+
+383
+00:29:24,980 --> 00:29:31,420
+<font color="yellow">You told me that UCN would be
+helpful to SG's media business.</font>
+
+384
+00:29:31,420 --> 00:29:32,920
+<font color="yellow">You promised me that, right.</font>
+
+385
+00:29:33,510 --> 00:29:37,040
+<font color="yellow">I'm doing this to keep that promise.</font>
+
+386
+00:29:38,060 --> 00:29:40,320
+<font color="yellow">You have to give me Lawyer Choi Pil Kyu.</font>
+
+387
+00:29:41,690 --> 00:29:44,330
+<font color="yellow">Whether you make a deal
+or cut all ties...</font>
+
+388
+00:29:45,660 --> 00:29:48,320
+<font color="yellow">that is up for you to decide.</font>
+
+389
+00:29:51,610 --> 00:29:53,760
+<font color="yellow">I don't know what you mean by that.</font>
+
+390
+00:29:54,680 --> 00:29:56,630
+<font color="yellow">About Lawyer Choi Pil Kyu...</font>
+
+391
+00:29:57,440 --> 00:30:01,000
+<font color="yellow">there is a witness who says he contracted
+assassins to do some work for SG Group.</font>
+
+392
+00:30:02,100 --> 00:30:05,610
+<font color="yellow">If this incident is not confessed,
+but revealed by us...</font>
+
+393
+00:30:07,180 --> 00:30:09,360
+<font color="yellow">all of this will be exposed.</font>
+
+394
+00:30:13,930 --> 00:30:16,160
+<font color="yellow">This is the first I've heard of this.</font>
+
+395
+00:30:18,190 --> 00:30:22,550
+<font color="yellow">We will need an opportunity
+to tell the truth.</font>
+
+396
+00:30:26,050 --> 00:30:29,220
+<font color="yellow">How about we have
+Lawyer Kim Sang Woo appear too?</font>
+
+397
+00:30:30,460 --> 00:30:34,550
+<font color="yellow">We will prepare it so that
+Choi Pil Kyu can be legally punished.</font>
+
+398
+00:30:36,730 --> 00:30:38,120
+<font color="yellow">I will order it.</font>
+
+399
+00:30:39,960 --> 00:30:41,400
+<font color="yellow">Thank you.</font>
+
+400
+00:30:42,870 --> 00:30:43,950
+<font color="yellow">Sit.</font>
+
+401
+00:30:47,660 --> 00:30:50,020
+<font color="yellow">Weren't you guaranteed management rights?</font>
+
+402
+00:30:50,020 --> 00:30:52,360
+<font color="yellow">Yes. Is something wrong?</font>
+
+403
+00:30:53,020 --> 00:30:55,890
+<font color="yellow">SG has started to pry into
+the direction our show is taking.</font>
+
+404
+00:30:55,890 --> 00:30:58,640
+<font color="yellow">It's affecting our ability
+to complete the missions.</font>
+
+405
+00:30:58,710 --> 00:31:02,940
+<font color="yellow">Isn't the legal team taking on the role
+that you were supposed to take?</font>
+
+406
+00:31:02,950 --> 00:31:05,900
+<font color="yellow">You said you would ground this show,
+so that it didn't go too far.</font>
+
+407
+00:31:05,940 --> 00:31:07,850
+<font color="yellow">But, you've never done that once.</font>
+
+408
+00:31:08,200 --> 00:31:11,800
+<font color="yellow">You've never stopped Director Shin.</font>
+
+409
+00:31:16,670 --> 00:31:20,570
+<font color="yellow">Yesterday, Lee Ji Eun
+was right next to you.</font>
+
+410
+00:31:21,050 --> 00:31:23,450
+<font color="yellow">Did someone take her or did she run?</font>
+
+411
+00:31:23,480 --> 00:31:25,580
+<font color="yellow">Does it make sense that you
+couldn't feel anything happen?</font>
+
+412
+00:31:26,050 --> 00:31:28,650
+<font color="yellow">There was a blackout
+so I was in a lot of shock.</font>
+
+413
+00:31:29,130 --> 00:31:31,840
+<font color="yellow">There is no reason for Jung Hye In
+to take Lee Ji Eun.</font>
+
+414
+00:31:31,840 --> 00:31:33,790
+<font color="yellow">Why is it that you
+always call Cha Seung In</font>
+
+415
+00:31:33,790 --> 00:31:35,750
+<font color="yellow">instead us when something is wrong?</font>
+
+416
+00:31:37,000 --> 00:31:39,070
+<font color="yellow">Are you even trying to find Hyun Woo?</font>
+
+417
+00:31:39,070 --> 00:31:40,730
+<font color="yellow">That's something I should ask you.</font>
+
+418
+00:31:41,650 --> 00:31:44,870
+<font color="yellow">Have you made any progress
+in your investigation?</font>
+
+419
+00:31:49,560 --> 00:31:50,750
+<font color="yellow">What's going on?</font>
+
+420
+00:31:52,230 --> 00:31:56,560
+<font color="yellow">When he closed his case on Na Jae Hyun,
+he received money from Choi Pil Kyu.</font>
+
+421
+00:31:58,670 --> 00:32:01,940
+<font color="yellow">He's willing to make a statement
+on the show tonight if you need.</font>
+
+422
+00:32:01,940 --> 00:32:04,310
+<font color="yellow">Are you no longer a cop?
+Are you in broadcasting now?</font>
+
+423
+00:32:04,880 --> 00:32:07,850
+<font color="yellow">This isn't even your case,
+so why do you keep hanging around!</font>
+
+424
+00:32:08,770 --> 00:32:11,040
+<font color="yellow">Because we need to secure
+Hyun Woo's safety first.</font>
+
+425
+00:32:14,230 --> 00:32:16,780
+<font color="yellow">I'll take care of it now so leave.</font>
+
+426
+00:32:27,910 --> 00:32:33,070
+<font color="yellow">I've figured out what it is that
+the kidnapper wants to reveal.</font>
+
+427
+00:32:37,170 --> 00:32:38,960
+<font color="yellow">I know why your late husband...</font>
+
+428
+00:32:40,230 --> 00:32:42,310
+<font color="yellow">and Na Jae Hyun met.</font>
+
+429
+00:32:43,690 --> 00:32:45,630
+<font color="yellow">And why they had to die...</font>
+
+430
+00:32:50,950 --> 00:32:55,110
+<font color="yellow">So, it was because of that?</font>
+
+431
+00:32:56,540 --> 00:32:58,710
+<font color="yellow">That's why Hyun Woo was kidnapped?</font>
+
+432
+00:33:02,460 --> 00:33:04,140
+<font color="yellow">He wanted me to know about it.</font>
+
+433
+00:33:06,560 --> 00:33:10,220
+<font color="yellow">He wanted me to find out.</font>
+
+434
+00:33:20,500 --> 00:33:21,750
+<font color="yellow">Are you okay?</font>
+
+435
+00:33:34,774 --> 00:33:46,774
+<font color="yellow">Synced & ripped by bozxphd
+Subtitles by DramaFever</font>
+
+436
+00:33:47,650 --> 00:33:49,280
+<font color="yellow">Are you worried about Na Soo Hyun?</font>
+
+437
+00:33:55,770 --> 00:33:57,840
+<font color="yellow">I just talked to Lieutenant Cha.</font>
+
+438
+00:33:58,230 --> 00:33:59,430
+<font color="yellow">Na Soo Hyun.</font>
+
+439
+00:34:01,250 --> 00:34:04,300
+<font color="yellow">He was killed by those people.</font>
+
+440
+00:34:18,390 --> 00:34:20,680
+<font color="yellow">Something is very wrong here.</font>
+
+441
+00:34:21,320 --> 00:34:23,710
+<font color="yellow">You didn't want things to go this far.</font>
+
+442
+00:34:24,440 --> 00:34:28,580
+<font color="yellow">Even if we find Hyun Woo now,
+we can still expose the things you want.</font>
+
+443
+00:34:30,240 --> 00:34:34,650
+<font color="yellow">If you can't tell me who's behind this,
+tell me who that woman is.</font>
+
+444
+00:34:35,370 --> 00:34:37,210
+<font color="yellow">That woman who is with Hyun Woo now.</font>
+
+445
+00:34:38,730 --> 00:34:40,010
+<font color="yellow">I don't know.</font>
+
+446
+00:34:41,230 --> 00:34:42,890
+<font color="yellow">I really don't know that.</font>
+
+447
+00:34:55,270 --> 00:34:57,030
+<font color="yellow">Eighth day of the show.</font>
+
+448
+00:34:57,030 --> 00:35:00,830
+<font color="yellow">Cracks forming in the team yesterday.
+Focus on any changes today.</font>
+
+449
+00:35:01,540 --> 00:35:06,370
+<font color="yellow">Right now, I am doing extra research into
+the personal lives of the broadcast team.</font>
+
+450
+00:35:34,510 --> 00:35:36,350
+<font color="yellow">If the kidnapper got
+what he wanted today</font>
+
+451
+00:35:36,350 --> 00:35:38,190
+<font color="yellow">do you think he could return Hyun Woo?</font>
+
+452
+00:35:40,190 --> 00:35:41,680
+<font color="yellow">Nothing is guaranteed.</font>
+
+453
+00:35:42,220 --> 00:35:44,490
+<font color="yellow">There are still two episodes left.</font>
+
+454
+00:35:44,490 --> 00:35:46,820
+<font color="yellow">He has even killed people.</font>
+
+455
+00:35:47,650 --> 00:35:50,160
+<font color="yellow">He might not just stop
+at letting people know.</font>
+
+456
+00:35:56,910 --> 00:36:00,260
+<font color="yellow">These are Lee Yong Hwan's
+meeting and work logs from SG.</font>
+
+457
+00:36:00,260 --> 00:36:01,910
+<font color="yellow">It could be evidence.</font>
+
+458
+00:36:01,910 --> 00:36:03,090
+<font color="yellow">Thank you.</font>
+
+459
+00:36:03,570 --> 00:36:05,980
+<font color="yellow">These are emails between the
+research team and Professor Kim Woo Jin</font>
+
+460
+00:36:05,980 --> 00:36:07,070
+<font color="yellow">Thank you.</font>
+
+461
+00:36:24,440 --> 00:36:28,820
+<font color="yellow">Once we're done with the show,
+watch the documentaries Joon Gu made.</font>
+
+462
+00:36:29,340 --> 00:36:33,520
+<font color="yellow">If you watch the Legend series,
+he can do things I could never do.</font>
+
+463
+00:36:35,810 --> 00:36:39,060
+<font color="yellow">Something that Director Shin
+could never do...</font>
+
+464
+00:36:40,030 --> 00:36:42,250
+<font color="yellow">A completely different show.</font>
+
+465
+00:36:43,610 --> 00:36:45,660
+<font color="yellow">We need something.</font>
+
+466
+00:36:49,090 --> 00:36:51,190
+<font color="yellow">Here you go.
+I organized all the files.</font>
+
+467
+00:36:51,190 --> 00:36:53,010
+<font color="yellow">Okay, thank you.</font>
+
+468
+00:36:57,940 --> 00:36:59,340
+<font color="yellow">Writer Yeon?</font>
+
+469
+00:37:00,000 --> 00:37:01,060
+<font color="yellow">Yes.</font>
+
+470
+00:37:01,380 --> 00:37:03,380
+<font color="yellow">Do you think our show will be okay?</font>
+
+471
+00:37:04,850 --> 00:37:06,800
+<font color="yellow">We just have to do it.</font>
+
+472
+00:37:08,360 --> 00:37:09,730
+<font color="yellow">We'll do what we can.</font>
+
+473
+00:37:12,150 --> 00:37:13,250
+<font color="yellow">Okay.</font>
+
+474
+00:37:28,040 --> 00:37:29,260
+<font color="yellow">Joon Gu, what are you doing?</font>
+
+475
+00:37:29,810 --> 00:37:32,730
+<font color="yellow">Don't even think about
+bringing in an audience today.</font>
+
+476
+00:37:32,730 --> 00:37:35,510
+<font color="yellow">I won't. That's not the concept today.</font>
+
+477
+00:37:36,630 --> 00:37:38,850
+<font color="yellow">Why are you looking at me like that?
+You look neurotic.</font>
+
+478
+00:37:46,060 --> 00:37:48,320
+<font color="yellow">I heard lawyers from Ohsung
+are coming on the show.</font>
+
+479
+00:37:50,250 --> 00:37:51,270
+<font color="yellow">Yes, so?</font>
+
+480
+00:37:52,840 --> 00:37:54,740
+<font color="yellow">You'll need this.</font>
+
+481
+00:37:54,820 --> 00:37:58,810
+<font color="yellow">It's Lee Ji Eun's mother
+trying to blackmail SG Group.</font>
+
+482
+00:37:59,410 --> 00:38:02,010
+<font color="yellow">What does this have
+to do with Choi Pil Kyu?</font>
+
+483
+00:38:02,990 --> 00:38:06,560
+<font color="yellow">Listen to the lawyer talking and
+turn it on at the right time.</font>
+
+484
+00:38:06,640 --> 00:38:08,970
+<font color="yellow">The viewers will like it.</font>
+
+485
+00:38:09,380 --> 00:38:13,800
+<font color="yellow">I need to know what's going to be said
+and what the intent is.</font>
+
+486
+00:38:15,740 --> 00:38:18,640
+<font color="yellow">Don't you know about media play
+or fudging the truth a bit?</font>
+
+487
+00:38:18,640 --> 00:38:21,170
+<font color="yellow">You're pretty good at it,
+using it here and there.</font>
+
+488
+00:38:21,170 --> 00:38:23,860
+<font color="yellow">Gosh, of all things now.</font>
+
+489
+00:38:27,870 --> 00:38:29,890
+<font color="yellow">I'll take a look and see if it's useful.</font>
+
+490
+00:38:29,890 --> 00:38:31,130
+<font color="yellow">Shin Dong Wook!</font>
+
+491
+00:38:35,660 --> 00:38:36,710
+<font color="yellow">Wait.</font>
+
+492
+00:38:42,740 --> 00:38:44,180
+<font color="yellow">Don't get upset.</font>
+
+493
+00:38:44,180 --> 00:38:47,450
+<font color="yellow">I'll decide what to use or not.</font>
+
+494
+00:38:55,100 --> 00:38:56,240
+<font color="yellow">Senior.</font>
+
+495
+00:39:00,810 --> 00:39:03,750
+<font color="yellow">You've investigated the broadcast
+team quite a bit, right?</font>
+
+496
+00:39:04,360 --> 00:39:05,380
+<font color="yellow">Why do you ask?</font>
+
+497
+00:39:05,380 --> 00:39:09,260
+<font color="yellow">If the kidnapper is on the team,
+who do you think it would be?</font>
+
+498
+00:39:11,290 --> 00:39:12,730
+<font color="yellow">Do you have something?</font>
+
+499
+00:39:13,570 --> 00:39:16,510
+<font color="yellow">No, I'm just wondering if
+I'm overlooking something.</font>
+
+500
+00:39:18,180 --> 00:39:20,270
+<font color="yellow">You really are stubborn, you know.</font>
+
+501
+00:39:21,830 --> 00:39:26,140
+<font color="yellow">There's no one that's a clear suspect
+for me to start an investigation on.</font>
+
+502
+00:39:26,580 --> 00:39:28,930
+<font color="yellow">Looking at motive, actions,
+and circumstance</font>
+
+503
+00:39:28,940 --> 00:39:31,550
+<font color="yellow">I think Director Shin and
+Executive Director Choi are likely.</font>
+
+504
+00:39:31,890 --> 00:39:37,380
+<font color="yellow">Do any of them have family members
+who died suddenly or got ill?</font>
+
+505
+00:39:39,370 --> 00:39:42,810
+<font color="yellow">Writer Yeon is a single mother
+and her daughter isn't very strong.</font>
+
+506
+00:39:42,810 --> 00:39:45,010
+<font color="yellow">She seems to visit the hospital often.</font>
+
+507
+00:39:45,780 --> 00:39:48,750
+<font color="yellow">Executive Director Choi's wife
+died eight years ago.</font>
+
+508
+00:39:51,250 --> 00:39:52,400
+<font color="yellow">Why do you ask?</font>
+
+509
+00:39:54,150 --> 00:39:56,600
+<font color="yellow">It's nothing.
+I'll tell you when I'm sure.</font>
+
+510
+00:39:59,500 --> 00:40:01,450
+<font color="yellow">Tell me right away if you have something.</font>
+
+511
+00:40:01,450 --> 00:40:03,640
+<font color="yellow">I'm only sharing in case
+you have a lead.</font>
+
+512
+00:40:05,570 --> 00:40:07,170
+<font color="yellow">We're really running out of time now.</font>
+
+513
+00:40:08,640 --> 00:40:09,710
+<font color="yellow">Okay.</font>
+
+514
+00:40:10,660 --> 00:40:13,090
+<font color="yellow"><i>I think you must be mistaken.</i></font>
+
+515
+00:40:13,090 --> 00:40:14,830
+<font color="yellow"><i>What mistake?</i></font>
+
+516
+00:40:14,830 --> 00:40:16,860
+<font color="yellow"><i>First, my husband died like that.</i></font>
+
+517
+00:40:16,860 --> 00:40:20,440
+<font color="yellow"><i>I've barely been able to make a living.</i></font>
+
+518
+00:40:21,090 --> 00:40:23,350
+<font color="yellow"><i>Now, look at what's
+happened to my daughter.</i></font>
+
+519
+00:40:24,860 --> 00:40:28,120
+<font color="yellow"><i>How am I supposed to live now?</i></font>
+
+520
+00:40:28,530 --> 00:40:32,720
+<font color="yellow"><i>You don't even know anything for certain.
+You shouldn't threaten us like this.</i></font>
+
+521
+00:40:33,130 --> 00:40:37,010
+<font color="yellow"><i>However, you are a family member
+of our former employee.</i></font>
+
+522
+00:40:37,570 --> 00:40:38,870
+<font color="yellow"><i>This is to help you out.</i></font>
+
+523
+00:40:53,720 --> 00:40:55,910
+<font color="yellow">It looks like Lee Ji Eun's mother
+went to demand money.</font>
+
+524
+00:40:55,910 --> 00:40:58,270
+<font color="yellow">Then it looks like she's leaving
+without incident.</font>
+
+525
+00:40:58,790 --> 00:40:59,910
+<font color="yellow">That...</font>
+
+526
+00:40:59,910 --> 00:41:01,530
+<font color="yellow">I know. It's been edited.</font>
+
+527
+00:41:03,640 --> 00:41:04,730
+<font color="yellow">Are you using it?</font>
+
+528
+00:41:06,000 --> 00:41:07,170
+<font color="yellow">I'll think about it.</font>
+
+529
+00:41:27,194 --> 00:41:39,194
+<font color="yellow">Synced & ripped by bozxphd
+Subtitles by DramaFever</font>
+
+530
+00:41:40,250 --> 00:41:42,690
+<font color="yellow">The kidnapper said that
+the target had to punished.</font>
+
+531
+00:41:42,690 --> 00:41:45,690
+<font color="yellow">Something worse could happen
+live on air today.</font>
+
+532
+00:41:45,690 --> 00:41:47,220
+<font color="yellow">Everyone needs to be on guard.</font>
+
+533
+00:41:47,220 --> 00:41:51,070
+<font color="yellow">Keep a close watch on any path
+that goes outside from the studio.</font>
+
+534
+00:41:51,070 --> 00:41:52,250
+<font color="yellow">Yes, sir.</font>
+
+535
+00:42:10,710 --> 00:42:15,440
+<font color="yellow">If Tae Young died an unfair death,
+I need to straighten things out now.</font>
+
+536
+00:42:16,850 --> 00:42:19,540
+<font color="yellow">I took care of it cleanly.</font>
+
+537
+00:42:19,540 --> 00:42:23,950
+<font color="yellow">The three men won't be a problem again.</font>
+
+538
+00:42:37,000 --> 00:42:40,140
+<font color="yellow">Everything on this show is real.</font>
+
+539
+00:42:40,510 --> 00:42:46,160
+<font color="yellow">We are doing this show at the request of
+the person who has kidnapped my son.</font>
+
+540
+00:42:46,640 --> 00:42:49,730
+<font color="yellow">Jung Hye In's Wanted is starting now.</font>
+
+541
+00:42:51,010 --> 00:42:55,230
+<font color="yellow"><i>First, I would like to address
+the trouble we had on last night's show.</i></font>
+
+542
+00:42:55,230 --> 00:42:58,150
+<font color="yellow"><i>I want to offer my sincere apologies.</i></font>
+
+543
+00:42:58,410 --> 00:43:01,560
+<font color="yellow"><i>As for the accomplice Lee Ji Eun,
+who escaped during the blackout</i></font>
+
+544
+00:43:01,820 --> 00:43:05,620
+<font color="yellow"><i>the police are doing everything
+that they can to find her.</i></font>
+
+545
+00:43:08,350 --> 00:43:11,830
+<font color="yellow">Last night, we received
+the eighth mission.</font>
+
+546
+00:43:13,250 --> 00:43:16,040
+<font color="yellow">The target of this mission
+is Choi Pil Kyu.</font>
+
+547
+00:43:16,040 --> 00:43:19,310
+<font color="yellow">He was found kidnapped, passed out,
+and confined in his car.</font>
+
+548
+00:43:20,260 --> 00:43:23,040
+<font color="yellow">He was taken to the hospital right away,
+where he received treatment.</font>
+
+549
+00:43:28,480 --> 00:43:31,270
+<font color="yellow">Let's keep today's mission simple
+and get through it.</font>
+
+550
+00:43:31,270 --> 00:43:34,810
+<font color="yellow">The point of all of this trying to
+figure out what SG is covering up.</font>
+
+551
+00:43:35,710 --> 00:43:37,760
+<font color="yellow">I told you before
+when I checked the script.</font>
+
+552
+00:43:38,210 --> 00:43:41,450
+<font color="yellow">We need two people battling it out,
+at the very least.</font>
+
+553
+00:43:41,450 --> 00:43:43,770
+<font color="yellow">Our show isn't some
+sort of news documentary.</font>
+
+554
+00:43:44,350 --> 00:43:46,570
+<font color="yellow">It's not up to me what
+the kidnapper wants to do.</font>
+
+555
+00:43:46,570 --> 00:43:50,440
+<font color="yellow">If we complete the mission,
+then Hyun Woo will be safe.</font>
+
+556
+00:43:50,440 --> 00:43:52,580
+<font color="yellow">Let's proceed with the mission first
+and then discuss it.</font>
+
+557
+00:43:52,830 --> 00:43:54,720
+<font color="yellow">We don't know how things will work out.</font>
+
+558
+00:43:54,720 --> 00:43:57,440
+<font color="yellow">I'm saying this because I don't know
+how things will work out.</font>
+
+559
+00:43:57,440 --> 00:44:00,510
+<font color="yellow">You might do something like
+you did last time.</font>
+
+560
+00:44:01,120 --> 00:44:04,900
+<font color="yellow">I can't accept you acting on your own
+like that any longer.</font>
+
+561
+00:44:07,400 --> 00:44:10,090
+<font color="yellow">I can't predict what's going
+to happen right now either.</font>
+
+562
+00:44:10,090 --> 00:44:12,650
+<font color="yellow">Stop getting mad about what
+hasn't happened and just work.</font>
+
+563
+00:44:23,440 --> 00:44:26,610
+<font color="yellow">The crime that Lawyer Choi Pil Kyu
+committed seven years ago.</font>
+
+564
+00:44:26,940 --> 00:44:29,600
+<font color="yellow">What could it be?</font>
+
+565
+00:44:31,930 --> 00:44:37,450
+<font color="yellow">This morning we received a video
+from an anonymous source.</font>
+
+566
+00:44:37,450 --> 00:44:39,650
+<font color="yellow"><i>It was written on July 16.</i></font>
+
+567
+00:44:39,660 --> 00:44:42,450
+<font color="yellow"><i>It's signed by Choi Pil Kyu</i></font>
+
+568
+00:44:43,810 --> 00:44:46,420
+<font color="yellow"><i>I took care of it cleanly.</i></font>
+
+569
+00:44:46,780 --> 00:44:52,170
+<font color="yellow"><i>The three men won't be a problem again.</i></font>
+
+570
+00:44:52,690 --> 00:44:56,260
+<font color="yellow"><i>Mister Na won't be speaking again.</i></font>
+
+571
+00:44:56,260 --> 00:44:58,260
+<font color="yellow"><i>I have found someone to fix it.</i></font>
+
+572
+00:44:58,650 --> 00:45:01,130
+<font color="yellow"><i>I will keep an eye on things for now.</i></font>
+
+573
+00:45:01,670 --> 00:45:05,480
+<font color="yellow">The note in the video sent to
+us revealed something to us.</font>
+
+574
+00:45:05,900 --> 00:45:08,990
+<font color="yellow">Surprisingly, it answered
+the questions we have had</font>
+
+575
+00:45:08,990 --> 00:45:12,080
+<font color="yellow">as we've been doing missions.</font>
+
+576
+00:45:13,390 --> 00:45:18,120
+<font color="yellow">My late husband Ham Tae Young's
+car accident.</font>
+
+577
+00:45:18,850 --> 00:45:22,850
+<font color="yellow">As well as the remains we
+found that were of Na Jae Hyun.</font>
+
+578
+00:45:26,370 --> 00:45:28,600
+<font color="yellow">If the witness statement
+we heard is true...</font>
+
+579
+00:45:29,120 --> 00:45:34,370
+<font color="yellow">And if that note was really
+written by Choi Pil Kyu...</font>
+
+580
+00:45:35,220 --> 00:45:40,330
+<font color="yellow">seven years ago in 2009</font>
+
+581
+00:45:40,780 --> 00:45:45,980
+<font color="yellow">he conspired to murder
+Ham Tae Young and Na Jae Hyun.</font>
+
+582
+00:45:47,300 --> 00:45:49,310
+<font color="yellow">These are the hit men
+who were hired to kill them.</font>
+
+583
+00:45:49,920 --> 00:45:51,220
+<font color="yellow">One of them is Jo Nam Chul</font>
+
+584
+00:45:51,220 --> 00:45:53,860
+<font color="yellow">who appeared on our show
+as the target of the third mission.</font>
+
+585
+00:45:54,360 --> 00:45:57,470
+<font color="yellow">The other is Im Hyung Soon,
+who was murdered by Jo Nam Chul.</font>
+
+586
+00:46:12,930 --> 00:46:14,730
+<font color="yellow">You have to go on now.</font>
+
+587
+00:46:22,170 --> 00:46:24,560
+<font color="yellow">What is Choi Pil Kyu planning to say?</font>
+
+588
+00:46:24,920 --> 00:46:27,050
+<font color="yellow">There is strong evidence
+against him, so...</font>
+
+589
+00:46:27,050 --> 00:46:28,700
+<font color="yellow">I don't think he will completely deny it.</font>
+
+590
+00:46:29,560 --> 00:46:33,010
+<font color="yellow">SG will acknowledge
+they ordered the murder.</font>
+
+591
+00:46:33,010 --> 00:46:35,450
+<font color="yellow">He'll say he didn't hire
+them to murder himself.</font>
+
+592
+00:46:35,450 --> 00:46:39,550
+<font color="yellow">Ohsung ordered it internally and
+he was only delivering the message.</font>
+
+593
+00:46:40,230 --> 00:46:42,370
+<font color="yellow">Ohsung agreed to take the blame?</font>
+
+594
+00:46:42,370 --> 00:46:46,190
+<font color="yellow">Ohsung needs to save SG
+and they need to survive too.</font>
+
+595
+00:46:46,750 --> 00:46:48,850
+<font color="yellow">He's going to be too loyal.</font>
+
+596
+00:46:48,850 --> 00:46:51,890
+<font color="yellow">SG will say they never
+received that message.</font>
+
+597
+00:46:53,630 --> 00:46:55,840
+<font color="yellow">Then won't SG get out of this?</font>
+
+598
+00:46:56,760 --> 00:46:58,500
+<font color="yellow">We have round two with SG.</font>
+
+599
+00:46:58,960 --> 00:47:02,640
+<font color="yellow">We have to get Choi Pil Kyu arrested
+in order to succeed with the mission.</font>
+
+600
+00:47:06,480 --> 00:47:10,700
+<font color="yellow">We are aiming to get at the truth
+and get the facts straight.</font>
+
+601
+00:47:10,700 --> 00:47:14,190
+<font color="yellow">We have decided to give Choi Pil Kyu
+the opportunity to defend himself.</font>
+
+602
+00:47:30,190 --> 00:47:35,170
+<font color="yellow">However, Choi Pil Kyu
+is a party to the case.</font>
+
+603
+00:47:35,520 --> 00:47:38,790
+<font color="yellow">There is a very good chance he would
+lie in order to look innocent.</font>
+
+604
+00:47:39,260 --> 00:47:42,890
+<font color="yellow">We have a lawyer from
+his law firm, Ohsung.</font>
+
+605
+00:47:43,210 --> 00:47:46,680
+<font color="yellow">He is here to tell us
+the entire truth about this case.</font>
+
+606
+00:48:00,370 --> 00:48:02,260
+<font color="yellow">Ask Choi Pil Kyu the first question.</font>
+
+607
+00:48:09,560 --> 00:48:11,790
+<font color="yellow"><i>Jung Hye In, get it together.</i></font>
+
+608
+00:48:11,790 --> 00:48:13,070
+<font color="yellow"><i>Start the questions.</i></font>
+
+609
+00:48:16,330 --> 00:48:17,870
+<font color="yellow">Choi Pil Kyu.</font>
+
+610
+00:48:19,010 --> 00:48:22,940
+<font color="yellow">Do you admit to the charges made
+at you in the video we just saw?</font>
+
+611
+00:48:24,200 --> 00:48:25,390
+<font color="yellow">No.</font>
+
+612
+00:48:27,730 --> 00:48:30,450
+<font color="yellow">Then can you please
+explain what happened?</font>
+
+613
+00:48:31,500 --> 00:48:35,560
+<font color="yellow">That note in the video is a fake.</font>
+
+614
+00:48:36,890 --> 00:48:42,660
+<font color="yellow">Neither SG Group of Ohsung have
+ever hired anyone to carry out a murder.</font>
+
+615
+00:48:42,660 --> 00:48:46,080
+<font color="yellow">I have never been
+involved in such a thing.</font>
+
+616
+00:48:54,580 --> 00:48:57,250
+<font color="yellow">Don't listen to anything he says.
+Move onto Ohsung.</font>
+
+617
+00:48:59,620 --> 00:49:03,680
+<font color="yellow">Your law firm said that you could
+reveal the facts of this case.</font>
+
+618
+00:49:04,170 --> 00:49:06,890
+<font color="yellow">- Is Choi Pil Kyu correct?
+- Yes.</font>
+
+619
+00:49:08,720 --> 00:49:12,040
+<font color="yellow">The man in the video is Lee Yong Hwan.</font>
+
+620
+00:49:12,390 --> 00:49:17,720
+<font color="yellow">He worked at SG Chemical
+from 2006 to 2009.</font>
+
+621
+00:49:18,350 --> 00:49:20,930
+<font color="yellow">His claims have no credibility.</font>
+
+622
+00:49:22,720 --> 00:49:24,730
+<font color="yellow">Why would you say that?</font>
+
+623
+00:49:24,730 --> 00:49:29,140
+<font color="yellow">From 2007 to 2009, he was
+not an employee with integrity.</font>
+
+624
+00:49:29,140 --> 00:49:30,540
+<font color="yellow">Especially in 2009</font>
+
+625
+00:49:30,540 --> 00:49:34,770
+<font color="yellow">he could not work properly
+due to alcoholism and depression.</font>
+
+626
+00:49:34,770 --> 00:49:36,800
+<font color="yellow">He was eventually fired.</font>
+
+627
+00:49:37,710 --> 00:49:41,770
+<font color="yellow"><i>He was very spiteful about
+being fired and spread rumors.</i></font>
+
+628
+00:49:41,770 --> 00:49:45,690
+<font color="yellow"><i>He even threatened SG employees
+and blackmailed them for money.</i></font>
+
+629
+00:49:46,050 --> 00:49:51,420
+<font color="yellow"><i>Because Lee Yong Hwan had mental issues,
+we decided not to pursue a lawsuit.</i></font>
+
+630
+00:49:56,730 --> 00:49:58,970
+<font color="yellow">Can you prove all of that?</font>
+
+631
+00:49:59,450 --> 00:50:04,260
+<font color="yellow">I do have records of a lawsuit that
+we had been preparing against him.</font>
+
+632
+00:50:04,260 --> 00:50:05,950
+<font color="yellow">I can show it to you if needed.</font>
+
+633
+00:50:06,460 --> 00:50:09,180
+<font color="yellow">- Also...
+- What else is there?</font>
+
+634
+00:50:09,690 --> 00:50:11,800
+<font color="yellow">I have a video for you.</font>
+
+635
+00:50:11,800 --> 00:50:14,280
+<font color="yellow">I submitted it before the show.</font>
+
+636
+00:50:14,280 --> 00:50:17,970
+<font color="yellow">Lee Yong Hwan's wife used
+the videos that he left behind.</font>
+
+637
+00:50:17,970 --> 00:50:20,170
+<font color="yellow">It's a video of her using it
+to demand money from us.</font>
+
+638
+00:50:20,460 --> 00:50:22,130
+<font color="yellow">Can you please play it?</font>
+
+639
+00:50:27,120 --> 00:50:28,380
+<font color="yellow">- Don't play it.
+- Play it.</font>
+
+640
+00:50:28,380 --> 00:50:29,540
+<font color="yellow">Shin Dong Wook!</font>
+
+641
+00:50:35,310 --> 00:50:37,430
+<font color="yellow">You punk!</font>
+
+642
+00:50:49,960 --> 00:50:51,510
+<font color="yellow">One more thing.</font>
+
+643
+00:50:51,510 --> 00:50:54,020
+<font color="yellow">Lee Yong Hwan is
+the father of Lee Ji Eun</font>
+
+644
+00:50:54,020 --> 00:50:56,540
+<font color="yellow">the kidnapper's accomplice.</font>
+
+645
+00:50:57,070 --> 00:51:02,810
+<font color="yellow">So, that woman in the video jumped
+off the building and committed suicide.</font>
+
+646
+00:51:03,160 --> 00:51:04,740
+<font color="yellow">That is Lee Ji Eun's mother.</font>
+
+647
+00:51:07,140 --> 00:51:10,090
+<font color="yellow">Can we trust the statement
+of a person like that?</font>
+
+648
+00:51:11,114 --> 00:51:23,114
+<font color="yellow">Synced & ripped by bozxphd
+Subtitles by DramaFever</font>
+
+649
+00:51:24,840 --> 00:51:28,590
+<font color="yellow">Jung Hye In, I'm going
+to play an audio file.</font>
+
+650
+00:51:29,310 --> 00:51:30,890
+<font color="yellow">This story was all Ohsung's idea.</font>
+
+651
+00:51:46,850 --> 00:51:49,470
+<font color="yellow"><i>What does this have
+to do with Choi Pil Kyu?</i></font>
+
+652
+00:51:50,850 --> 00:51:54,800
+<font color="yellow"><i>Listen to the lawyer talking and
+turn it on at the right time.</i></font>
+
+653
+00:51:55,320 --> 00:51:56,850
+<font color="yellow"><i>The viewers will like it.</i></font>
+
+654
+00:51:57,510 --> 00:52:01,730
+<font color="yellow"><i>I need to know what's going
+to be said and what the intent is.</i></font>
+
+655
+00:52:02,410 --> 00:52:05,120
+<font color="yellow"><i>Don't you know about media play
+or fudging the truth a bit?</i></font>
+
+656
+00:52:05,120 --> 00:52:08,630
+<font color="yellow">This audio file that you just heard
+was from before the show.</font>
+
+657
+00:52:08,630 --> 00:52:13,900
+<font color="yellow">That was President Song delivering
+Ohsung's demands to our show's director.</font>
+
+658
+00:52:14,570 --> 00:52:16,630
+<font color="yellow">We weren't making demands.</font>
+
+659
+00:52:16,630 --> 00:52:19,570
+<font color="yellow">Since our evidence does
+not match what is being said...</font>
+
+660
+00:52:19,570 --> 00:52:23,450
+<font color="yellow">I will ask another guest to come out.</font>
+
+661
+00:53:06,500 --> 00:53:10,990
+<font color="yellow">It's better to show people
+what SG has been doing.</font>
+
+662
+00:53:11,910 --> 00:53:13,690
+<font color="yellow">And to show them making their claims.</font>
+
+663
+00:53:14,770 --> 00:53:16,790
+<font color="yellow">Rather than trying to
+prove that it's all a lie.</font>
+
+664
+00:53:18,590 --> 00:53:20,590
+<font color="yellow">Was that your plan from the start?</font>
+
+665
+00:53:21,760 --> 00:53:23,910
+<font color="yellow">Why didn't you consult us?</font>
+
+666
+00:53:25,890 --> 00:53:28,710
+<font color="yellow">I only needed to do it if Ohsung
+didn't follow the plan.</font>
+
+667
+00:53:34,320 --> 00:53:37,010
+<font color="yellow">- Ko Hyung Joon.
+- Yes.</font>
+
+668
+00:53:37,010 --> 00:53:40,720
+<font color="yellow">You came to me after
+Na Soo Hyun threatened you.</font>
+
+669
+00:53:40,720 --> 00:53:43,470
+<font color="yellow">You delivered the fifth mission to me.</font>
+
+670
+00:53:44,110 --> 00:53:45,730
+<font color="yellow">Yes, that's right.</font>
+
+671
+00:53:46,120 --> 00:53:50,330
+<font color="yellow">Seven years ago,
+you were a police detective.</font>
+
+672
+00:53:50,650 --> 00:53:54,460
+<font color="yellow">You were in charge of Na Jae Hyun's
+missing person's case.</font>
+
+673
+00:53:54,760 --> 00:53:55,870
+<font color="yellow">Yes.</font>
+
+674
+00:53:56,120 --> 00:53:58,230
+<font color="yellow">At the time...</font>
+
+675
+00:53:58,230 --> 00:54:03,120
+<font color="yellow">you closed down your case at the order
+of the late commissioner, Lee Tae Kyun.</font>
+
+676
+00:54:03,710 --> 00:54:07,870
+<font color="yellow">I heard you quit your job too.
+Is that correct?</font>
+
+677
+00:54:08,890 --> 00:54:10,120
+<font color="yellow">Yes.</font>
+
+678
+00:54:11,080 --> 00:54:15,520
+<font color="yellow">Is there another side of the story,
+beside what I just said?</font>
+
+679
+00:54:18,230 --> 00:54:21,090
+<font color="yellow">I was able to quit back then because...</font>
+
+680
+00:54:26,040 --> 00:54:32,100
+<font color="yellow">I was able to quit back then because
+Choi Pil Kyu came to visit me.</font>
+
+681
+00:54:33,440 --> 00:54:36,170
+<font color="yellow">He gave me 100 million won.</font>
+
+682
+00:54:38,720 --> 00:54:40,460
+<font color="yellow">That's him right there?</font>
+
+683
+00:54:41,780 --> 00:54:43,140
+<font color="yellow">Yes, that's him.</font>
+
+684
+00:54:46,290 --> 00:54:50,960
+<font color="yellow">I was just a detective with
+a small salary, and I was tired.</font>
+
+685
+00:54:51,400 --> 00:54:53,340
+<font color="yellow">I had no desire to investigate.</font>
+
+686
+00:54:54,620 --> 00:54:57,490
+<font color="yellow">Honestly, I was greedy for money too.</font>
+
+687
+00:55:01,840 --> 00:55:04,070
+<font color="yellow">I've thought about it a lot.</font>
+
+688
+00:55:05,950 --> 00:55:08,880
+<font color="yellow">What if I had investigated
+that case properly?</font>
+
+689
+00:55:09,390 --> 00:55:14,060
+<font color="yellow">If only I had felt a responsibility to
+the victim, this wouldn't have happened.</font>
+
+690
+00:55:16,390 --> 00:55:17,740
+<font color="yellow">I'm sorry.</font>
+
+691
+00:55:19,610 --> 00:55:23,220
+<font color="yellow">I am truly sorry.</font>
+
+692
+00:55:28,680 --> 00:55:30,600
+<font color="yellow">According to Ko Hyung Joon</font>
+
+693
+00:55:30,600 --> 00:55:35,270
+<font color="yellow">Choi Pil Kyu tried to shut down
+the Na Jae Hyun case.</font>
+
+694
+00:55:35,270 --> 00:55:37,370
+<font color="yellow">So, he bribed a detective.</font>
+
+695
+00:55:41,410 --> 00:55:43,610
+<font color="yellow">- Get up.
+- What is this?</font>
+
+696
+00:55:43,610 --> 00:55:44,810
+<font color="yellow">Let go of me!</font>
+
+697
+00:55:45,880 --> 00:55:47,090
+<font color="yellow">Let go!</font>
+
+698
+00:55:47,720 --> 00:55:48,930
+<font color="yellow">Let me go!</font>
+
+699
+00:55:52,610 --> 00:55:54,950
+<font color="yellow">There is a team of police
+waiting outside.</font>
+
+700
+00:55:54,950 --> 00:55:59,290
+<font color="yellow">Choi Pil Kyu will be arrested on the spot
+and will undergo investigation.</font>
+
+701
+00:56:00,520 --> 00:56:01,820
+<font color="yellow">What are you doing?</font>
+
+702
+00:56:02,100 --> 00:56:04,460
+<font color="yellow">- What are you doing?
+- Just follow us.</font>
+
+703
+00:56:08,560 --> 00:56:09,960
+<font color="yellow">Choi Pil Kyu.</font>
+
+704
+00:56:10,760 --> 00:56:13,760
+<font color="yellow">You're under arrest for conspiracy to
+murder Ham Tae Young and Na Jae Hyun</font>
+
+705
+00:56:13,760 --> 00:56:16,090
+<font color="yellow">and for bribery of a police detective.</font>
+
+706
+00:56:18,420 --> 00:56:22,250
+<font color="yellow"><i>Make Choi Pil Kyu pay for the crime
+he committed seven years ago.</i></font>
+
+707
+00:56:24,540 --> 00:56:27,370
+<font color="yellow"><i>We have now completed the eighth mission.</i></font>
+
+708
+00:56:31,600 --> 00:56:33,860
+<font color="yellow">Now, that we have completed
+the eighth mission</font>
+
+709
+00:56:33,890 --> 00:56:40,070
+<font color="yellow">we have figured out what the kidnapper
+wants us to discover through this show.</font>
+
+710
+00:56:43,520 --> 00:56:45,070
+<font color="yellow">However...</font>
+
+711
+00:56:46,380 --> 00:56:49,310
+<font color="yellow">we still have many questions.</font>
+
+712
+00:56:57,530 --> 00:56:59,170
+<font color="yellow">I'm going to use the bathroom.</font>
+
+713
+00:57:11,580 --> 00:57:13,980
+<font color="yellow">Why would SG Group do such a thing?</font>
+
+714
+00:57:14,800 --> 00:57:17,230
+<font color="yellow">Why would they kill their
+own family, Ham Tae Young?</font>
+
+715
+00:57:17,750 --> 00:57:20,160
+<font color="yellow">As well as Na Jae Hyun?</font>
+
+716
+00:57:21,830 --> 00:57:24,130
+<font color="yellow">The night of July 12, 2009.</font>
+
+717
+00:57:25,600 --> 00:57:28,880
+<font color="yellow">Why did Ham Tae Young
+and Na Jae Hyun meet?</font>
+
+718
+00:57:31,380 --> 00:57:35,580
+<font color="yellow"><i>Also, Professor Kim Woo Jin
+from the first mission.</i></font>
+
+719
+00:57:36,160 --> 00:57:38,810
+<font color="yellow"><i>And Ha Dong Min from the second mission.
+How are they involved?</i></font>
+
+720
+00:57:48,670 --> 00:57:50,840
+<font color="yellow">We have received help from the police.</font>
+
+721
+00:57:51,520 --> 00:57:54,400
+<font color="yellow">They have helped us figure out
+Hyun Woo's kidnapper's motive.</font>
+
+722
+00:57:55,000 --> 00:57:58,120
+<font color="yellow">Na Soo Hyun wanted to get revenge on
+those who killed his brother and sister.</font>
+
+723
+00:57:59,540 --> 00:58:02,340
+<font color="yellow">Lee Ji Eun was pained
+by her father's death</font>
+
+724
+00:58:02,340 --> 00:58:05,140
+<font color="yellow">and wanting the world to know the truth.</font>
+
+725
+00:58:07,330 --> 00:58:10,830
+<font color="yellow">The kidnapper may
+be like these accomplices.</font>
+
+726
+00:58:12,090 --> 00:58:15,870
+<font color="yellow">He may have lost a loved one
+and is looking for revenge.</font>
+
+727
+00:58:20,330 --> 00:58:21,470
+<font color="yellow">It's me.</font>
+
+728
+00:58:21,470 --> 00:58:24,040
+<font color="yellow">I'm with Lieutenant Oh Mi Ock.</font>
+
+729
+00:58:25,220 --> 00:58:27,080
+<font color="yellow">I don't know exactly where.</font>
+
+730
+00:58:27,080 --> 00:58:29,250
+<font color="yellow">Jung Hye In and Lieutenant Cha know too.</font>
+
+731
+00:58:32,780 --> 00:58:36,810
+<font color="yellow">Soo Hyun... is dead.</font>
+
+732
+00:58:37,660 --> 00:58:39,790
+<font color="yellow">The people from SG killed him.</font>
+
+733
+00:59:19,350 --> 00:59:21,590
+<font color="yellow">Senior, is something wrong?</font>
+
+734
+00:59:22,350 --> 00:59:25,880
+<font color="yellow">Yes, Lee Ji Eun called
+the kidnapper's burner phone.</font>
+
+735
+00:59:26,760 --> 00:59:30,400
+<font color="yellow">I called but no one's picking up
+and you probably can't trace it.</font>
+
+736
+00:59:31,380 --> 00:59:33,190
+<font color="yellow">I'm sorry. It was my mistake.</font>
+
+737
+00:59:33,730 --> 00:59:38,550
+<font color="yellow">If he knows that Lee Ji Eun's with us
+and that Na Soo Hyun is dead...</font>
+
+738
+00:59:38,880 --> 00:59:40,500
+<font color="yellow">he might do something reckless.</font>
+
+739
+00:59:48,070 --> 00:59:50,160
+<font color="yellow">- What's wrong with Jung Hye In?
+- What is it?</font>
+
+740
+00:59:50,880 --> 00:59:53,230
+<font color="yellow">Park Bo Yeon?
+Is something wrong on set?</font>
+
+741
+01:00:16,810 --> 01:00:18,720
+<font color="yellow">Where is Choi Joon Gu?</font>
+
+742
+01:00:20,430 --> 01:00:21,930
+<font color="yellow">He got a call.</font>
+
+743
+01:01:10,120 --> 01:01:23,010
+<font color="yellow">Synced & ripped by bozxphd
+Subtitles by DramaFever</font>
+
